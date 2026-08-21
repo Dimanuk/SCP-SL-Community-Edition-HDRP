@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 105ab74fbe9ba714cc85032f3c61a861, type: 3}
+  m_Name: Map Spawner Settings
+  m_EditorClassIdentifier:
+  SpawnerDelay: 0.8
+  UnfreezeDelay: 5
+  SpawnableItems:
+  - MinimalAmount: 1
+    MaxAmount: 1
+    MultiplyBySpawnpointsNumber: 0
+    PossibleSpawns: 0d000000
+    RoomNames: 05000000090000000800000007000000
+  - MinimalAmount: 0.5
+    MaxAmount: 4.9
+    MultiplyBySpawnpointsNumber: 0
+    PossibleSpawns: 0000000001000000
+    RoomNames: 05000000080000000a0000000b000000
+  - MinimalAmount: 1.3
+    MaxAmount: 2.9
+    MultiplyBySpawnpointsNumber: 0
+    PossibleSpawns: 03000000
+    RoomNames: 1000000011000000
+  SpawnableStructures:
+  - {fileID: 114470112387431263, guid: a7b8fa69fd8b84f4994ef3694f7dead0, type: 2}
+  - {fileID: 114470112387431263, guid: c0bc3bdcebd31d647a108c9c4ac3d5f5, type: 2}
+  - {fileID: 114470112387431263, guid: 24f4783e45803a341b00821a81fe9680, type: 2}
+  - {fileID: 114470112387431263, guid: 61c4e3f2418e1874a804bb05f07f6863, type: 2}
+  - {fileID: 114094320201520353, guid: 74e39ceb4ca66cf4c92131f2239056f8, type: 2}
+  - {fileID: 114587397909062814, guid: d844bc9011154dc4abf622ecfbee2464, type: 2}
+  - {fileID: 114002669891404536, guid: bcc66a18040179c44b3c928217a42a1a, type: 2}
+  - {fileID: 114472185465350827, guid: 7531b5773998bde4e8a8a0b8725aaf55, type: 2}
+  - {fileID: 114208575754630950, guid: 8a3d853c2e6677244a8234e2fc3b0be3, type: 2}
+  - {fileID: 114061268324235159, guid: 21010e08d811c8046935865ac9d20ea5, type: 2}
+  - {fileID: 114061268324235159, guid: 7dca9a287e5a8594a9895d616118d8fc, type: 2}
+  - {fileID: 114470112387431263, guid: cc29c7cca0a2c8d409b2f9e4d7c20b00, type: 2}
+  - {fileID: 114470112387431263, guid: 644d5d52decca8143aa340f032ec7efc, type: 2}
+  - {fileID: 114470112387431263, guid: d2bc12769341c5a4cb547bf93214d8bb, type: 2}

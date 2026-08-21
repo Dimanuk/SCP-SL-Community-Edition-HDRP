@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: eunoia distortion 3
+  m_Shader: {fileID: 4800000, guid: 829f964f01c35a04085dd5d9ae8886bb, type: 3}
+  m_ShaderKeywords: USE_HEIGHT USE_REFRACTIVE
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3001
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _AlphaMask:
+        m_Texture: {fileID: 2800000, guid: 8747118dfda675244877aa530bb01d24, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _Normal:
+        m_Texture: {fileID: 2800000, guid: ea6f9fc1dfd67ca4b8b3c3dda4251105, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+      _AlphaClip: 10
+      _BumpAmt: 3
+      _BumpScale: 1
+      _ColorStrength: 0.5
+      _CullMode: 0
+      _Cutoff: 1
+      _Cutout: 1.042
+      _CutoutThreshold: 0
+      _DetailNormalMapScale: 1
+      _Distortion: 100
+      _DstBlend: 0
+      _FPOW: 0.3
+      _Fade: 1
+      _FresnelDistort: -300
+      _FresnelPow: 999
+      _FresnelR0: 9
+      _Glossiness: 0.5
+      _Height: 0
+      _Intensity: 2.74
+      _InvFade: 3
+      _Metallic: 0
+      _Mode: 0
+      _OcclusionStrength: 1
+      _OffsetXHeightMap: 0
+      _OffsetYHeightMap: 0
+      _Parallax: 0.02
+      _R0: 0.05
+      _RefractiveStrength: 9
+      _SrcBlend: 1
+      _UVSec: 0
+      _UseAlphaCliping: 0
+      _UseBlending: 0
+      _UseCutout: 0
+      _UseFresnel: 0
+      _UseHeight: 1
+      _UseMainTex: 0
+      _UseRefractive: 1
+      _UseSoft: 0
+      _ZTestMode: 4
+      _ZWrite: 1
+      _ZWriteMode: 0
+    m_Colors:
+      _Color: {r: 0.7381596, g: 0.7806653, b: 0.8161765, a: 1}
+      _CutoutColor: {r: 1, g: 1, b: 1, a: 1}
+      _DropWavesScale: {r: 1, g: 0.5, b: 0, a: 0}
+      _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+      _FresnelColor: {r: 1, g: 1, b: 1, a: 1}
+      _HeightUVScrollDistort: {r: 0, g: 99, b: 99, a: 999}
+      _MainColor: {r: 1, g: 1, b: 1, a: 1}
+      _NoiseScale: {r: 0, g: 0, b: 0, a: 0}
+      _ReflectColor: {r: 1, g: 1, b: 1, a: 0.5}
+      _RimColor: {r: 0.057093438, g: 0.06710122, b: 0.08088237, a: 1}
+      _Speed: {r: 2, g: 15, b: 0, a: 8}
+      _TintColor: {r: 0.9117647, g: 0.9306288, b: 1, a: 1}

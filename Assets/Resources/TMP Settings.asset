@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2705215ac5b84b70bacc50632be6e391, type: 3}
+  m_Name: TMP Settings
+  m_EditorClassIdentifier:
+  m_enableWordWrapping: 1
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  m_enableTintAllSprites: 0
+  m_enableParseEscapeCharacters: 1
+  m_EnableRaycastTarget: 1
+  m_GetFontFeaturesAtRuntime: 1
+  m_missingGlyphCharacter: 0
+  m_warningsDisabled: 1
+  m_defaultFontAsset: {fileID: 11400000, guid: bb35f806fa915cc49b69d27ff3756c31, type: 2}
+  m_defaultFontAssetPath: Fonts & Materials/
+  m_defaultFontSize: 36
+  m_defaultAutoSizeMinRatio: 0.5
+  m_defaultAutoSizeMaxRatio: 2
+  m_defaultTextMeshProTextContainerSize: {x: 20, y: 5}
+  m_defaultTextMeshProUITextContainerSize: {x: 200, y: 50}
+  m_autoSizeTextContainer: 0
+  m_IsTextObjectScaleStatic: 0
+  m_fallbackFontAssets:
+  - {fileID: 11400000, guid: 44e446ee690e8d34ca4f411cc9a3eb84, type: 2}
+  - {fileID: 11400000, guid: f5f6c41983d3cc84dbfcec7d3f3185d5, type: 2}
+  - {fileID: 11400000, guid: 6caf031d49d51bb44a4e41e3639bc6b4, type: 2}
+  - {fileID: 11400000, guid: 9e97b4f277090c34581e7370566c98ca, type: 2}
+  - {fileID: 11400000, guid: 640d79e4fb75f5a40ac307808ba6132b, type: 2}
+  - {fileID: 11400000, guid: 39221b4eb2841a449b01d1cb5803ed88, type: 2}
+  - {fileID: 11400000, guid: 3600dfec3513f944c81387ad9b1f4d26, type: 2}
+  - {fileID: 11400000, guid: b00b4f79ec9fe2642a8c87cec45ff930, type: 2}
+  - {fileID: 11400000, guid: bd5608e885fec904e9f9e23d877ae3ca, type: 2}
+  - {fileID: 11400000, guid: 91ef5d7fe310d75479a8758c17db95be, type: 2}
+  - {fileID: 11400000, guid: e06b439ff42e45849b3d6b485be50464, type: 2}
+  - {fileID: 11400000, guid: bf163e3d27d66e8479d53f597e86dd06, type: 2}
+  - {fileID: 11400000, guid: 4d6b0b06a926b3e4b810afdc8ee2bde4, type: 2}
+  - {fileID: 11400000, guid: 1d0bfc442dd3b184582ccd6a2b54f2e5, type: 2}
+  - {fileID: 11400000, guid: b07cb8f124101ab43829121fdf7e5ad7, type: 2}
+  - {fileID: 11400000, guid: b15d36c687f2e354d80a8e77999c9260, type: 2}
+  m_matchMaterialPreset: 1
+  m_defaultSpriteAsset: {fileID: 11400000, guid: ae7fd2896db45a04a8055c734496a2cd, type: 2}
+  m_defaultSpriteAssetPath: Sprite Assets/
+  m_enableEmojiSupport: 1
+  m_MissingCharacterSpriteUnicode: 0
+  m_defaultColorGradientPresetsPath: Color Gradient Presets/
+  m_defaultStyleSheet: {fileID: 11400000, guid: aeaaa26c98eb7274480b877c63335a0e, type: 2}
+  m_StyleSheetsResourcePath:
+  m_leadingCharacters: {fileID: 4900000, guid: 144cfb99ae5b1c345acee9994dbaf8df, type: 3}
+  m_followingCharacters: {fileID: 4900000, guid: 54e0a8a6cf42f254f9f93bb86f5dfd46, type: 3}
+  m_UseModernHangulLineBreakingRules: 0

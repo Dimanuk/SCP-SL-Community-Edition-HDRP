@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Rollthered_Normal
+  m_Shader: {fileID: 4800000, guid: c68417189da58e94baae0e01f4872569, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _FlameWave:
+        m_Texture: {fileID: 2800000, guid: 7fced80ff8c89484dbe5d5d5c88116b5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _Flamenoise:
+        m_Texture: {fileID: 2800000, guid: f8e2413bddae9f4458d9b1bac83d6fab, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+      _ASEOutlineWidth: 1
+      _Alpha: 0.089
+      _EdgeLength: 50
+      _FlameHeight: 0
+      _Flamehight: 0.03
+      _Float2: 20
+      _FresnelBias: 0
+      _FresnelPower: 5
+      _FresnelScale: 0.068
+      _REEEE: 28
+      _Speed: 0.32
+      _TessPhongStrength: 0.51
+      _TessValue: 20.8
+      _Tesselation: 200
+      _Y_Mask: 0
+      __dirty: 0
+      _u: -0.018
+      _v: -0.105
+    m_Colors:
+      _ASEOutlineColor: {r: 0, g: 0, b: 0, a: 0}
+      _DetailColor: {r: 6.793233, g: 0, b: 0, a: 0}
+      _FlameColor: {r: 2.7789307, g: 0.7274688, b: 0, a: 0}
+      _Flamecolor2: {r: 3.9008152, g: 0.20423116, b: 0, a: 1}
