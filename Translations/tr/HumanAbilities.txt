@@ -1,0 +1,7 @@
+Depar:Hareket hızınızı arttırır, ancak hareket ederken çıkan sesi de arttırır.
+Sinsi:Adımlarınız sessizleşir, beraberinde büyük oranda hız kaybedersiniz.
+Envanter:Envanterini açarsın ve Sol Tık ile topladığın eşyayı seçersin, veya Sağ Tık ile yere bırakabilirsin.
+Korumasız:Hiçbirşeyin yok. Bir şeyler bul. Herhangi bir şey.
+Erişim Kartı:Bir erişim kartın var, en iyisi değil fakat kaybetme.
+Standart Donanım:Bir Tüfek, bir Erişim kartı ve bazı yardımcı öğeler ile donatılırsın.
+Silahlı & Tehlikeli:Ağır silahlar, bir Erişim Cihazı ve tıbbi malzemelerle sevk edildiniz.

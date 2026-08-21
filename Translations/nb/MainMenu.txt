@@ -1,0 +1,91 @@
+BLI MED
+LUKK
+SKYGGEOPPLØSNING
+INNSTILLINGER
+BASERT PÅ <i>SCP: CONTAINMENT BREACH</i>
+TILBAKE
+SPRÅK
+ANTI-ALIASING
+Endre detaljer:\n-ANTALL PIKSEL-LYS - maksimalt antall lyskilder som kan gjengis på individuelle piksler.\n-Vertikal synk - slå på synkronisering av bildefrekvensen mot skjermens oppdateringsfrekvens.
+BLI MED I SPILL
+ETTER-\nBEHANDLING
+MEDVIRKENDE
+AVSLUTT
+Fullskjerm-modus
+SKJERM INNSTILLINGER
+FARGE KORREKSJON
+Skriv inn IP-adresse...
+SKJERMOPPLØSNING
+SPILL
+ANTALL PIKSEL-LYS
+SKYGGETYPE
+SKYGGER
+LAG SPILL
+Endre etterbehandlingsinnstillinger. Disse endringene påvirker ikke ytelsen. Bruk av standardverdier anbefales.
+Lysgjengivelsesmodus:\nNår den er slått av, reduseres grafikkkvaliteten. Deaktivering av denne innstillingen anbefales bare for datamaskiner med lav ytelse.
+VERTIKAL SYNK
+KOBLE TIL
+KVALITETS INNSTILLINGER
+Endre skyggepreferanser. Ved å sette disse sliderene til lavere verdier kan spillet mulig kjøre jevnere.
+HOVEDMENY
+SYNLIG LYS
+BEVEGELSESSLØRING
+SKYGGEDISTANSE
+DETALJER
+3. SCP-914
+OPPLÆRINGER
+ADVARSEL
+Bla gjennom tilgjengelige servere
+Ikke vis den igjen
+Hvordan ønsker du å koble til?
+SERVERLISTE
+OK
+FINN SERVER
+2. Våpenbruk
+Vi bruker Discord som et forum. Ingen installasjon er nødvendig.\n(klikk på logoen for å bli med)
+Som standard vil serveren settes opp på det lokale nettverket.\nVennene dine vil trenge IP-adressen din for å koble til.\nHvis du vil sette opp en offentlig server, kjør LocalAdmin.exe og følg instruksjonene.\nVennligst spør teknisk støtte dersom du har spørsmål. (lenke i hovedmenyen)
+1. Grunnleggende
+Det presenterte spillet er fortsatt i offentlig beta.\nDu kan oppleve tilkoblingsproblemer og mange andre feil.\nGjeldende status gjenspeiler ikke den endelige versjonen.
+4. (flere veiledninger senere)
+DIREKTE TILKOBLING
+TEKNISK STØTTE / FORUM
+LYDVOLUM
+Angi IP-adressen til den spesifikke serveren.
+LASTER NED DATA
+INGEN SERVERE TILGJENGELIG
+TRYKK ESC FOR Å LUKKE / AVBRYTE
+TASTEBINDINGER
+MAKSIMAL BLODMENGDE
+FPS Grense
+FPS-grensen fungerer ikke når vSync er aktivert!
+Angi standard
+Vi bruker Steam Diskusjoner som et forum. (Klikk på logoen nedenfor for å åpne forumet)
+LYD INNSTILLINGER
+HOVEDVOLUM
+MENY MUSIKK
+STEMMECHAT
+LYDEFFEKTER
+SPILL ALTERNATIVER
+RASK INTRO FALMING
+Klasse intro-tekst vil forsvinne mye raskere.
+SCP-079 – BYTT OBSERVASJONS MODUS
+Trykk en gang for å bytte mellom kameramodusene.
+SCP-079 – ETTER-BEHANDLING
+Kamera-effekter vil reduseres betydelig dersom det deaktiveres.
+HODEBEVEGELSE
+Aktiverer flytting av førstepersons kameraet under bevegelse.
+VEKSLE SPRINT
+Sprinting veksler på og av, i stedet for å bli holdt ned.
+SEPARAT KUNSTIG LIV-POENG INDIKATOR
+Gir kunstig helse sin egen indikator i stede for et overlegg.
+Våre oversettelser er åpenkilde på GitHub!\nVil du hjelpe? Klikk her for å få tilgang til repoet.
+RICH PRESENCE
+Om aktivert vil din status bli vist på Discord/Steam.
+VIS EKSAKT LIV-POENG VERDI
+Viser nøyaktige liv-poeng, i stedet for en prosentandel.
+ÅPEN LOBBY
+Hvis aktivert, kan Steam-venner bli med uten tillatelse.
+SKJUL IP
+Hvis aktivert vises ikke alle IP-adresser i klientkonsollen.
+VEKSLE SØK
+Plukke opp vil ikke kreve en holdt knapp, trykk igjen for å avbryte.

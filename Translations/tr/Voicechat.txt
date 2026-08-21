@@ -1,0 +1,23 @@
+YÖNETİCİ TARAFINDAN SUSTURULDU
+BÜTÜN SUNUCULARDAN SUSTURULDU
+YETKİLENDİRİLMEMİŞ
+GİZLİLİK AYARLARINI YAPILANDIR
+Gizlilik ayarlarınızdan dolayı mikrofonunuz devredışı.
+Sesli Sohbet Gizlilik Ayarları
+Bu oyunda sesli sohbet vardır. Bas-konuş tuşlarını (varsayılan "Q" ve "V") kullanmak, mikrofon girişinizi yakalar ve sunucuya bağlı diğer kullanıcılara iletir.\nBazı oyun özellikleri, siz sunucu bağlantınızı kesene kadar iletişiminizin kısa kayıtlarını geçici olarak saklayabilir.
+Tümünü reddet (mikrofon kaydını devredışı bırak)
+Ayarları kişiselleştir
+Tümünü kabul et
+Kabul et
+Reddet
+Mikrofon Kaydı
+Bas-konuş tuşları basılı tutulduğunda oyunun mikrofonunuzu yakalamasına ve kullanıcılara iletmesine izin verin. Ekranın alt kısmında etkin iletimi gösteren bir mikrofon simgesi görüntülenecektir. Oyun, gösterge görünür olmadan asla mikrofonunuzu iletmeyecek veya kullanmayacaktır.
+Kısa Kayıtlar
+Oyun mekaniği icabı sesinizin kısa bir kaydının alınmasına izin verin. Bu, SCP-939'un öldürdüğü oyuncuların seslerinin kısa kayıtlarını oynatabilmesini sağlayan "Binbir Sesli" yeteneğini kapsar. Tüm kayıtlar sunucudan çıktığınız an veya raunt yeniden başladığında silinir.
+Ayarları uygula
+Geri
+"[key]" tuşuna basıp "Ayarlar" sekmesinden ayarla.
+Yaşayan oyuncuları sustur
+Diğer izleyicileri sustur
+Lobiyi sustur
+Raunt sonu herkese açık sohbeti sustur

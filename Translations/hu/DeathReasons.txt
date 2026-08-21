@@ -1,0 +1,32 @@
+Ez <b>[user]</b> teste - a következő volt: [class]!\n\nA halál oka: [cause]
+Újra elzárva.
+Elporlasztva az Alpha Robbanófej által.
+Az életjelek hirtelen megszűntek. Nincs tisztázott sérülés.
+A halál oka ismeretlen.
+Súlyos elektromos égési sérülések.
+Az oxigénhiány fulladásos halálhoz vezetett.
+Nagy vérveszteség mély sérülések következtében.
+Elvéreztél.
+Az összerogyott lábak halálos sérülésekre utalnak, amelyeket egy zuhanás okozhatott.
+Leestél.
+Elveszett a Pocket Dimenzióban.
+Mállás rendkívül korrózív anyag által.
+Betegesen sárga bőrszín és az avas szagok méreg általi halálra utalnak.
+A méreg végzett veled.
+Sápadt arc, illetve a szájból kifolyó vér belső vérzésre utal; egy anyag megemésztése okozhatta.
+SCP-207 végzett veled.
+Nem kellett volna kettőnél többet venned!
+Elkapott egy Tesla Kapu.
+Apró szilánkok és harmadfokú égések egy robbanás által.
+Megölt egy közeli robbanás.
+Masszív sérülések és nagy mennyiségű vérveszteség.
+Nyaki törések a koponya kezdeténél.
+Nagy, mély harapásnyomok lelhetőek fel a testen.
+Tompa sérülések, illetve apró karcolások vannak jelen a testen.
+[ammotype]-es lövedéknyomok.
+Halálos, lapos sérülés; a test erősen meg van csonkítva, illetve pépesítve.
+Számos sérülés nyomai mindkét combcsont körül a keringési rendszer összeomlására utalnak.
+Feláldoztak, hogy újra elzárhassák SCP-106-ot.
+Automatikusan megölve baráti tűz miatt.
+A hideg bőr és dermedt ujjak hipotermia általi halálra utalnak.
+Halálra fagytál.

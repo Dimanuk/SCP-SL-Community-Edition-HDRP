@@ -1,0 +1,27 @@
+Đơn vị MTF Epsilon-11 mang phiên hiệu [designation] đã tiến vào cơ sở.<split>Mọi nhân khẩu còn sót lại hãy thoát hiểm theo quy trình thông thường cho đến khi chạm mặt MTF.<split>
+Đang đợi tái giam giữ: [count] SCP.
+Đang đợi tái giam giữ: 1 SCP.
+Các mối đe dọa vẫn còn trong cơ sở -- luôn đề cao cảnh giác.
+đã bị tiêu diệt thành công. Không rõ nguyên nhân bị tiêu diệt.
+Tiêu diệt bởi SCP-[scp].
+đã bị tiêu diệt thành công bởi Hệ thống bảo vệ tự động.
+đã bị tiêu diệt thành công bởi Đầu đạn hạt nhân.
+tái giam giữ thành công nhờ Nhà khoa học.
+tái giam giữ thành công nhờ Tù nhân.
+tái giam giữ thành công nhờ Tổ chức Ngầm.
+SCP-[scp]
+tái giam giữ thành công. Không rõ danh tính bên giam giữ.
+tái giam giữ thành công. Đơn vị giam giữ [designation].
+mắc kẹt trong quá trình Hủy diệt.
+[current] trong số [max] máy phát điện đã kích hoạt.
+<split>Tất cả các máy phát điện đã được tiếp cận.
+Quá tải dòng điện trong 3... 2... 1...
+Cơ sở đã hoạt động bình thường trở lại.
+Chú ý, tất cả mọi người.<split>Quá trình Hủy diệt khu Giam giữ hạng nhẹ bắt đầu trong T-15 phút.<split>Mọi vật thể sinh học cần được đưa khỏi để tránh bị tiêu diệt.
+Nguy hiểm, khu Giam giữ hạng nhẹ bắt đầu Hủy diệt trong T-[time] phút.
+Nguy hiểm, khu Giam giữ hạng nhẹ bắt đầu Hủy diệt trong T-1 phút.
+Nguy hiểm, khu Giam giữ hạng nhẹ bắt đầu Hủy diệt trong T-30 giây.<split>Tất cả các cửa đã được mở tạm thời. Thoát hiểm ngay lập tức.
+Khu Giam giữ hạng nhẹ đã khóa lại và bắt đầu Hủy diệt.<split>Quá trình tiêu diệt mọi vật thể còn sót lại đã bắt đầu.
+QUY TRÌNH KÍCH HOẠT KHẨN CẤP ĐẦU ĐẠN HẠT NHÂN ĐÃ KHAI TRIỂN.<split>PHẦN DƯỚI LÒNG ĐẤT CỦA CƠ SỞ SẼ BỊ KÍCH NỔ SAU T-[time] GIÂY.
+HỦY BỎ KÍCH NỔ. KHỞI ĐỘNG LẠI HỆ THỐNG
+TIẾP TỤC KÍCH NỔ, T-[time] GIÂY.

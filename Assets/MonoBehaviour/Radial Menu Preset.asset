@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db2fbcb3f67647c94f0ea9e85d00282b, type: 3}
+  m_Name: Radial Menu Preset
+  m_EditorClassIdentifier:
+  MainRings:
+  - {fileID: 21300000, guid: 672566f26f088b14bacbc79d69b2cf81, type: 2}
+  - {fileID: 21300000, guid: 672566f26f088b14bacbc79d69b2cf81, type: 2}
+  - {fileID: 21300000, guid: d111dcde615365845aa1c1329004c3c1, type: 2}
+  - {fileID: 21300000, guid: 9cf6e69ec719c3d49b985c585f4012db, type: 2}
+  - {fileID: 21300000, guid: 328148bf9955dad45b86ec35efe5a8f1, type: 2}
+  - {fileID: 21300000, guid: 0ea860bcefa57a54185b062d787f5f09, type: 2}
+  - {fileID: 21300000, guid: 9ae59993ed49ca34dbe916344a56238f, type: 2}
+  - {fileID: 21300000, guid: 0cd6b580430628742bad68e2aeb32e7c, type: 2}
+  - {fileID: 21300000, guid: 17319faa9ae55b4439af9a192f3ade3f, type: 2}
+  - {fileID: 21300000, guid: 03edba771dad6dc4abe0b03f41e7b7d6, type: 2}
+  - {fileID: 21300000, guid: a88be605cfff6c544aa9169f5d62dddd, type: 2}
+  HighlightTemplates:
+  - {fileID: 21300000, guid: 9b8c85cb4a22d98468af28ee490042d1, type: 3}
+  - {fileID: 21300000, guid: 9b8c85cb4a22d98468af28ee490042d1, type: 3}
+  - {fileID: 21300000, guid: c212ff88aff26c14eafa5d3226011677, type: 3}
+  - {fileID: 21300000, guid: 5098328d6ae852b4697ba61721b8c59c, type: 3}
+  - {fileID: 21300000, guid: 660d015fa4418394b9f1dc2b0faa7bc1, type: 3}
+  - {fileID: 21300000, guid: 6922260e8b557204e92338d07d45156f, type: 3}
+  - {fileID: 21300000, guid: ef3a32148bb9ea24d8596747d5b2ff66, type: 3}
+  - {fileID: 21300000, guid: bb517be03b6544542a10d4d5f2fb3664, type: 3}
+  - {fileID: 21300000, guid: c5da8e0edb73f2c4f9120f06716da76d, type: 3}
+  - {fileID: 21300000, guid: 986a89dc1431209419819ac63ce632db, type: 3}
+  - {fileID: 21300000, guid: 20578bac2b4d06841a32f3585ec4fe77, type: 3}

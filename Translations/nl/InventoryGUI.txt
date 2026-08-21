@@ -1,0 +1,17 @@
+Munitie {0}/{1} {2}
+Schade
+Vuursnelheid
+Heupaccuratie
+ADS-Accuratie
+Gewicht
+Lengte
+LAAT VALLEN:
+Helm Efficiëntie
+Vest Efficiëntie
+Staminagebruik
+Beweegsnelheid
+Voorwerplimieten:
+Munitielimieten:
+{0} totaal
+Schildpenetratie
+Accuratie tijdens Rennen

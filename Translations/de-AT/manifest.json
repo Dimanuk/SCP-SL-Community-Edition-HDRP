@@ -1,0 +1,16 @@
+{
+  "Name": "Deutsch (Österreich) - German (Austria)",
+  "Authors": [
+    "Darüssel",
+    "Real Jeff"
+  ],
+  "InterfaceLocales": [
+    "de-AT"
+  ],
+  "SystemLocales": [
+    "de-AT"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}

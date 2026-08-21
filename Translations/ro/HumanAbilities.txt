@@ -1,0 +1,7 @@
+Sprint:Mărește viteza de mișcare, dar crește și sunetul realizat în mișcare.
+Strecurat:Mișcările tale devin tăcute, cu prețul unei viteze mari.
+Inventar:Deschideți inventarul și selectați un item pe care l-ați preluat folosind click stânga sau renunțați-l folosind click dreapta.
+Neînarmat:Nu ai nimic. Găsește ceva. Orice.
+Cartelă de Acces:Aveți o cartelă de acces, nu este cea mai bună, dar n-o pierdeți.
+Problemă Standard:Sunteți echipat cu o Armă, o Cartelă de Acces, și câteva obiecte utilitare.
+Armat și periculos:Ați fost trimis cu arme grele, un Dispozitiv de Acces și materiale medicale.

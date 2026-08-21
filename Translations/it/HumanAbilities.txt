@@ -1,0 +1,7 @@
+Sprint:Incrementa la tua velocità di movimento, a discapito del suono dei tuoi passi.
+Spia:Il tuo movimento risulterà silenzioso, al costo della tua velocità.
+Inventario:Apri il tuo inventario, seleziona un oggetto, col tasto sinistro per prenderlo in mano, col tasto destro per lasciarlo cadere a terra.
+Disarmato:Non hai niente. Trova qualcosa. Qualsiasi cosa.
+Tessera magnetica:Hai una tessera magnetica, non è la migliore ma non perderla.
+Equipaggiamento standard:Sei equipaggiato con un arma da fuoco, una tessera magnetica, e molti oggetti utili.
+Armato & Pericoloso:Ti è stata consegnata una Mitragliatrice leggera, una scheda d'accesso, ed un Kit di Pronto Soccorso.

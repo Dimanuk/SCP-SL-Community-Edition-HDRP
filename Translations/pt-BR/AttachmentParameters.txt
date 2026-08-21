@@ -1,0 +1,21 @@
+ADS Zoom
+---
+Dano
+Penetração
+Taxa de disparos
+Coice
+Coice mirando
+Precisão das balas
+Precisão sem mirar
+Precisão mirando
+Velocidade para equipar
+Barulho do tiro
+Capacidade do pente
+Tempo para equipar
+Tempo para recarregar
+---
+Velocidade para mirar
+Propagação das balas
+Consistência do padrão
+Número de Projéteis
+Velocidade de recarregamento

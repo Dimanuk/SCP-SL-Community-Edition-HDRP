@@ -1,0 +1,8 @@
+SCP-096 uysal başlar, eğer ki birisi ona zarar verir veya suratına bakarsa öfkelenir. SCP-096'ya öfkesi sakinleşene dek bu suçluların ışıltısını takip etmesine yardımcı olacak bir kaç yeteneğe sahip olur.
+Ağlamamaya Çalış:İlerlemek zordur… fakat bir şeye yaslanmak sakinleşmene yardımcı olur, ister saklanmak için… isterseniz de birinin gelmesini beklemek için.
+Düz Vuruş:Sizi incitenlere ulaşmak için yolunuza çıkan her şeyi parçalayın. Saldırılarınız kapıları yok edecek ve insanları yaralayacaktır.
+Hücum:Onların kaçışlarını kısa kes — bunu hakettiler. Kısa bir masefeye atılırsınız, yolunuza çıkan her şeyi yıkıp geçin.
+Sadece Öfkeliyken
+Sadece Uysalken
+Öfkelenmek için [key] tuşuna basılı tutun.
+Öfkeyi zorla bitirmek için [key] tuşuna basılı tutun.

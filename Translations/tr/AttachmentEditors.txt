@@ -1,0 +1,18 @@
+Özel
+Kayıt #[index]
+KAYDET
+EKLENTİLERİ KALDIR
+Varsayılan
+HAZIR AYARLAR
+İŞ İSTASYONU - <color=#c00>ÇEVRİMDIŞI</color>
+<color=#ccc>SITE-02 ATEŞLİ SİLAH ÖZELLEŞTİRME NOKTASI</color> - BEKLEME MODU ETKİNLEŞTİRİLDİ\n<size=39>ETKİNLEŞTİRMEK İÇİN EKRANA DOKUNUN. <color=#ccc>SADECE YETKİLİ PERSONEL.</color></size>
+HOŞ GELDİNİZ, KULLANICI!
+İŞ İSTASYONU AÇILIYOR
+İŞ İSTASYONU - <color=#0c0>HAZIR</color>
+<size=52><color=#ccc>SITE-02 ATEŞLİ SİLAH ÖZELLEŞTİRME NOKTASI</color> - HAZIR</size>\n<size=42><color=#ccc>EKLENTİLERİNİ DEĞİŞTİRMEK İÇİN LÜTFEN SİLAHINIZI KUŞANIN.</color></size>
+GÜÇ KESİLİYOR
+İŞ İSTASYONU KAPANIYOR
+AÇIKLAMAYI GÖSTER
+AÇIKLAMAYI KAPAT
+[Attachment] Özelleştirme
+Eklentileri düzenlemek için [Key] tuşuna basınız.

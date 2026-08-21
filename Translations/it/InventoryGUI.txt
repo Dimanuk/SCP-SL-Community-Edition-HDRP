@@ -1,0 +1,17 @@
+Munizioni {0}/{1} {2}
+Danno
+Rateo di Fuoco
+Precisione fuoco libero
+Precisione di mira
+Peso
+Ampiezza
+Fai cadere:
+Efficienza dell'Elmetto
+Efficienza del Giubbotto
+Stamina impiegata
+Velocità di movimento
+Limite degli oggetti:
+Limite delle munizioni:
+{0} complessivamente
+Penetrazione Corazza
+Precisione

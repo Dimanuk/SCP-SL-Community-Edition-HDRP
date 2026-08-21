@@ -1,0 +1,17 @@
+{
+  "Name": "Latviešu - Latvian",
+  "Authors": [
+    "Rainers"
+  ],
+  "InterfaceLocales": [
+    "lv-LV",
+    "lv"
+  ],
+  "SystemLocales": [
+    "lv-LV",
+    "lv"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}

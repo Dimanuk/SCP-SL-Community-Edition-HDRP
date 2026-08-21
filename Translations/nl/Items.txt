@@ -1,0 +1,41 @@
+0~Schoonmaker Sleutelkaart
+1~Wetenschapper Sleutelkaart
+2~Onderzoeksmanager Sleutelkaart
+3~Zonemanager Sleutelkaart
+4~Bewaker Sleutelkaart
+5~MTF Cadet Sleutelkaart
+6~Celingenieur Sleutelkaart
+7~MTF Sergeant Sleutelkaart
+8~MTF Kapitein Sleutelkaart
+9~Faciliteitmanager Sleutelkaart
+10~Chaos Insurgency Toegangsapparaat
+11~O5-level Sleutelkaart
+12~Radio
+13~COM-15
+14~EHBO Kit~Heelt je wonden.
+15~Zaklamp~Laat er licht zijn!
+16~Micro H.I.D.~Mobiele hoge-intensiteit electrische ontladingswerper.
+17~SCP-500~Het wondermiddel.
+18~SCP-207~Verbetert schadelijk motoriek.
+20~MTF-E11-SR
+21~Crossvec
+23~FSP-9
+24~Logicer
+25~Granaat~Boem!
+26~Flitsgranaat~Verblindt je vijanden.
+30~COM-18
+31~SCP-018~Superbal,stuitert met extreme efficiëntie.
+32~SCP-268~Wanneer het gedragen wordt, maakt het je tijdelijk onzichtbaar tenzij het onderbroken wordt door interactie van een gebruiker.
+33~Adrenaline~Verhoogt tijdelijk het uithoudingsvermogen.
+34~Pijnstillers~Verlicht kleine verwondingen.
+35~Munt~Je weet niet waarom je dit meeneemt.
+36~Licht Schild
+37~Gevechtsschild
+38~Zwaar Schild
+39~.44 Revolver
+40~AK
+41~Shotgun
+42~Zak met Snoepjes~Een zak met de volgende snoepjes:
+43~SCP-2176~Je eigen Ghostlight! Voorzichtig, zeer breekbaar...
+44~SCP-244-A~Een ijskoude antieke vaas. Creëert een grote wolk van ijzige mist wanneer geplaatst.
+45~SCP-244-B~Een ijskoude antieke vaas. Creëert een grote wolk van ijzige mist wanneer geplaatst.

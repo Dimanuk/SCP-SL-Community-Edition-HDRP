@@ -1,0 +1,18 @@
+{
+  "Name": "Magyar - Hungarian",
+  "Authors": [
+    "asderman",
+    "Axwabo"
+  ],
+  "InterfaceLocales": [
+    "hu-HU",
+    "hu"
+  ],
+  "SystemLocales": [
+    "hu-HU",
+    "hu"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}

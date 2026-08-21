@@ -1,0 +1,16 @@
+Tùy chỉnh
+Set đồ #[index]
+LƯU
+GỠ TẤT CẢ PHỤ KIỆN
+Mặc định
+SET ĐỒ
+WORKSTATION - <color=#c00>OFFLINE</color>
+<color=#ccc>ĐIỂM TINH CHỈNH VŨ KHÍ SITE-02</color> - CHẾ ĐỘ CHỜ\n<size=39>CHẠM VÀO MÀN HÌNH ĐỂ KÍCH HOẠT. <color=#ccc>CHỈ DÀNH CHO NGƯỜI ĐƯỢC CẤP PHÉP.</color></size>
+XIN CHÀO, USER!
+WORKSTATION ĐANG KHỞI ĐỘNG
+WORKSTATION - <color=#0c0>SẴN SÀNG</color>
+<size=52><color=#ccc>ĐIỂM TINH CHỈNH VŨ KHÍ SITE-02</color> - SẴN SÀNG</size>\n<size=42><color=#ccc>CẦM VŨ KHÍ LÊN ĐỂ CHỈNH SỬA PHỤ KIỆN.</color></size>
+ĐANG TẮT NGUỒN
+WORKSTATION ĐANG TẮT NGUỒN
+HIỆN TÓM TẮT
+ĐÓNG TÓM TẮT

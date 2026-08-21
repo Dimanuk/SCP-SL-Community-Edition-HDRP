@@ -1,0 +1,19 @@
+ADS míření
+---
+Poškození
+Průbojnost munice
+Rychlost střelby
+Zpětný ráz
+Zpětný ráz při míření
+Přesnost střel
+Přesnost při střelbě bez míření
+Přesnost míření
+Rychlost zařízení zbraně
+Hlasitost střelby
+Kapacita zásobníku
+Doba vybavení
+Doba dobití
+---
+Rychlost míření
+Rozptyl kulek
+Konzistence vzoru

@@ -1,0 +1,38 @@
+Ateş et
+Yakınlaştır
+Zıpla
+Etkileşim
+Envanter
+Şarjör değiştir
+Koş
+Sesli Sohbet
+Yavaş Yürüme
+İleri Hareket
+Geri Hareket
+Sola Hareket
+Sağa Hareket
+Oyuncu Listesi
+Karakter Bilgisi
+Admin Paneli
+Fener Aç/Kapa
+Alternatif Sesli Sohbet
+Noclip
+Konsol
+Kart Kısayolu
+İncele
+Altıpatlar Kurma
+Eşya Fırlatma
+Birincil Silah Kısayolu
+İkincil Silah Kısayolu
+Tıbbi Eşya Kısayolu
+Oyun Arayüzünü Gizle
+Noclip Sisini Değiştir
+Bomba Kısayolu
+Menü
+Hata Günlüğü
+Serbest Bakış Modu (SCP-079)
+Kapıyı Kilitle (SCP-079)
+Tüm Kilitleri Aç (SCP-079)
+Karartma (SCP-079)
+Karantina (SCP-079)
+İşaretle (SCP-079)

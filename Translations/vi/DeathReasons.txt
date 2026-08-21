@@ -1,0 +1,31 @@
+Thi thể của <b>[user]</b> - Thi thể này từng là [class]!\n\nNguyên nhân chết: [cause]
+Bị tái giam giữ.
+Nghiền nát bởi đầu đạn hạt nhân.
+Mất sự sống đột ngột. Không rõ nguyên nhân.
+Không rõ nguyên nhân chết.
+Giật điện.
+Chết do thiếu oxy.
+Mất máu vì vết thương nặng.
+Bạn đã mất quá nhiều máu.
+Cẳng chân bị nghiền nát nên có thể chết do ngã.
+Bạn đã bị ngã.
+Bị phân rã trong Không gian Túi.
+Nghiền nát bởi áp suất cao.
+Chết do trúng độc với biểu hiện da vàng và nặng mùi.
+Chất độc đã giết bạn.
+Da tái nhợt và máu chảy từ miệng nên có thể đã bị ngộ độc.
+SCP-207 đã giết bạn.
+Đáng lẽ không nên dùng quá 2 lần!
+Bạn đã bị Cổng điện đánh trúng.
+Mảnh vỡ và vết bỏng từ một vụ nổ.
+Bạn đã bị giết bởi chất nổ.
+Vết rách lớn và mất máu nhiều.
+Nứt gãy nặng ở xương.
+Vết cắn lớn hiện rõ trên thi thể.
+Vết bầm và xước trên thi thể.
+Bị đạn[ammotype]bắn.
+Tổn thương nghiêm trọng, thi thể đã bị cắt xén hoặc nghiền nhỏ.
+Tổn thương ở hai xương đùi, chết do sốc tim.
+Bạn đã hi sinh để giam giữ SCP-106.
+Tự động bị giết vì bắn đồng đội.
+Da lạnh và bàn tay đông cứng nên có thể do mất nhiệt.

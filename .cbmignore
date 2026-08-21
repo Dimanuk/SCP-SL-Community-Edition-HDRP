@@ -1,0 +1,9 @@
+# codebase-memory-mcp ignore rules
+# CODES/ contains decompiled reference dumps (ClientCode/ServerCode .txt, SCP13.0 reference) —
+# not compiled into the project, reference material only. See CLAUDE.md.
+/CODES/
+
+# Root Tools/ contains standalone helper scripts (e.g. LocalCentralServer, ReadGameAssembly.ps1) —
+# not part of the Assembly-CSharp game code. Anchored to root so it does NOT match
+# in-engine Tools subfolders like Assets/Mirror/Core/Tools (real compiled code).
+/Tools/

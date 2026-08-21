@@ -1,0 +1,17 @@
+A partida acabou!
+VITÓRIA DOS SCPs
+VITÓRIA DA FUNDAÇÃO
+VITÓRIA DA INSURGÊNCIA
+EMPATE
+Os indivíduos fugitivos invadiram a instalação. A resposta de emergência foi codificada.
+Todas as ameaças à segurança foram neutralizadas. Site-02 está seguro novamente.
+A presença da Fundação foi exterminada. Agentes aguardando novas ordens.
+Sítio-02 está sob certo controle, todavia com um preço. O vencedor é indeterminado.
+[summary_d_escaped] Classe-D(s) escaparam
+[summary_s_escaped] Cientista(s) sobreviveram
+A detonação da Ogiva Alfa acabou com [summary_warhead_kills] seres.
+A Ogiva Alfa não foi detonada durante esta missão.
+A missão levou [summary_round_minutes] minutos e [summary_round_seconds] segundos.
+[summary_scp_terminated] SCPs eliminados.
+Próxima rodada iniciando em [summary_next_round_countdown] segundos.
+Os SCPs mataram [summary_scpfrags] seres humanos.

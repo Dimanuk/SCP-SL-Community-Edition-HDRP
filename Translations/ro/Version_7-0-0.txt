@@ -1,0 +1,5 @@
+AI MURIT
+Apasă {KEYBINDING_INTERACTION} să plasezi <color=yellow>Tabletă Manager de Arme</color>.
+Apasă {KEYBINDING_INTERACTION} să iei <color=yellow>Tabletă Manager de Arme</color>.
+Această <color=yellow>stație de lucru</color> deja folosește <color=yellow>Tableta Manager de Arme al altcuiva</color>.
+Îți trebuie o <color=yellow>Tabletă Manager de Arme</color> să folosești această <color=yellow>stație de lucru</color>.

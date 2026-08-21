@@ -1,0 +1,10 @@
+<color=green>DESCHIS</color>
+<color=#07A2FF>ÎNCHIS</color>
+<color=orange>ÎN MIȘCARE</color>
+<color=red>BLOCAT</color>
+<color=red>EROARE</color>
+<color=red>ACCES NEGAT</color>
+<color=green>ACCESS ACORDAT</color>
+<color=#07A2FF>NECESITĂ CARTELĂ DE ACCES</color>
+<color=orange>TRECI TE ROG</color>
+<color=orange>ÎNCHIDERE</color>

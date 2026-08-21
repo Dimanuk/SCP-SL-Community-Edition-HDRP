@@ -1,0 +1,48 @@
+VOLUM VOCE
+Da
+FORȚARE START
+SCP-106 REIZOLARE\nSUPRASCRIEREA PROCEDURII
+Inversare Y-axis
+REZUMAT
+Anulare
+I N V E N T A R
+LUMINOZITATE
+SETĂRI
+DECONECTARE
+ALFA WARHEAD ESTE DEZACTIVATĂ
+ACCES NEGAT
+CHAT VOCAL
+SUPRASOLICITARE DE INVENTAR
+SENSIBILITATE MOUSE
+HACKING
+RIDICÂND...
+Creșterea luminozității <b>înrăutățește în mod semnificativ starea de spirit </b>a jocului.\nÎncercați să setați această valoare cât mai scăzută.\n<b>Se recomandă valoarea implicită.</b>
+[1] DESCHIDE/ÎNCHIDE UȘA\n[2] BLOCHEAZĂ UȘA*\n\n*Închuierea ușei folosește abilități speciale
+UȘA A FOST BLOCATĂ DE SCP-079
+Mod fullscreen
+Ești sigur că vrei să ieși din server?
+Opțiuni de bază. Lista plină de setări în meniu.
+AȘTEPTÂND JUCĂTORI
+REZUMAT
+CONTINUARE
+VOLUM PRINCIPAL
+conectat
+Ai scăpat ca un Om de Știință și intrat în unitățile MTF.
+Ai scăpat ca un Clas-D și intrat în Insurgența Haosului.
+TU EȘTI
+Timp scăpare: [escape_minutes] minute și [escape_seconds] secunde
+Așteaptă [time] până poți să folosești [item] iarăși.
+Apasă <color=yellow><b>F1</b></color> pentru ajutor.
+Ai fost capturat.\n<size=40>Urmați ordinele sau cereți ajutor membrilor echipei.</size>
+Ai fost recapturat de Nine-Tailed Fox.\nCu o amenințare mai puțină în instalație, au putut să se întărească.
+Ai fost luat ca un prizonier ca un om de știință de Insurgența Haosului.\nEi au putut obține un avantaj din informațiile pe care le-ați dat.
+RUNDA ÎNCEPE ÎN: <color=yellow>{0}</color>s
+ÎNCEPEREA RUNDEI ESTE <color=#FF5050>ÎNTRERUPTĂ</color>
+REDUCERE SENS. ȚINTIRE
+Apasă [key] pentru a anula aruncarea.
+Toggle ADS
+Dezactivează Chat-ul Spectatorilor
+Activați reducerea zgomotului (recomandat)
+Automat (Implicit De Sistem)
+Niciun Microfon Detectat!
+DISPOZITIV DE INTRARE

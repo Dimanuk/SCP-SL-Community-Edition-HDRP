@@ -1,0 +1,5 @@
+SCP-173-ov strašni izgled komanduje pažnju. Postajući jako opasan kada se ne gleda, Skulptura traži svjedoka svo vrijeme.
+Vrtoglavne Brzine:Svo pomjeranje je jako ubrzano, ali ne možete napasti nešto. Vi možete ovo isključiti bilo kada, ali će se isključiti i kad vas neko vidi. Gurajte napred, ili pobjegnite trenom oka.
+Treptaj:Kada oko postane crveno, držite i pustite sliku tamo gdje se želite teleportovati. Pustite da se teleportujete do željene lokacije, ubijajući odmah nekog čovjeka ako su blizu lokacije gdje ste se teleportovati. Svjedoci koji se usude da trepnu će platiti cijenu.
+Armirani Beton:Vaše betonsko tijelo stoji visoko protiv vandala. Nisko penetracijsko oružije vam veoma malo naudi. Mogu da se dive, ali nikad da dodirnu.
+Tantrum:Ako vas niko ne gleda, vi napraite lokvu prvljaštvine što uspori ljude. Nedostatak gledaoca vas ljudti; sigurno će ovo dati pažnje.

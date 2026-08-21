@@ -1,0 +1,7 @@
+Corrida:Aumenta a sua velocidade, mas também aumenta o som emitido enquanto se move.
+Furtividade:Seus movimentos se tornam silenciosos, mas move-se lentamente.
+Inventário:Abra seu inventário e selecione um item que você pegou usando LMB ou solte-o usando RMB.
+Desarmado:Você não tem nada. Ache algo. Qualquer coisa.
+Cartão de Acesso:Você tem um cartão de acesso, não é o melhor, mas não perca-o.
+Protocolo Padrão:Você está equipado com uma Arma, um Cartão de Acesso e alguns itens utilitários.
+Armado & Perigoso:Foi concedido à você Armamento Pesado, uma Ferramenta Hacker (Cartão de Acesso) e Suprimentos Médicos.

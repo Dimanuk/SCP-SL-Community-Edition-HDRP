@@ -1,0 +1,17 @@
+Amuniție {0}/{1} {2}
+Damage
+Rata Focului
+Precizie Hip
+Precizie ADS
+Greutate
+Lungime
+SCAPĂ:
+Eficacitatea Căștii
+Eficacitatea Vestă
+Utilizarea Rezistenței
+Viteza Mișcării
+Limite de Iteme:
+Limite de Amuniție:
+{0} totale
+Penetrare Armură
+Precizie Fugire

@@ -1,0 +1,37 @@
+0~Karta Údržbáře
+1~Karta Vědce
+2~Karta Vedoucího výzkumu
+3~Karta Správce Zóny
+4~Karta Stráže
+5~Karta Vojína MTF
+6~Karta Containment Inženýra
+7~Karta Seržanta MTF
+8~Karta Kapitána MTF
+9~Karta Vedoucího Institutu
+10~Přístupové Zařízení Vzbouřenců Chaosu
+11~Karta Řady-O5
+12~Vysílačka
+13~COM-15
+14~Balíček První Záchrany~Vyléčí tvoje zranění. (65 HP)
+15~Svítilna~Budiž světlo!
+16~Micro H.I.D.~Mobilní vrhač vysoce intenzivních elektrických výbojů.
+17~SCP-500~Všelék. Výléčí jakékoly zranění a nemoc! (Všechny HP)
+18~SCP-207~Bolestivě zvyšuje fyzické schopnosti.
+20~MTF-E11-SR
+21~Crossvec
+23~FSP-9
+24~Logicer
+25~Vysoce-Výbušný Granát~Boom!
+26~Zábleskový Granát~Oslepí tvé nepřátele.
+30~COM-18
+31~SCP-018~Super míč, který se odráží s extremní účinností.
+32~SCP-268~Při nošení tě dočasně zneviditelní. Efekt zkončí po jakékoli interakci uživatele.
+33~Adrenalin~Dočasně zvýší výdrž.
+34~Prášky Na Bolest~Zmírní drobná zranění. (45 HP)
+35~Koruna~Nejsi jistý, proč bys tohle nosil u sebe...
+36~Lehká Vesta
+37~Bojová Vesta
+38~Težká Vesta
+39~.44 Revolver
+40~Kalašnikov
+41~Brokovnice

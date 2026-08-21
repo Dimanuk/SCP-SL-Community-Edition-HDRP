@@ -1,0 +1,101 @@
+INTRĂ
+ÎNCHIDE
+REZOLUȚIA UMBRELOR
+SETĂRI
+BAZAT PE <i>SCP: CONTAINMENT BREACH</i>
+ÎNAPOI
+LIMBĂ
+ANTIALIASING
+Modificați detaliile:\n-NUMĂRUL DE LUMINĂ PIXELI - Numărul maxim de surse de lumină care au lumina redată pe pixeli individuali.\n-V-Sync - Activați sincronizarea cu rata de reîmprospătare a dispozitivului de afișare.
+INTRĂ ÎN JOC
+POST\nPROCESSING
+CREDITE
+IEȘI DIN JOC
+Mod Fullscreen
+SETĂRI ECRAN
+CORECȚIE DE CULOARE
+Intră Adresa IP...
+REZOLUȚIE ECRAN
+JOACĂ
+NUMĂR DE LUMINĂ A PIXELOR
+TIP DE UMBRĂ
+UMBRE
+CREAZĂ JOC
+Modificați setările post-procesare. Aceste setări nu afectează, în general, performanța, se recomandă lăsarea valorilor implicite.
+Mod de redare ușoară:\nCând este oprit, calitatea grafică este redusă semnificativ. Dezactivarea acestei setări este recomandată numai pentru computerele slabe.
+V-SYNC
+CONECTEAZĂ-TE
+SETĂRI DE CALITATE
+Schimbați preferințele pentru umbră. Setarea acestor glisoare la valori mai mici poate crește netezimea jocului.
+MENIU PRINCIPAL
+RENDER DE LUMINI
+BLUR DE MOȚIUNE
+DISTANȚĂ UMBRE
+DETALII
+3. SCP-914
+TUTORIALE
+PERICOL
+Răsfoiește server-urile valabile
+Nu arăta iarăși
+Cum ai dori să te conectezi?
+NAVIGARE SERVERE
+OK
+CAUTĂ MECI
+2. Folosind arme
+Folosim Discord ca forum. Nu este necesară instalarea.\n(faceți click pe sigla pentru a vă alătura)
+În mod implicit, serverul se va configura în rețeaua locală.\nPrietenii dvs. vor avea nevoie de adresa IP directă pentru a se conecta.\nDacă doriți să configurați un server public, selectați LocalAdmin.exe și urmați instrucțiunile. \nDacă aveți întrebări, vă rugăm să întrebați asistența noastră tehnică (link în meniul principal)
+1. Bazele
+Jocul prezentat înca este în beta publică. \nAi putea avea probleme de conexiune și multe buguri. \nStarea actuală nu reflectează versiunea finală.
+4. (mai multe tutoriale mai târziu)
+CONECTARE DIRECTA
+TECH SUPORT / FORUM
+VOLUM SUNET
+Intră adresa IP a serverului specific.
+DESCĂRCARE DATA
+NICIUN SERVER VALABIL
+APASĂ ESC SĂ ÎNCHIZI / ANULEZI
+BINDING DE BUTOANE
+CANTITATE MAXIMĂ DE SÂNGE
+Limită de FPS
+Limita de FPS nu funcționează când vSync este activat!
+Setează Default
+Folosim Steam Discussion ca un forum. (Apasă pe sigla de mai jos pentru a deschide forumul)
+SETĂRI AUDIO
+VOLUM PRINCIPAL
+MUZICA MENIULUI
+CHAT VOCAL
+EFECTE DE SUNETE
+OPȚIUNI GAMEPLAY
+DISPARIȚIE RAPIDĂ DE INTRODUCERE
+Scris de introducere a clasei va dispărea mult mai rapid.
+SCP-079 - TOGGLE MOD DE VIZUALIZARE
+Apasă o dată pentru a schimba între moduri de cameră.
+SCP-079 - POST-PROCESARE
+Dacă dezactivat, efecte de cameră vor fi reduse puternic.
+MIȘCARE DE CAP
+Activează mișcare de cameră în first-person în mișcare.
+TOGGLE SPRINT
+Toggles Sprinting-ul on și off, în loc de a fi ținut.
+BARĂ DE HP ARTIFICIALĂ SEPARATĂ
+Dă HP-ul artificial propria bară de viață, în loc de un overlay.
+Traducerele noastre sunt open-source pe GitHub!\nVrei să ajuți? Apasă aici sa accesezi.
+PREZENȚĂ BOGATĂ
+Dacă activat, status-ul tău va fi arătat pe Discord/Steam.
+ARATĂ VALOAREA EXACTĂ DE HP
+Arată HP-ul exact, în loc de un procent.
+LOBBY PUBLIC
+Dacă activat, prietenii tăi steam pot să se alătureze fără permisiunea ta.
+ASCUNDE IP
+Dacă activat, orice IP în consola client nu va fi arătată.
+TOGGLE CĂUTARE
+Ridicând un item nu va necesita un buton ținut; apasă iarăși să anulezi.
+Aplică umbre fine colțurilor și zonelor înguste pentru a da modelelor mai multă adâncime.
+Oferă mediului mai multă profunzime la un cost de performanță mare.
+Oferă luminii mai multă profunzime prin aplicarea unei străluciri bazată pe intensitatea luminii.
+Toggle pentru a afișa subtitrări pentru anunțurile cassie.
+Iluminează taskbar-ul când te spaunezi dacă jocul nu este focalizat.
+Netezește liniile și scoate distorsiunile vizuale.
+Sincronizează FPS-ul jocului cu rata de reîmprospătare a monitorului pentru a opri ruperea ecranului.
+Texturi proiectate, cum ar fi găuri de gloanțe sau stropi de sânge.
+Toggle Modul Întunecat
+Toggle pentru a schimba unele elemente luminoase în versiunile lor cu tematică întunecată.

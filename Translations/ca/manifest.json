@@ -1,0 +1,20 @@
+{
+  "Name": "Català - Catalan",
+  "Authors": [
+    "ThiEstoRil"
+  ],
+  "InterfaceLocales": [
+    "ca-ES",
+    "ca"
+  ],
+  "SystemLocales": [
+    "ca-AD",
+    "ca-FR",
+    "ca-IT",
+    "ca-ES",
+    "ca"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}

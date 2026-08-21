@@ -1,0 +1,20 @@
+{
+  "Name": "Suomi - Finnish",
+  "Authors": [
+    "Blad3z",
+    "Doge",
+    "Zathor",
+    "Argus"
+  ],
+  "InterfaceLocales": [
+    "fi-FI",
+    "fi"
+  ],
+  "SystemLocales": [
+    "fi-FI",
+    "fi"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}

@@ -1,0 +1,4 @@
+AVERTIZARE
+OKAY
+<b>Intel graphics</b> au fost detectate care <b>nu sunt suportate</b>.\nEste <b>recomandat</b> să folosești <b>plăci video</b> non integrate.\nJocul ar putea <b>să dea eroare</b> cu acest setup.
+Un update de sistem important care este necesitat de chat vocal nu poate fi găsit. Te rog fi sigur că Windows este updatat la dată, dacă nu jocul ar putea să nu funcționeze cum trebuie. Dacă această problemă continuă, vă rog contactați echipa noastră de tech pentru asistență.

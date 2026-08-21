@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: COM15_BoltCatch
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/camera
+    m_Weight: 0
+  - m_Path: Armature/hand.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/index1.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/index1.L/index2.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/index1.L/index2.L/index3.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/middle1.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/middle1.L/middle2.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/middle1.L/middle2.L/middle3.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/pinky0.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/pinky0.L/pinky1.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/pinky0.L/pinky1.L/pinky2.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/pinky0.L/pinky1.L/pinky2.L/pinky3.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/ring0.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/ring0.L/ring1.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/ring0.L/ring1.L/ring2.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/ring0.L/ring1.L/ring2.L/ring3.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/thumb1.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/thumb1.L/thumb2.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/thumb1.L/thumb2.L/thumb3.L
+    m_Weight: 0
+  - m_Path: Armature/hand.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/index1.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/index1.R/index2.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/index1.R/index2.R/index3.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/middle1.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/middle1.R/middle2.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/middle1.R/middle2.R/middle3.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/pinky0.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/pinky0.R/pinky1.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/pinky0.R/pinky1.R/pinky2.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/pinky0.R/pinky1.R/pinky2.R/pinky3.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/ring0.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/ring0.R/ring1.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/ring0.R/ring1.R/ring2.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/ring0.R/ring1.R/ring2.R/ring3.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/thumb1.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/thumb1.R/thumb2.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/thumb1.R/thumb2.R/thumb3.R
+    m_Weight: 0
+  - m_Path: Armature/pole.L
+    m_Weight: 0
+  - m_Path: Armature/pole.R
+    m_Weight: 0
+  - m_Path: Armature/root
+    m_Weight: 0
+  - m_Path: Armature/root/arm.L
+    m_Weight: 0
+  - m_Path: Armature/root/arm.L/forearm.L
+    m_Weight: 0
+  - m_Path: Armature/root/arm.R
+    m_Weight: 0
+  - m_Path: Armature/root/arm.R/forearm.R
+    m_Weight: 0
+  - m_Path: Armature/root/grip
+    m_Weight: 0
+  - m_Path: Armature/root/grip/Flashlight Spot Light
+    m_Weight: 0
+  - m_Path: Armature/root/grip/barrel
+    m_Weight: 1
+  - m_Path: Armature/root/grip/magazine
+    m_Weight: 0
+  - m_Path: Armature/root/grip/magazine/bullet
+    m_Weight: 1
+  - m_Path: Armature/root/grip/magazine/mag empty
+    m_Weight: 0
+  - m_Path: Armature/root/grip/release
+    m_Weight: 1
+  - m_Path: Armature/root/grip/slide
+    m_Weight: 1
+  - m_Path: Armature/root/grip/slide/safety back
+    m_Weight: 1
+  - m_Path: Armature/root/grip/slide/safety warning
+    m_Weight: 1
+  - m_Path: Armature/root/grip/trigger
+    m_Weight: 0
+  - m_Path: Armature/root/grip/Muzzle Flashes (1)
+    m_Weight: 0
+  - m_Path: Armature/root/grip/Muzzle Flashes (1)/LowCal_Flash
+    m_Weight: 0
+  - m_Path: Armature/root/grip/Muzzle Flashes (1)/LowCal_Flash/sparks
+    m_Weight: 0
+  - m_Path: Armature/root/grip/Muzzle Flashes (1)/LowCal_Flash/barrel flash short (with light)
+    m_Weight: 0
+  - m_Path: Armature/root/grip/Muzzle Flashes (1)/LowCal_Flash/barrel flash short (with light)/Point Light
+    m_Weight: 0
+  - m_Path: Armature/root/grip/Muzzle Flashes (1)/LowCal_Flash/barrel gas sprite sheet
+    m_Weight: 0
+  - m_Path: Armature/root/grip/Muzzle Flashes (1)/LowCal_Flash/'barrel gas '
+    m_Weight: 0
+  - m_Path: Armature/root/grip/Muzzle Flashes (1)/LowCal_Supp
+    m_Weight: 0
+  - m_Path: Armature/root/grip/Muzzle Flashes (1)/LowCal_Supp/sparks
+    m_Weight: 0
+  - m_Path: Armature/root/grip/Muzzle Flashes (1)/LowCal_Supp/barrel flash short (with light)
+    m_Weight: 0
+  - m_Path: Armature/root/grip/Muzzle Flashes (1)/LowCal_Supp/barrel flash short (with light)/Point Light
+    m_Weight: 0
+  - m_Path: Armature/root/grip/Muzzle Flashes (1)/LowCal_Supp/barrel gas sprite sheet
+    m_Weight: 0
+  - m_Path: Armature/root/grip/Muzzle Flashes (1)/LowCal_Supp/'barrel gas '
+    m_Weight: 0
+  - m_Path: Armature/root/grip/Muzzle Flashes (1)/Casings
+    m_Weight: 0
+  - m_Path: ruger
+    m_Weight: 0
+  - m_Path: ruger/ruger_bullet
+    m_Weight: 0
+  - m_Path: ruger/ruger_extendedMag
+    m_Weight: 0
+  - m_Path: ruger/ruger_flashlight
+    m_Weight: 0
+  - m_Path: ruger/ruger_mag
+    m_Weight: 0
+  - m_Path: ruger/ruger_silencer
+    m_Weight: 0

@@ -1,0 +1,21 @@
+ADS nagyítás
+---
+Sebzés
+Átütés
+Tűzgyorsaság
+Visszarúgás
+Visszarúgás célzás közben
+Lőszer pontossága
+Csípőtüzelési pontosság
+Célzási pontosság
+Felszerelési gyorsaság
+Lövés hangossága
+Tár kapacitása
+Felszerelési idő
+Újratöltési idő
+---
+Célzási idő
+Sörétek szórása
+Szórási minta kiszámíthatósága
+Lövetek száma
+Újratöltési sebesség

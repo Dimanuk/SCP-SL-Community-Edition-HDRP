@@ -1,0 +1,6 @@
+<color=red>Tilgang nektet</color>
+Nådd grensen på <color=yellow>[type] ammunisjon</color> (<color=yellow>[max_type_count] kuler</color>).
+<b>Allerede</b> nådd grensen på <color=yellow>[type] ammunisjon</color> (<color=yellow>[max_type_count] kuler</color>).
+Nådd grensen på <color=yellow>[type]</color> (<color=yellow>[max_type_count] utstyr</color>).
+<b>Allerede</b> nådd grensen på <color=yellow>[type]</color> (<color=yellow>[max_type_count] utstyr</color>).
+Bare <color=yellow>[max_item_count] ting</color> kan blir fraktet.

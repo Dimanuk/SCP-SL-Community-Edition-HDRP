@@ -1,0 +1,44 @@
+0~Pristupna Kartica Spremača
+1~Pristupna Kartica Naučnika
+2~Pristupna Kartica Nadzornog Istraživača
+3~Pristupna Kartica Menadžera Zone
+4~Pristupna Kartica Čuvara
+5~Pristupna Kartica MTF Kadeta
+6~Pristupna Kartica Inžinjera 
+7~Pristupna Kartica MTF Poručnika
+8~Pristupna Kartica MTF Komandanta
+9~Pristupna Kartica Menadžera Objekta
+10~Prictupni Uređaj Chaos Insurgency
+11~Pristupna Kartica O5
+12~Radio
+13~COM-15
+14~Prva Pomoć~Izlječi vaše rane.
+15~Baterijska Lampa~Neka tu bude svjetla!
+16~Mikro H.I.D.~Mobilni Visoko-Intezitetski Bacač Električne Energije.
+17~SCP-500~Panacea.
+18~SCP-207~Bolno unapredi pokretne funkcije.
+20~MTF-E11-SR
+21~Crossvec
+23~FSP-9
+24~Logiser
+25~Visoko Ekpslozivana Granata~Bum!
+26~Flešbeng~Onesposobi vid vašim neprijateljima.
+30~COM-18
+31~SCP-018~Super-loptica koja može da se odbija od zidove sa velikom silom.
+32~SCP-268~Kada se nosi, privremeno vas napravi nevidljivim za nekoliko sekundi ili ako vi nešto uradite.
+33~Adrenalin~Privremeno unapredi izdržljivost.
+34~Tablete Protiv Bolova~Oprovai lagane povrede.
+35~Novčić~Niste sigurni zašto ovo imate uz sebe...
+36~Lagani Pancir
+37~Borbeni Pancir
+38~Teški Pancir
+39~.44 Revolver
+40~AK
+41~Pumparica
+42~Kesica Bombona~Kesica koja sadrži sljedeće bombone:
+43~SCP-2176~Vaše Duh-Svjetlo, veoma osjetljivo...
+44~SCP-244-A~Veoma stara vazna, kad se otovri ispusti hladan oblak.
+45~SCP-244-B~Veoma stara vazna, kad se otovri ispusti hladan oblak.
+46~SCP-1853~Unapredi manipulaciju sa puškama
+47~3-X Disruptor Molekula
+48~COM-45

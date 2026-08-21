@@ -1,0 +1,7 @@
+Raportează Jucător
+Țintă:\nID-ul jucătorului:\nDescriere:
+Anulează
+Raportează pentru stricarea regulilor serverului
+Raportează pentru trișare sau raiding
+RAPORTÂND
+Te rog Așteaptă...

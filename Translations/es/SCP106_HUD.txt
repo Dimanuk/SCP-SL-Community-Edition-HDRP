@@ -1,0 +1,8 @@
+ENFRIAMIENTO DE ATAQUE
+No disponible en la Superficie.
+No disponible en un elevador en movimiento.
+Una fuerza imparable capaz de burlar con facilidad cualquier puerta de la instalación.
+Captura: Atrapas a un humano a corta distancia, enviándolo dentro de tu Dimensión de Bolsillo, una prisión mortal dictada por tus reglas. El placer de capturar nuevas presas alimenta el Vigor.
+Acechar: Te sumerges en el suelo. Muévete rápida e invisiblemente, regenérate y prepárate para atacar a tu presa. Usa el Vigor, que se regenera lentamente mientras el Acecho está inactivo.
+Mapa del Cazador: Te desplazas de manera instantánea a una sala cercana o a tu cámara de contención, con un gran coste de Vigor. Este desplazamiento es instintivo, ya que llevas mucho tiempo merodeando por los pasillos del Sitio.
+Agonía Placentera: Mientras Acechas, sólo puedes ver a los humanos que estén heridos. Cuanto mayor sea su agonía, mayor será la distancia a la que puedes verlos. Los que escapan de tu Dimensión de Bolsillo están traumatizados, por lo que son visibles desde cualquier lugar.

@@ -1,0 +1,22 @@
+{
+  "Name": "Italiano - Italian",
+  "Authors": [
+    "Lycan",
+    "Terminator97",
+    "Alessandro \"Bay\" C."
+  ],
+  "InterfaceLocales": [
+    "it-IT",
+    "it"
+  ],
+  "SystemLocales": [
+    "it-IT",
+    "it-SM",
+    "it-CH",
+    "it-VA",
+    "it"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}

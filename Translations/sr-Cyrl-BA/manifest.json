@@ -1,0 +1,18 @@
+{
+  "Name": "Serbian Cyrillic (Bosnia and Herzegovina)",
+  "Authors": [
+    "Lazar Oroz",
+    "Gibu"
+  ],
+  "InterfaceLocales": [
+    "sr-Cyrl-BA",
+    "sr-Latn-BA"
+  ],
+  "SystemLocales": [
+    "sr-Cyrl-BA",
+    "sr-Latn-BA"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}

@@ -1,0 +1,38 @@
+Spara
+Mira
+Salta
+Usa / Interagisci
+Inventario
+Ricarica
+Correre
+Chat Vocale
+Accovacciarsi
+Avanti
+Dietro
+Sinistra
+Destra
+Lista degli utenti
+Informazioni carattere
+Remote Admin
+Torcia
+Radio
+Noclip
+Console di gioco
+Tasto di scelta rapida delle Tessere magnetiche
+Ispeziona
+Carica del grilletto della Revolver
+Lancia oggetto
+Tasto di scelta rapida dell'arma Primaria
+Tasto di scelta rapida dell'arma Secondaria
+Tasto di scelta rapida dei Medicinali
+Nascondi la GUI (Graphical User Interface)
+Togli la nebbia nella Noclip-mode
+Tasto di scelta rapida delle Granate
+Menu di pausa
+Log di Debug
+Modalità Free Lock
+Bloccare una porta
+Sbloccare tutte le porte
+Blackout
+Isolamento
+Segnala la posizione

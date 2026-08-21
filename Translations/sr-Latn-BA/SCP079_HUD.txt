@@ -1,0 +1,74 @@
+ZUMIRANjE [amount]x
+PRISTUPNI NIVO [tier]
+XP [current] / [next]
+MAKSIMALNI PRISTUPNI NIVO DOSTIGNUT
+NEMA KAMERE
+IDI DO: [camera] ([cost])
+NEMA DOVOLjNO UNUTRAŠNjE STRUJE
+KPV: [time] sekundi
+VIŠI PRISTUP POTREBAN
+NE VALjA KAMERA
+PRISTUP VRATIMA ODBIJEN
+OTVORI VRATA ([cost])
+ZATVORI VRATA ([cost])
+ZAKLjUČAJ VRATA ([cost])
+ODKLjUČAJ VRATA
+ČEKAJTE PRIJE NEGO ŠTO OPET ZAKLjUČATE
+UNUTRAŠNjA STRUJA
+VI STE POD NAPADOM!
+ODKLjUČAJ SVA VRATA ([num] total)
+OTVORI MAPU OBJEKTA
+ZATVORI
+LAKA ZADRŽILAČKA ZONA
+TEŠKA ZADRŽILAČKA ZONA
+ULAZNA ZONA
+SPOLjAŠNjA ZONA
+UGASI SVJETLA ([cost])
+GAŠENjE SVJETLA NEDOSTUPNO ZA OVU PROSTORIJU
+OGRANIČENjE GAŠENjA SVJETLA DOSTIGNUT
+ČEKAJTE PRIJE NEGO ŠTO OPET UGASITE
+POŠALjI LIFT ([cost])
+ZAKLjUČAJ SVE ([cost])
+ČEKAJ PRIJE NEGO ŠTO OPET ZAKLjUČATE SVE
+NEMA DOSTUPNIH VRATA ZA ZAKLjUČAVANjE SVEGA
+OZNAČI LOKACIJU ([cost])
+BRZINA OZNAČIVANjA DOSTIGNUTA
+MJENjANjE KAMERE NEUSPJEŠNO
+SIGNAL IZGUBLjEN
+POVEZIVANjE (KPV: [time]s)
+UPALI ELEKTRIČNU KAPIJU ([cost])
+ČEKAJTE PRIJE NEGO ŠTO OPET UPALITE
+$PRISTUPNI NIVO [tier]$ - DOSTIGNUT
+$UNUTRAŠNjA STURJA$ ograničenje povišeno do $[limit]$.
+$GAŠENjE SVJETLA$ sada dostupno - pritisnite $[key]$ da ugasite svjetla u prostoriji.
+$GAŠENjE SVJETLA$ kapacitet u isto vrijeme povišen na $[number]$ soba.
+$ZAKLjUČAJ SVE$ sada dostupan - pritisni $[key]$ da privremeno zaključaš sva vrata u prostoriji.
++[amount] EXP - Admin komanda
++[amount] EXP - Pomoć ka ubijanju Klase-D Osoblja
++[amount] EXP - Pomoć ka ubijanju Naučnika
++[amount] EXP - Pomoć ka ubijanju Stražara
++[amount] EXP - Pomoć ka ubijanju Nine-Tailed Fox-a
++[amount] EXP - Pomoć ka ubijanju Chaos Insurgency-a
++[amount] EXP - Pomoć ka ubijanju Čovjeka
++[amount] EXP - Vidjeo ubijanje nečega od strane prijatelja
++[amount] EXP - Pomoć ka ganjanju nečega sa prijateljom
++[amount] EXP - Zaštita prijatelja
++[amount] EXP - Zabranio korišćenje Mikro H.I.D.
+KAMERA DOSTUPNA
+GAŠENjE SVJETLA ČITAVE ZONE([cost])
+$GAŠENjE SVJETLA ZONE$ sada dostupno - pored naziva zoni kod $Mape Objekta.
+ČEKANjE PRIJE GAŠENjE SVJETLA ZONE
+SVJETLA SU VEĆ UGAŠENA
+GAŠENjE SVJETLA NIJE DOSTUPNO ZA OVU ZONU
+UKUPNO ŽIVIH BIĆA
+METI
+SCP SUBJEKATA
+CIVILA
+VOJSKE
+KORISTI ZVUČNIK
+PRISTUP LIFTU JE ODBIJEN
+SCP-079 nema direktne borbene ili pokretne sposobnosti. Umjesto toga, gledate i komunicirate sa svijetom preko sigurnosnih kamera nađenih u svakoj prostoriji. Sve dostupne sposobnosti su navedene u gornjem desnom uglu vašeg ekrana.
+Praktično neuništiv:U zoni Teškog Zadržavanja postoji tri agregata. Ako se svi uključe, možete biti zardžani u vašoj sobi. Agregati imaju sekvencu odbrojavanja koji se može prekinuti pritiskom na dugme "poništavanje" na agregatu.
+Neograničen pristup:Možete manipulisati brojnim sistemima u objektu da pomognete drugim SCP-evima. Gornji desni ugao ekrana pokazuje koje su sposobnosti dostupne. Ove sposobnosti koštaju unutrašnju struju (US) za koršćenje, koji se regeneriše nakon nekog vremena. 
+Duboko učenje:Pomaganje u uklanjanju, ili izvođenje korisnih radnji za druge SCP-eve pružiće ti iskustvo ka novom nivou pristupa. Svaki novi nivo pruža više US, i daje vam nove sposobnosti.
+Pod stražom:Biti svuda i nigde pruža vam jedinstvenu perspektivu. Možete označiti lokacije, ljude i objekte od interesa, što vam omogućava da pomognete u klanju. 

@@ -1,0 +1,21 @@
+Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#F00>SCPs.</color><color=#FFFF00>\nHalte deine Zieltaste gedrückt, während du beobachtet wirst um zu Blinzeln.\nDu hast eine leichte Resistenz gegen Schusswaffenschaden und regenerierst allmählich deinen Hume Schild.</color>
+Entkomme der Einrichtung.\nKooperiere mit der <color=#008F1E>Chaos Insurgency.</color>\nMeide andere Fraktionen.
+Du wirst bald wiederbelebt.
+Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#F00>SCPs.</color><color=#FFFF00>\nDu kannst durch Türen laufen.\nLinksklick schadet deinen Gegnern und teleportiert sie in deine "Pocket Dimension".\nHalte TAB um deine Teleportations-Fähigkeiten aufzurufen.</color>
+Hilf' <color=#FFFF7CFF>Wissenschaftlern</color> zu entkommen.\nNeutralisiere andere Fraktionen.\nGib deinen Soldaten Anweisungen. \nFolge den Anweisungen deiner Vorgesetzten.
+Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#F00>SCPs.</color><color=#FFFF00>\nKlicke Linksklick auf Menschen um sie sofort, mit einem Cooldown, zu töten.\nInteragiere mit einem kürzlich verstorbenen Spieler um Ihn wiederzubeleben und Ihn zu einem verbündeten Zombie zu machen.</color>
+Entkomme der Einrichtung.\nKooperiere mit dem <color=#0096FF>MTF.</color>\nMeide andere Fraktionen.
+Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#F00>SCPs.</color>
+Hilf' dem <color=#FF8E00>Klasse-D Personal</color> zu entkommen.\nNeutralisiere andere Fraktionen.
+Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#F00>SCPs.</color>
+Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#F00>SCPs.</color><color=#FFFF00>\nLinksklick um jemanden zu töten.</color>
+Hilf' <color=#FFFF7CFF>Wissenschaftlern</color> zu entkommen.\nNeutralisiere andere Fraktionen.\nGib deinen Soldaten Anweisungen. \nFolge den Anweisungen deiner Vorgesetzten.
+Hilf' <color=#FFFF7CFF>Wissenschaftlern</color> zu entkommen.\nNeutralisiere andere Fraktionen.\nGib deinen Soldaten Anweisungen.
+Hilf' <color=#FFFF7CFF>Wissenschaftlern</color> zu entkommen.\nNeutralisiere andere Fraktionen.\nFolge den Anweisungen deiner Vorgesetzten.
+Folge den Anweisungen um dein Ziel zu vervollständigen.
+Hilf' <color=#FFFF7CFF>Wissenschaftlern</color> zu entkommen.\nKooperiere mit dem <color=#0096FF>MTF.</color>\nNeutralisiere andere Fraktionen.
+Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#F00>SCPs.</color>
+Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#F00>SCPs.</color>
+Hilf' dem <color=#FF8E00>Klasse-D Personal</color> zu entkommen.\nNeutralisiere andere Fraktionen.
+Hilf' dem <color=#FF8E00>Klasse-D Personal</color> zu entkommen.\nNeutralisiere andere Fraktionen.
+Hilf' dem <color=#FF8E00>Klasse-D Personal</color> zu entkommen.\nNeutralisiere andere Fraktionen.

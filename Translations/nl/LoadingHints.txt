@@ -1,0 +1,63 @@
+Je kunt een speler ontwapenen door interactie met hem aan te gaan terwijl je een vuurwapen vasthoudt.
+Er zijn vier hoofdzones in de faciliteit: Light Containment, Heavy Containment, Entree, en Oppervlakte.
+Wetenschappers en D-Klasse moeten de oppervlakte bereiken om te ontsnappen.
+De ingangszone heeft twee poorten, die toegang geven tot de oppervlakte. Je hebt een sleutelkaart nodig om ze te openen.
+Het gebruik van een lift is een snelle en gemakkelijke manier om aan de meeste SCP's te ontsnappen.
+Ontsnapte D-Klasse gaan bij de Chaos-opstandelingen, terwijl ontsnapte Scientists MTF worden.
+Adrenaline kan worden gebruikt om je uithoudingsvermogen onmiddellijk op te frissen en geeft je voordeel in gevechten.
+Radio's hebben vier bereikinstellingen. Hoe groter het bereik, hoe sneller de batterij leeg is.
+Mobile Task Force eenheden en Chaos Opstandelingen arriveren aan tegenovergestelde uiteinden van de Oppervlakte Zone.
+De Alpha Warhead doodt alles binnen de faciliteit wanneer het ontploft. Hij kan worden geactiveerd vanaf de Oppervlakte Zone.
+De Alpha Warhead detonatiesequentie kan worden geannuleerd vanuit de kamer in Heavy Containment.
+De Intercom kamer in de Ingangszone kan gebruikt worden om een gesproken boodschap uit te zenden naar alle spelers.
+Je kunt voorwerpen gooien ("T" als standaard). Dit kan worden gebruikt om keycard-deuren van een afstand te openen of om glas te breken.
+De Light Containment zone gaat na 15 minuten op slot; iedereen die nog binnen is wordt gedood. Ontsnap nu het nog kan!
+Maximaliseer je voordeel door je wapenaccessoires aan te passen aan de situatie waarin je je bevindt.
+Hoe meer hulpstukken een wapen heeft, hoe zwaarder het wordt. Dit beïnvloedt het uithoudingsvermogen en de bewegingssnelheid.
+Onderdrukkers dempen niet alleen geweerschoten, ze verbergen ook mondingsflitsen.
+Langere en zwaardere wapens zijn minder nauwkeurig als ze tijdens het lopen worden afgevuurd.
+Het dragen van kogelvrije vesten verhoogt het aantal voorwerpen en munitie die je kunt dragen.
+Pantserdoorborende kogels (AP) werken het best tegen gepantserde doelen.
+Holle-puntkogels (JHP) brengen meer schade toe aan ongewapende doelen, maar zijn zwakker tegen pantsers.
+Houd de herlaadtoets ingedrukt om een wapen te lossen en de munitie aan je inventaris toe te voegen.
+Chaos Insurgency wapens zijn krachtig, maar hun munitie komt niet in de Facility voor. Wees zuinig!
+Granaten kunnen worden gebruikt om deuren te vernietigen.
+Granaten kunnen met minder kracht worden gegooid door de rechtermuisknop te gebruiken.
+De Micro H.I.D. kan de meeste SCP's zeer snel doden, maar heeft een beperkte stroomtoevoer. Gebruik hem verstandig!
+De Micro H.I.D. moet ongeveer 5 seconden worden opgeladen voor hij kan vuren.
+Door de rechtermuisknop ingedrukt te houden, blijft de Micro H.I.D. in de vuur-klare toestand; langzaam wordt energie afgetapt.
+De Micro H.I.D. maakt veel lawaai tijdens het opladen. Zorg ervoor dat je hem gebruikt als je doelwit niet kan wegrennen.
+Het opladen van de Micro H.I.D. produceert een intimiderend geluid dat genoeg is om de plannen van je vijanden te verijdelen.
+Een fles SCP-207 verhoogt niet alleen je bewegingssnelheid, maar herstelt ook gedeeltelijk je gezondheid.
+Je kunt maximaal vier flessen SCP-207 drinken, waardoor je snelheid aanzienlijk toeneemt.
+SCP-500 geneest je niet alleen, maar verwijdert ook de meeste negatieve effecten, en zorgt daarna voor regeneratie.
+Terwijl SCP-268 u onzichtbaar maakt voor alle mensen, kunnen SCP-079 en SCP-939 u nog steeds opmerken.
+SCP-268 redt u niet van SCP-096 als u hem hebt aangekeken.
+SCP-018 is zeer onvoorspelbaar. Als hij wordt gegooid, zoek dan dekking.
+SCP-018 kan gebruikt worden om achtervolgers af te weren als je door een gang stuitert.
+SCP-914 kan alle voorwerpen verwisselen, inclusief wapens en munitie.
+SCP-914 kan radio's en de Micro H.I.D. opladen.
+SCP-079 begint relatief zwak, maar wordt krachtiger naarmate de wedstrijd vordert.
+SCP-079 kan deuren vergrendelen, lichten uitzetten en tesla-gates overladen.
+Een tesla poort die bekeken wordt door SCP-079 zal altijd actief lijken.
+SCP-079 kan het licht niet uitdoen in een kamer met een kapotte deur.
+SCP-079 wordt opnieuw ingesloten met behulp van generatoren gevonden in Heavy Containment, en een laatste knop in zijn insluitingskamer.
+Een camera die gebruikt wordt door SCP-079 zal blauw opgloeien. Je weet nooit wanneer hij kijkt.
+SCP-173 kan zich vrij bewegen in donkere kamers, zelfs als er naar hem gekeken wordt. Breng een zaklamp mee.
+SCP-173 kan heimelijk van achteren doden.
+SCP-173 kan een plas creëren die mensen vertraagt die erdoorheen lopen - en zo een snelle en efficiënte gebiedsontzegging creëren.
+SCP-106 is bestand tegen kogels, maar niet tegen explosieven en elektriciteit.
+SCP-106 kan snel opnieuw in bedwang worden gehouden met behulp van de dijbeenbreker die zich in zijn insluitingskamer bevindt.
+SCP-106 kan door deuren en glazen ramen lopen.
+SCP-096 is op z'n zwakst als hij net tot rust is gekomen.
+SCP-096 kan in woede naar voren stormen, deuren openbreken en doelen doden.
+De SCP-096 vernietigt deuren en wrikte gesloten poorten open als hij woedend is.
+De beet van de SCP-939 wordt niet beïnvloed door kogelvrije vesten.
+De SCP-939 veroorzaakt geheugenverlies bij mensen die hij bijt; hun zicht wordt donkerder.
+De SCP-939 kan oneindig sprinten en is volledig stil tijdens het lopen.
+De SCP-939 is stil als hij loopt, waardoor hij een perfect roofdier is.
+De voetstappen van de SCP's zijn anders dan die van mensen. Luister goed.
+SCP-049 kan elke mens onmiddellijk doden als hij dichtbij komt.
+SCP-049 kan alleen lijken reanimeren als ze vers zijn.
+SCP-049-2 is kwetsbaar voor headshots.
+SCP-049-2's zijn goede verkenners en gevaarlijk in grote getallen.

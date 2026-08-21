@@ -1,0 +1,22 @@
+Doces
+Doce Arco-Íris
+É um pedaço duro de doce de pedra, embalado com todos os tipos de sabores.
+Concede um grande número de pequenos bônus, incluindo regeneração de saúde, revigoramento e AHP.
+Doce Amarelo
+O cheiro avassalador de limão faz você se retrair um pouco.
+Permite que você se mova mais rápido e corra mais por um curto período de tempo.
+Doce Roxo
+Tem um cheiro suculento de uva. Sua boca começa à salivar.
+Concede resistência temporária a danos e regenera lentamente a saúde.
+Doce Vermelho
+Um forte aroma de cereja enche a sala. É ligeiramente... <i>tão</i> forte.
+Restaura rapidamente sua saúde.
+Doce Verde
+Um cheiro desagradável de ervas emana do doce.
+Fornece uma regeneração duradoura da saúde e imunidade temporária à maioria dos efeitos de status.
+Doce Azul
+Tem um cheiro suave e doce, algo semelhante a um maxemelo.
+Concede uma barreira temporária.
+Doce Rosa
+O aroma de morango é tão suave quanto parece.
+- R E D I G I D O -

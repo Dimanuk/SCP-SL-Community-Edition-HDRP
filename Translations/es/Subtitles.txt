@@ -1,0 +1,27 @@
+Destacamento Móvil Epsilon-11 designación [designation] ha ingresado en las instalaciones.<split>Se aconseja a todo el personal restante que proceda con los protocolos estándares de evacuación hasta que un escuadrón del DM llegue a su ubicación.<split>
+Esperando la recontención de: [count] sujetos SCP.
+Esperando la recontención de: 1 sujeto SCP.
+Existen amenazas substanciales para la seguridad en las instalaciones. Proceda con precaución.
+eliminado con éxito. Causa de la eliminación sin especificar.
+eliminado por SCP-[scp].
+eliminado con éxito por los sistemas automáticos de seguridad.
+eliminado con éxito por la Ojiva Alfa.
+contenido con éxito por el personal Científico.
+contenido con éxito por el personal Clase-D.
+contenido con éxito por la Insurgencia del Caos.
+SCP-[scp]
+contenido con éxito. Unidad de contención desconocida.
+contenido con éxito. Unidad de contención [designation].
+extraviado en la Secuencia de Descontaminación.
+[current] de [max] generadores activados.
+<split>Todos los generadores han sido activados con éxito.
+Sobrecarga en 3... 2... 1...
+Las instalaciones vuelven a estar en modo operacional.
+Atención a todo el personal.<split>La Descontaminación General de la Zona de Contención Ligera comenzará en T-15 minutos.<split>Todas las sustancias biológicas deben ser retiradas para evitar su destrucción.
+Peligro, la descontaminación general de la Zona de Contención Ligera comenzará en T-[time] minutos.
+Peligro, la descontaminación general de la Zona de Contención Ligera comenzará en T-1 minuto.
+Peligro, la descontaminación general de la Zona de Contención Ligera comenzará en T-30 segundos.<split>Todas las puertas de los puntos de control se han abierto de forma permanente. Por favor, evacue inmediatamente.
+La Zona de Contención Ligera esta bloqueada y lista para la descontaminación.<split>La eliminación de sustancias orgánicas ha empezado.
+SECUENCIA DE DETONACIÓN DE EMERGENCIA DE LA OJIVA ALFA ACTIVA.<split>LA SECCIÓN SUBTERRÁNEA DE LAS INSTALACIONES SERÁ DETONADA EN T-[time] SEGUNDOS.
+DETONACIÓN CANCELADA. REINICIANDO SISTEMAS.
+SECUENCIA DE DETONACIÓN REANUDADA, T-[time] SEGUNDOS.

@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 7f2d9454f4d1f2547837f116346b56b7
+timeCreated: 1776604373
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  externalObjects: {}
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Noto Sans Arabic
+  fontNames:
+  - Noto Sans Arabic
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 1
+  output:
+    hasEmptyFontData: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData:
+  assetBundleName:
+  assetBundleVariant:

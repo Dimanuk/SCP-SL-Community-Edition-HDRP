@@ -1,0 +1,17 @@
+Lőszer {0}/{1} {2}
+Sebzés
+Tűzgyorsaság
+Csípő Pontosság
+ADS Pontosság
+Súly
+Hosszúság
+ELDOB:
+Sisak Hatékonysága
+Mellény Hatékonysága
+Állóképesség-használat
+Mozgás Sebessége
+Tárgy Limit:
+Lőszer Limit:
+{0} összesen
+Páncélátütés
+Futási Pontosság

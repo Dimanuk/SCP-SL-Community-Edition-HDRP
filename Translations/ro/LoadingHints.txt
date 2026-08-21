@@ -1,0 +1,63 @@
+Puteți dezarma un jucător interacționând cu acesta în timp ce țineți o armă în mână.
+Sunt patru zone principale în Facilitate: Light Containment, Heavy Containment, Entrance, și Surface.
+Oamenii de Știință și Clas-D trebuie să ajungă la surface pentru a putea scăpa.
+Zona de entrance are două porți, care oferă acces la surface. Veți avea nevoie de o cartelă de acces pentru a le deschide.
+Folosind un lift este o metodă rapidă și ușoară de a scăpa de majoritatea SCP-urilor.
+Clas-D scăpați intru în Insurgența Haosului, în timp ce Oamenii de Știință devin MTF.
+Adrenalina poate fi folosită să îți reîncarce instanteneu rezistența și îți dă avantajul în luptă.
+Radiourile au patru setări de distanță. Distanța mai lungă consumă mai multă baterie.
+Unitățile MTF și Insurgența Haosului ajung la părți opuse pe Zona Surface.
+Alfa Warhead omoară orice în Facilitate când explodează. Poate fi activată din Zona Surface.
+Secvența de detonare Alfa Warhead poate fi anulată din camera ei în Heavy Containment.
+Camera de interfon în Zona Entrance poate fi folosită pentru a difuza un mesaj vocal la toți jucătorii.
+Poți arunca iteme ("T" este default). Asta poate fi folosit pentru a deschide uși care necesită o cartelă de acces de la distanță sau pentru a sparge sticlă.
+Zona Light Containment va fi blocată după 15 minute; omorând pe oricine rămas în ea. Scapă cât poți!
+Maximizează-ți avantajul prin modificarea atașamentelor armelor bazat pe situația în care te găsești.
+Cu cât mai multe atașamente o armă are pe ea, cu atâta devine mai grea. Asta îți afectează folosirea de rezistență și viteza de mișcare.
+Supresorii nu numai îți amorțizează sunetul de gloanțe, dar mai și ascund muzzle flash-urile.
+Armele mai grele și lungi sunt mai puțin precise dacă împușcate în timp ce fugi.
+Purtând armură crește numărul de iteme bazate pe categorii și amuniție care poți căra.
+Gloanțele străpungătoare contra armură (AP) performează cel mai bine contra ținte cu armură.
+Gloanțe cu punct gol (JHP) au damage mai mare contra ținte fără armură dar sunt slabe contra armură.
+Ține apăsat butonul de reîncărcare pentru a de-încărca o armă, adăugând gloanțele în inventorul tău.
+Armele a Insurgența Haosului sunt puternice dar amunițiile lor nu se spaunează în Facilitate. Fă-o să conteze.
+Grenadele pot fi folosite să distrugi uși.
+Grenadele pot fi aruncate cu mai puțină forță folosind click dreapta.
+Micro H.I.D.-ul poate ucide majoritatea SCP-urilor foarte rapid dar are alimentare de putere limitată. Folosește inteligent!
+Micro H.I.D.-ul necesită aproximativ 5 secunde de încărcare înainte să poată tragă.
+Ținând apăsat click dreapta va ține Micro H.I.D.-ul la stat de gata-de-tras; consumând energia încetișor.
+Micro H.I.D.-ul este foarte zgomotos în timpul încărcării. Fi sigur să o folosești în timp ce țintele tale nu pot fugi.
+Încărcând Micro H.I.D.-ul produce un sunet înfricoșător care este destul să strice planurile inamicilor tăi.
+O sticlă de SCP-207 nu numai crește viteza de mișcare, dar va parțial restaura și viața ta.
+Până la patru sticle de SCP-207 pot fi băute, permițând un multiplicator semnificativ la viteza ta.
+SCP-500 nu numai te vindecă dar șterge majoritatea efectelor negative, și oferă regenerație după.
+În timp ce SCP-268 te face invizibil la toți oamenii, SCP-079 și SCP-939 tot te pot vedea.
+SCP-268 nu te va salva de SCP-096 dacă te-ai uitat la el.
+SCP-018 este extrem de imprevizibil. Când este aruncat, adăpostește-te.
+SCP-018 poate fi folosit să blochezi jucători când țopăie într-un hol.
+SCP-914 poate modifica orice item, inclusiv armele și amuniția.
+SCP-914 poate reîncărca radiourile și Micro H.I.D.-ul.
+SCP-079 începe relativ slab dar devine mai puternic în timp ce se desfășoară meciul.
+SCP-079 poate încuia uși, să stingă lumini, și să supraîncarce porțile tesla.
+O poartă tesla care este văzută de SCP-079 mereu va apărea că este activă.
+SCP-079 nu poate stinge luminile într-o cameră cu o ușă stricată.
+SCP-079 este recontaminat folosind generatoare găsite în Heavy Containment, și un buton final în camera de contaminare respectivă.
+O cameră care o folosește SCP-079 va străluci albastru. Niciodata nu ști când se uită.
+SCP-173 poate să se miște cum vrea el în camere întunecate, chiar dacă se uită cineva la el. Aduce o lanternă!
+SCP-173 poate ucide pe furiș din spate.
+SCP-173 poate crea o baltă care încetinează orice om care merge prin ea - creând negație-de-zonă rapidă și eficientă.
+SCP-106 este rezistent la gloanțe dar nu explozive și electricitate.
+SCP-106 poate fi recontaminat rapid folosind spărgătorul de femur care este găsit în zona lui de contaminare.
+SCP-106 poate merge prin uși și geamuri din sticlă.
+SCP-096 este cel mai slab când începe să se calmeze.
+SCP-096 poate înțepeni înainte când înfuriat cu click dreapta - stricând uși și ucigând ținte. Daune semnificative contra non-ținte.
+SCP-096 va distruge uși și forțând porți închise să se deschidă folosind click dreapta când înfuriat.
+Mușcăturile lui SCP-939 nu sunt afectate de armură.
+SCP-939 cauzează amnezie contra oameni pe care îi mușcă; întunecând vederea lor.
+SCP-939 poate fugi indefinitiv și este complet silențios când merge.
+SCP-939 este silențios mergând, făcându-l un predator de ambuscadă perfect.
+Pașii SCP-urilor sunt distincte de la cei a oamenilor. Ascultă cu atenție!
+SCP-049 poate ucide orice om instanteneu cu click stânga, dacă vine prea aproape.
+SCP-049 poate reanima corpuri numai dacă sunt proaspete.
+SCP-049-2 este vulnerabil la headshot-uri.
+Instanțele SCP-049-2 sunt buni cercetași și sunt periculoși în numere mari.

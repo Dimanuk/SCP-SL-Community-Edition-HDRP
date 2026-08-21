@@ -1,0 +1,41 @@
+0~Thẻ khóa Lao công
+1~Thẻ khóa Nhà khoa học
+2~Thẻ khóa Giám sát nghiên cứu
+3~Thẻ khóa Quản lý khu vực
+4~Thẻ khóa Bảo vệ
+5~Thẻ khóa Thiếu úy MTF
+6~Thẻ khóa Kỹ sư
+7~Thẻ khóa Trung tá MTF
+8~Thẻ khóa Đội trưởng MTF
+9~Thẻ khóa Quản lý cơ sở
+10~Thiệt bị thâm nhập lậu
+11~Thẻ khóa O-5
+12~Bộ đàm
+13~COM-15
+14~Bộ cứu thương~Chữa vết thương.
+15~Đèn pin~Xin chút ánh sáng nào!
+16~Micro H.I.D.~Súng điện công suất cực cao.
+17~SCP-500~Thuốc bách bệnh.
+18~SCP-207~Tăng tính cơ động một cách tiêu cực.
+20~MTF-E11-SR
+21~Crossvec
+23~FSP-9
+24~Logicer
+25~Lựu đạn HE~BÙM!
+26~Lựu đạn choáng~Làm mù đối phương.
+30~COM-18
+31~SCP-018~Bóng siêu nảy, hiệu suất cao.
+32~SCP-268~Khi đeo vào sẽ tàng hình cho đến khi tương tác với vật thể khác.
+33~Adrenaline~Tăng sức bền tạm thời.
+34~Thuốc giảm đau~Chữa vết thương nhỏ.
+35~Xu~Không chắc tại sao lại mang thứ này theo...
+36~Giáp hạng nhẹ
+37~Giáp chiến đấu
+38~Giáp hạng nặng
+39~.44 Revolver
+40~AK
+41~Shotgun
+42~Túi kẹo~Túi chứa các loại kẹo sau:
+43~SCP-2176~Bóng ma của riêng bạn! Cẩn thận, hàng dễ vỡ...
+44~SCP-244-A~Chiếc bình cổ đóng băng khi bị chạm vào. Tạo ra đám mây băng lớn khi được đặt xuống.
+45~SCP-244-B~Chiếc bình cổ đóng băng khi bị chạm vào. Tạo ra đám mây băng lớn khi được đặt xuống.

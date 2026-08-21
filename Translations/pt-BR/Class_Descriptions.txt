@@ -1,0 +1,21 @@
+Mate todos.\nNão deixe ninguém escapar.\nCoopere com os outros <color=#f00>SCPs.</color><color=#ffff00>\nClique o botão esquerdo enquanto observado para usar a Piscada.\nVocê resiste um pouco a danos de armas, e tem um escudo que se regenera</color>
+Fuja da instalação\nCoopere com a <color=#008f1e>Insurgência do Caos</color>\nEvite os outros times.
+Você irá renascer logo.
+Mate todos\nNão deixe ninguém escapar\nCoopere com os outros <color=#f00>SCPs</color><color=#ffff00>\nVocê consegue atravessar portas.\nO ataque primário joga os inimigos na sua "Dimensão Portátil".\nSegure a tecla TAB para acessar suas habilidades de teletransporte.</color>
+Ajude os <color=#FFFF7CFF>Cientistas</color> a escapar\nElimine outros sujeitos.\nLidere os seus soldados. \nSiga às ordens de seus superiores.
+Mate todos\nNão deixe ninguém escapar\nCoopere com os outros <color=#f00>SCPs</color><color=#ffff00>\nBotão esquerdo para matar instantaneamente inimigos com um cooldown curto.\nInteraja com um humano morto recentemente para revivê-lo como um aliado.</color>
+Fuja da instalação\nCoopere com os <color=#0096FF>MTFs</color>\nEvite os outros times.
+Mate todos\nNão deixe ninguém escapar\nCoopere com os outros <color=#f00>SCPs</color>
+Ajude os <color=#FF8E00>Classes-D</color> a escapar\nNeutralize outros sujeitos.
+Mate todos\nNão deixe ninguém escapar\nCoopere com os outros <color=#f00>SCPs</color>
+Mate todos\nNão deixe ninguém escapar\nCoopere com os outros <color=#f00>SCPs</color><color=#ffff00>\nUse o botão esquerdo para atacar.</color>
+Ajude os <color=#FFFF7CFF>Cientistas</color> a escapar\nNeutralize outros sujeitos.\nLidere os seus soldados. \nSiga às ordens do seu capitão.
+Ajude os <color=#FFFF7CFF>Cientistas</color> a escapar\nNeutralize outros sujeitos.\nLidere os seus soldados.
+Ajude os <color=#FFFF7CFF>Cientistas</color> a escapar\nNeutralize outros sujeitos.\nSiga às ordens de seus superiores.
+Siga as tarefas para concluir seu objetivo.
+Ajude os <color=#FFFF7CFF>Cientistas</color> A escapar\nCoopere com os <color=#0096FF>MTFs</color>\nNeutralize outros sujeitos.
+Mate todos\nNão deixe ninguém escapar.\nCoopere com os outros <color=#f00>SCPs</color>
+Mate todos\nNão deixe ninguém escapar.\nCoopere com os outros <color=#f00>SCPs</color>
+Ajude <color=#FF8E00>Pessoal Classe-D</color> à escapar.\nNeutralize outros sujeitos.
+Ajude <color=#FF8E00>Pessoal Classe-D</color> à escapar.\nNeutralize outros sujeitos.
+Ajude <color=#FF8E00>Pessoal Classe-D</color> à escapar.\nNeutralize outros sujeitos.

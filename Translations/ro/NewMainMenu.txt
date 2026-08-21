@@ -1,0 +1,94 @@
+Noutăți
+Servere
+Setări
+Ieși
+Rețele Sociale
+Internet
+Favorite
+Oficial
+Istorie
+Prieteni
+Caută Server
+Crează Server
+Re-Intră
+Conectare Directă
+Reîmprospetează
+Ascunde Jocuri Goale
+Ascunde Jocuri Pline
+Fără Whitelist
+Video
+Audio
+Controale
+Gameplay
+Altele
+Mod Fereastră
+Exclusiv Fullscreen
+Fereastră Fără Margini
+Fereastră Maximizată
+Fereastră
+V-Sync
+Limită FPS
+Off
+Calitate Textură
+Decale
+Umbre
+Rezoluție de Umbră
+Distanță de Umbră
+Blur de Moțiune
+Corecție de Culoare
+Anti Aliasing
+Rendering de Lumini
+Volum Principal
+Efecte de Sunete
+Chat Vocal
+Muzica Meniului
+Volumul Interfeței
+Tema Meniului
+Introducere Rapidă
+Mișcare de Cap
+Toggle Sprint
+Arată Valoarea Exactă de HP
+Prezență Bogată
+Lobby Public
+Toggle Căutare
+SCP-079 - Toggle Modul de Vizualizare
+SCP-079 - Post-Processing
+Limbă
+Meniu Principal
+Conectați
+Înapoi
+Această schimbare va necesita o reîncărcare.\nReîncărcați meniul acum?
+Da
+Nu
+Ești sigur că vrei să ieși?
+Rezoluția Ecranului
+Ascunde IP
+Bine ai venit, {username}!
+Credite
+AUTENTIFICÂND
+Conectând la servere centrale...
+<color=green>Conexiunea stabilită</color>
+<color=red>Eșecul conexiunii (Verifică consola pentru detalii)</color>
+<color=red>Eșec de autentificare de Steam (Verifică consola pentru detalii)</color>
+<color=red>Eșec de autentificare de Discord (Verifică consola pentru detalii)</color>
+Dezactivat
+Secunde
+Timp de Curățare Corpuri
+Arată Profilul de Steam
+Dă voie jucătorilor să îți vadă profilul de Steam apăsând pe un buton pe lista de jucători.
+Nu Urmări (NU)
+Interzice serverului să vă utilizeze datele (adresă IP, ID-ul utilizatorului etc.) în scopuri care nu au legătură cu securitatea serverului.
+Grafice API
+Crearea serverelor de joc direct din joc nu mai este acceptată.\nÎn prezent există 3 moduri de a crea un server SCP:SL:\n- Puteți descărca serverul dedicat SCP: SL (Steam AppID: 996560) și rulați-l pe computerul dvs.\n- Puteți închiria un VPS sau un Server Dedicat de la un furnizor de găzduire și puteți rula acolo un server dedicat SCP:SL\n- Puteți închiria un server SCP:SL de la un furnizor de găzduire de jocuri care acceptă SCP:SL (de exemplu, ZAP Hosting)\n\nFaceți click pe linkurile de mai jos pentru a obține mai multe informații.\nPuteți solicita asistență tehnică (linkul către serverul nostru Discord poate fi găsit în meniul principal) pentru asistență.
+CREAZĂ ORICUM
+CITEȘTE MAI MULT
+CHIRIAZĂ SERVER
+ANULARE
+Secundă
+Pentru jucând jocul nostru!
+Luminează Taskbar Pe Spawn
+Ocluzie Ambientală
+Lumini Volumetrice
+Bloom
+Toggle Subtitrări
+Ghid Operațional

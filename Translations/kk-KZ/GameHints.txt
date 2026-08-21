@@ -1,0 +1,6 @@
+<color=red>Қатынасқа тыйым салынды</color>
+Сіз <color=yellow>[түрі] түріндегі оқ-дәрі</color> (<color=yellow>[max_type_count] оқтар</color>) шегіне жеттіңіз.
+Сіз <color=yellow>[түрі] оқ-дәрі</color> (<color=yellow>[max_type_count] оқ</color>) шегіне <b>әлде</b> жеттіңіз.
+<color=yellow>[түрі] типті нысан</color> (<color=yellow>[max_type_count] нысан</color>) шегіне жеттіңіз.
+Сіз <b>қазірдің өзінде</b> <color=yellow>[түр] түр элементі</color> (<color=yellow>[max_type_count] элемент</color>) шегіне жеттіңіз.
+Сіз тек <color=yellow>[max_item_count] заттарды</color> алып жүре аласыз.

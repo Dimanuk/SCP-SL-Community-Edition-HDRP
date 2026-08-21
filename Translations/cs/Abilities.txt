@@ -1,0 +1,31 @@
+Schopnost nenalezena: ID schopnosti spojené s touto schopností neexistuje.
+Sprint: Běžíš rychleji, ale dáš tím ostatním najevo kde jsi.
+Plížení: Pohybuješ se pomalu a potichu.
+Inventář: Otevřeš svůj inventář a vybereš věc, kterou chceš používat pomocí LMB, nebo ji zahoď pomocí RMB.
+Neozbrojen: Nemáš nic. Najdi něco. Cokoliv.
+Přístupová karta: Máš přístupovou kartu, není ta nejlepší, ale dobře ji využíj.
+Standardní vybavení: Jsi vybaven puškou, tabletem, granátem, rádiem, disarmerem a přístupovou kartou.
+Ozbrojen a nebezpečnej: Dostal jsi lehký kulomet, hackerský nástroj (přístupová karta) a lékárničku.
+Zarážející rychlost: Když tě nikdo nevidí, pohybuješ se velmi rychle. Pokud tě někdo přímo sleduje, nemůžeš se hýbat ani útočit, ale všichni kteří tě sledují, budou každých pár sekund současně mrkat, což ti umožní jednat.
+Mrk:Jakmile tě spatří, přiměj je, aby litovali, že tě byť jen na okamžik přestali vidět. Jakmile oko zrudne, podržte ukazatel a přesuňte jej na požadované místo. Uvolněním se teleportujte a zabijte nejbližšího člověka v okruhu 2 metrů.
+Portál: Můžeš kdekoli vytvořit portál a kdykoli se k němu teleportovat.\nTeleport trvá několik vteřin. Svůj portál můžeš přesunout opětovným umístěním.
+Koroze: Můžeš procházet dveřmi.
+Labutí píseň: Od kulek nedostáváš téměř žádné poškození, ale můžeš být okamžitě znovu-zadržen prostřednictvím lidské oběti ve tvé zadržovací komoře.
+Kapesní dimenze: Zachytíš člověka a teleportuješ ho do kapesní dimenze, která ho rychle zabije. Lidé si musí zvolit správnou cestu aby utekli nebo zemřou.
+Scopophobia: Začínáš v klidu ale rozzuří tě, když tě někdo uvidí nebo zraní. Utlum svůj vztek tím, že zabiješ agresory - sledujte jejich tlukot srdce, než tvoje zuřivost opadne.Každý kdo se na tebe podívá ti přídá AHP, které chrání tvé životy(HP)
+Pokus se nebrečet (v klidu): Opíraní o dveře pomáhá, když se opřeš tak ztichneš a čekáš až někdo dveřma bude chtít projít.
+Útok na blízko (Ve vzteku): Znič cokoli, co ti přijde do cesty, aby jsi se dostal k těm, kteří ti ublížili. Tvé útoky zničí dveře a okamžitě zabijí většinu lidí.
+Ultrasensitivní: Lidi nevidíš, dokud nepoběží, nezasáhnou tě nebo nevystřelí ze zbraně v těsné blízkosti tebe.
+Predátor: Tvé kroky nejsou slyšet. Podržením  tlačítka pro sprint zvyšuješ svou rychlost, ale tvůj pohyb je slyšet.
+Mimika: Můžeš mluvit nahlas s hráči v okolí, včetně lidí.
+Kousnutí: Útočíš na člověka v blízkém dosahu a okamžitě způsobíš vážné poškození.
+Protijed: Dotkneš se člověka na krátkou vzdálenost a okamžitě ho zabiješ.
+Léčení: Oživ nedávno zabitého člověka. Vyléčení lidé hrají jako zombie s rychlým pohybem a nízkým zdravím.\nNeexistuje žádný limit na to, kolik lidí může být oživeno jako zombie.
+Útok: Útočíš na člověka a způsobíš mu mírné poškození.
+Otevírání & zavírání dveří: Můžeš interagovat s dveřmi pro jejich otevření či zavření za 5 AP. Můžeš je také uzamknout, což ti bude snižovat po čase tvé AP, ale zabrání tomu, aby kdokoliv dveře otevřel nebo zavřel, dokud je opět neodemkneš, nebo ti nedojde AP.
+Aktivace Tesly: Můžeš aktivovat Bránu Tesla za 50 AP abys ji instantně zapnul, čímž zabiješ hráče v ní či v její blízkosti.
+Uzavření místnosti: Odemknutím při Přístupové Úrovni 2, můžeš interagovat s některými místnostmi a celou ji uzamknout, čímž uzavřeš všechny dveře a zhasneš světla. V uzamknutých místnostech nelze ve tmě vidět SCP-173.
+Virtuálně nezničitelný: Pět generátorů se vždy zjeví v Heavy Containment Zóně. Jestli-že jsou všechny z nich odemčené a aktivované, budeš opět zadržen.\nGenerátory mají časovač, který může každý hráč zastavit zmáčknutím tlačítka "CANCEL" na generátoru.
+Železobeton: Přijměte jejich obdivné pohledy, ale braňte se jejich vandalismu. Máte zabudovanou odolnost proti střelbě. Zbraně s nízkou penetrací způsobují výrazně menší poškození ve srovnání s průbojnými zbraněmi.
+NA NĚ! (Ve vzteku): Zkrať jejich životy - zaslouží si to. Vystartuj rovně jak raketa vpřed a na krátkou vzdálenost zničíš vše, co je před tebou. Pokud narazíš na těžkou bránu, protlač se skrz zní.
+Záchvat vzteku: Dejte jim najevo svůj vztek. Vytvořte pod sebou kaluž špíny, která potřísní a značně omezí pohyblivost lidí, kteří jí projdou. Zabitím potřísněných lidí získáte zpět část svého štítu.

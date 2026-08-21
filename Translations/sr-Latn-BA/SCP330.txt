@@ -1,0 +1,22 @@
+Bombone
+Dugasta Bombona
+Komad bombone trvd kao kamen, zapakovan sa mnogo ukusa.
+Daje veliki broj bonusa, uključujući regenraciju HP, okrepanje i AHP.
+Žuta Bombona
+Previše mirisa limuna vas malo naježi.
+Dopušta vas da trčite brže i duže za nekoliko sekundi.
+Ljubičasta Bombona
+Ima miris lijepo grejpa. Vaša usta počinju da se navodnjavaju
+Daje privremen otpor i regeneriše HP po malo.
+Crvena Bombona
+Jak miris trešnje napuni prostoriju. Malo je... <i>PRE</i> jako.
+Brzo regeneriše HP.
+Zelena Bombona
+Neki, biljni miris se osjeti od bombone.
+Daje trajaću regeneraciju HP i privremen imunitet na mnoge statusne efekte.
+Plava Bombona
+Miriše lijepo i lagano, kao neki bjeli seljz.
+Daje privremenu barijeru.
+Roza Bombona
+Miris jagode je nježan kao što izgleda.
+- R E D A K T I R A N O -

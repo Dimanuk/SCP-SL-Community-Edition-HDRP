@@ -1,0 +1,6 @@
+<color=red>Acces negat</color>
+Ajuns la limita de <color=yellow>[type] runde de</color> (<color=yellow>[max_type_count] amuniție</color>).
+<b>Deja</b> ajuns la limita de <color=yellow>[type] runde de</color> (<color=yellow>[max_type_count] amuniție</color>).
+Ajuns la limita de <color=yellow>[type]</color> (<color=yellow>[max_type_count] iteme</color>).
+<b>Deja</b> ajuns la limita de <color=yellow>[type]</color> (<color=yellow>[max_type_count] iteme</color>).
+Numai <color=yellow>[max_item_count] iteme</color> pot fi cărate.

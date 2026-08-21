@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb3fe393a374548f3122ef569af33c54, type: 3}
+  m_Name: PackHoloSight
+  m_EditorClassIdentifier:
+  Reticles:
+  - {fileID: 2800000, guid: ea277153c631feb47b46857019930bbe, type: 3}
+  - {fileID: 2800000, guid: 66cabea89331ce747abfe0ae34b258e0, type: 3}
+  - {fileID: 2800000, guid: 661103f54c4c5444c8dc9ff639318e74, type: 3}
+  - {fileID: 2800000, guid: 58d05d98809304247a125b878a55e5d6, type: 3}
+  - {fileID: 2800000, guid: a13a2685dcafe0b4ea1f403acad2cca9, type: 3}
+  - {fileID: 2800000, guid: 90e691ce8ba5e864aa63af494a9df467, type: 3}
+  - {fileID: 2800000, guid: aafee23e4f9192741b8d45802c343051, type: 3}
+  - {fileID: 2800000, guid: 57fb8f165809e31428f103b3fe8a301e, type: 3}

@@ -1,0 +1,4 @@
+<size=175><color=red>DESACTIVADA</color></size>
+<color=red><size=200>ESPERE</size></color>
+<color=lime><size=180>ACTIVADA</size></color>
+DETONACIÓN INEVITABLE

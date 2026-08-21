@@ -1,0 +1,7 @@
+Sprint:Vous vous déplacez plus rapidement mais vous devenez plus bruyant et moins discret lors de vos déplacements.
+Furtif:Vos pas sont silencieux, mais votre vitesse est fortement réduite.
+Inventaire:Ouvrez votre inventaire et sélectionnez un objet que vous avez ramassé en utilisant le clic gauche ou déposez-le avec le clic droit.
+Désarmé:Vous n'avez rien. Trouvez quelque chose. N'importe quoi.
+Carte d'Accès:Vous avez une carte d'accès, ce n'est pas la meilleure, mais ne la perdez pas.
+Problème Courant:Vous êtes équipé d'un fusil d'assault, d'une carte d'accès et d'un équipement standard.
+Armé et Dangereux:Vous avez été déployé avec un armement lourd, un dispositif d'accès et des fournitures médicales.

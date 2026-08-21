@@ -1,0 +1,17 @@
+Đạn {0}/{1} {2}
+Sát thương
+Tốc độ bắn
+Độ chính xác không ngắm
+Độ chính xác khi ngắm
+Khối lượng
+Độ dài
+Thả:
+Hiệu quả mũ
+Hiệu quả áo giáp
+Tiêu hao thể lực
+Tốc độ di chuyển
+Giới hạn vật phẩm:
+Giới hạn đạn:
+{0} tổng
+Xuyên giáp
+Độ chính xác khi chạy

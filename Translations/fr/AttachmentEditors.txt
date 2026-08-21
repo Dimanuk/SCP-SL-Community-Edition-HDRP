@@ -1,0 +1,18 @@
+Personnalisé
+Préréglage #[index]
+MÉMORISER
+ENLEVER ACCESSOIRES
+Défaut
+PRÉRÉGLAGES
+POSTE DE TRAVAIL\n<color=#C00>HORS LIGNE</color>
+<color=#CCC>POINT DE PERSONNALISATION D'ARME À FEU SITE-02</color>\n\nMODE VEILLE ACTIVÉ\n<size=39>TOUCHEZ L'ÉCRAN POUR ACTIVER.\n<color=#CCC>PERSONNEL AUTORISÉ UNIQUEMENT.</color></size>
+BIENVENUE, UTILISATEUR !
+L'ÉTABLI DÉMARRE
+POSTE DE TRAVAIL - <color=#0C0>PRÊT</color>
+<color=#CCC>POINT DE PERSONNALISATION D'ARME À FEU SITE-02</color>\n\n</size>\n<size=42><color=#ccc>VEUILLEZ ÉQUIPER VOTRE ARME À FEU POUR MODIFIER SES ACCESSOIRES.</color></size>
+MISE HORS TENSION
+EXTINCTION DE L'ÉTABLI
+AFFICHER LE RÉSUMÉ
+FERMER LE RÉSUMÉ
+Personnalisation de [Attachment]
+Appuyez sur [Key] pour modifier les accessoires.

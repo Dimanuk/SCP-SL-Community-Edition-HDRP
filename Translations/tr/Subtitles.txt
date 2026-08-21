@@ -1,0 +1,27 @@
+Mobil Görev Gücü Epsilon-11 Birimine bağlı [designation] tesise giriş yapmıştır.<split>Kalan tüm personelin, bir MGG ekibinin istikametinize ulaşana kadar standart tahliye protokollerine uymaları önerilir.<split>
+Muhafazası için beklenilen: [count] SCP deneği bulunmaktadır.
+Muhafazası için beklenilen: 1 SCP deneği bulunmaktadır.
+Tesis içinde güvenlik için önemli bir tehdit bulunmaktadır -- dikkatli olun.
+başarıyla imha edildi. İmha nedeni bilinmiyor.
+SCP-[scp] tarafından imha edildi.
+Otomatik Güvenlik Sistemi tarafından başarıyla imha edildi.
+Alfa Savaş Başlığı tarafından başarıyla imha edildi.
+Bilim Personeli tarafından başarıyla muhafaza edildi.
+D-Sınıf Personeli tarafından başarıyla muhafaza edildi.
+Kaos İsyanı tarafından başarıyla muhafaza edildi.
+SCP-[scp]
+başarıyla muhafaza edildi. Muhafaza birimi bilinmiyor.
+başarıyla muhafaza edildi. Muhafaza birimi [designation].
+Dekontaminasyon İşleminde kayboldu.
+[max] jeneratörden [current] tanesi aktifleştirildi.
+<split>Tüm jeneratörler başarıyla devreye alındı.
+Aşırı yükleme için 3... 2... 1...
+Tesis çalışma moduna geri döndü.
+Tüm personellerin dikkatine.<split>Light Containment Zone dekontaminasyon işlemi T-15 dakika içinde başlayacaktır.<split>Tahribatlarını önlemek için tüm biyolojik maddeler uzaklaştırılmalıdır.
+Tehlike, Light Containment Zone genel dekontaminasyonuna T-[time] dakika.
+Tehlike, Light Containment Zone genel dekontaminasyonuna T-1 dakika.
+Tehlike, Light Containment Zone genel dekontaminasyonuna T-30 saniye..<split>Tüm kontrol noktası kapıları kalıcı şekilde açılmıştır. Lütfen derhal tahliye edin.
+Light Containment Zone kilitlendi ve dekontaminasyon için hazır.<split>Organik nesnelerin imhası başlıyor.
+ALFA SAVAŞ BAŞLIĞI ACİL DURUM İMHA İŞLEMİ DEVREDE.<split>TESİSİN YERALTI BÖLÜMÜ T-[time] SANİYE SONRA İNFİLAK EDİLECEKTİR.
+İNFİLAK İPTAL EDİLDİ. SİSTEMLER YENİDEN BAŞLATILIYOR.
+İNFİLAK İŞLEMİ DEVAM EDİLİYOR, T-[time] SANİYE.

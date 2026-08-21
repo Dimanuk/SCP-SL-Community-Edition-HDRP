@@ -1,0 +1,19 @@
+{
+  "Name": "Polski - Polish",
+  "Authors": [
+    "Łukasz \"zabszk\" Jurczyk",
+    "Multiverse Uncle",
+    "Petris"
+  ],
+  "InterfaceLocales": [
+    "pl-PL",
+    "pl"
+  ],
+  "SystemLocales": [
+    "pl-PL",
+    "pl"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}

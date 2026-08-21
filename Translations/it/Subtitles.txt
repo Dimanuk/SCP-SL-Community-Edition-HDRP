@@ -1,0 +1,27 @@
+Mobile Task Force Unità Epsilon-11 designata [designation] è entrata nella Struttura.<split>Si consiglia a tutto il personale rimanente di procedere con i protocolli di evacuazione standard finché una squadra MTF non raggiunge la vostra destinazione.<split>
+In attesa di ricontenere: [count] SCP.
+In attesa di ricontenere: 1 SCP.
+All'interno della struttura permane una minaccia sostanziale alla sicurezza: prestare attenzione.
+ricontenuto con successo. Causa anomala.
+ricontenuto da SCP-[scp].
+ricontenuto con successo da Sistemi dai Sicurezza Automatici.
+ricontenuto con successo dalla Alpha Warhead.
+ricontenuto con successo dal Personale scientifico.
+ricontenuto con successo dal Personale di Classe D.
+ricontenuto con successo dalla Chaos Insurgency.
+SCP-[scp]
+ricontenuto con successo. Unità di ricontenimento sconosciuta.
+ricontenuto con successo. Unità di ricontenimento [designation].
+perso nella Sequenza di Decontaminazione.
+[current] su [max] generatori attivati.
+<split>Tutti i generatori sono stati attivati con successo.
+Sovraccaricamento in 3... 2... 1...
+La struttura è tornata operativa.
+Attenzione, a tutto il Personale.<split>Il processo di Decontaminazione nella Light Containment Zone avverrà tra (Tminus)15 minuti.<split>Tutte le sostanze biologiche dovranno essere eliminate per evitarne la distruzione.
+Pericolo, la Light Containment Zone verrà decontaminata in (Tminus)[time] minuti.
+Pericolo, la Light Containment Zone verrà decontaminata in (Tminus)1 minuto.
+Pericolo, la Light Containment Zone verrà decontaminata in (Tminus)30 secondi.<split>Tutti i checkpoint sono permanentemente aperti. Siete pregati di evacuare IMMEDIATAMENTE.
+La Light Containment Zone è bloccata e pronta per la decontaminazione.<split>La rimozione delle sostanze organiche è ora iniziata.
+SEQUENZA DI DETONAZIONE DELLA ALPHA WARHEAD ATTIVATA.<split>LA SEZIONE SOTTERRANEA DELLA STRUTTURA SARÀ FATTA DETONARE TRA (TMINUS)[time] SECONDI.
+DETONAZIONE ANNULLATA. SISTEMI IN RIAVVIO.
+SEQUENZA DI DETONAZIONE RIPRESA, (TMINUS)[time] SECONDI.

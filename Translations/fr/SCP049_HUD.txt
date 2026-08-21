@@ -1,0 +1,23 @@
+Cette âme n'est plus parmi nous.
+Ce cadavre a expiré.
+Cette âme a été ressuscitée trop de fois.
+Cette âme ne veut plus être réanimée.
+Ce cadavre ne peut pas être réanimé.
+Ce cadavre a déjà été consommé.
+Seuls les cadavres humains peuvent être consommés.
+COOLDOWN D'ATTAQUE
+Vous avez refusé toute autre résurrection de SCP-049 !
+Appuyez sur [key] pour refuser toute nouvelle résurrection.
+Aucune cible trouvée.
+Vous avez déjà toute votre santé.
+Ce cadavre est déjà en train d'être consommé.
+Lent et fragile, SCP-049 est très efficace en embuscade et peut permettre de renverser le cours d'une partie grâce à sa horde de personnels "soignés".
+Rapides et dangereuses, les instances SCP-049-2 rôdent avec leur maître pour semer la panique et le chaos, créant de nouveaux corps pour grossir les rangs.
+Crise Cardiaque:Vous tendez votre main gantée pour toucher le cœur de ceux qui souffrent de la Pestilence. Cela provoque une défaillance rapide de leurs fonctions vitales, vous donnant la possibilité d'administrer votre remède.
+Sens du Docteur:Vous vous concentrez entièrement sur une âme infectée. Vous vous déplacez plus vite, déterminé à lui ôter la Pestilence. Vous êtes capable d'évaluer la distance d'une victime en utilisant l'odeur nauséabonde de la maladie.
+L'Appel du Docteur:Vous signalez votre position à votre personnel soigné. Alors qu'ils se tiennent près de vous, leurs corps se durcissent pour tolérer plus de dégâts. Un bon médecin est toujours proche de ses patients, après tout.
+Pas de Gaspillage:Vos instincts médicaux ne sont pas sans besoin d'efficacité. Vous pouvez faire revivre le personnel soigné encore et encore pour fournir plus de connaissances. Ce n'est pas tous les jours que les morts ressuscitent deux fois.
+Soif de Sang Lobotomisée:Votre esprit a été supprimé de force, ne vous laissant que de la violence. Vous vous retrouvez à poursuivre les humains de plus en plus vite à mesure que vous les chassez...
+Voracité:Le traitement n'est pas entièrement sans avantages. Vous pouvez régénérer votre chair en utilisant la masse de n'importe quel cadavre à proximité. Il n'y a pas de partage cependant, alors assurez-vous d'être le premier.
+Réanimer
+Maintenez [key]

@@ -1,0 +1,8 @@
+SCP-096 commence docile, et peut devenir enragé quand quelqu'un voit son visage, ou le blesse. Sa rage lui confère de nombreuses capacités qui l'aident à suivre l'aura du transgresseur avant que sa fureur ne se calme.
+Lamentation discrète:C’en est trop… s'appuyer contre quelque chose vous aide à vous calmer, vous cacher… ou attendre que quelqu'un vienne.
+Rage anti-sociale:Semez la destruction sur votre passage afin de vous venger de ceux qui vous ont fait souffrir. Vos attaques détruiront les portes et blesseront les humains devant vous.
+Charge:Coupez court aux évasions, ils le méritent. Foncez droit devant en démolissant n'importe quoi. Si vous tentez de passer à travers une porte blindée, vous pouvez la forcer.
+Rage Seulement
+Docile Seulement
+Maintenez [key] pour entrer en Rage.
+Maintenez [key] pour sortir de votre Rage.

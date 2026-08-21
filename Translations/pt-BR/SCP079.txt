@@ -1,0 +1,17 @@
+ENERGIA AUXILIAR
+EXPERIÊNCIA
+FEED DE CÂMERA ATIVADO
+PRESSIONE [KEY] PARA ATIVAR O MAPA DE VIGILÂNCIA
+Experiência ganha:
+Trabalho cooperativo
+Assistência na eliminação de Classe-D
+Assistência na eliminação de IC
+Assistência na eliminação de MTF
+Assistência na eliminação de Cientista
+Assistência na eliminação de SCP
+PORTAS BLOQUEADAS: [LOCKED_NUM]<size=25>BOTÃO DIREITO DO MOUSE PARA DESBLOQUEAR TUDO</size>
+Interações gerais
+Você está sendo atacado!
+Geradores em operação foram destacados no mapa
+PERIGO
+SCPs{0}MTF & Guardas{1}Cientistas{2}Classe-D{3}Insurgentes do Caos{4}

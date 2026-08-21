@@ -1,0 +1,21 @@
+Tuez tout le monde.\nEmpêchez tout le monde de fuir.\nCoopérez avec les autres <color=#F00>SCP</color>.\nMaintenez votre touche de visée en étant observé pour vous téléporter.\nVous possédez une légère résistance aux balles ainsi qu'un bouclier qui se régénère avec le temps.
+Échappez-vous de la Fondation.\nCoopérez avec l'<color=#008F1E>Insurrection du Chaos</color>.\nÉvitez les autres équipes.
+Vous allez bientôt réapparaître.
+Tuez tout le monde.\nEmpêchez tout le monde de fuir.\nCoopérez avec les autres <color=#F00>SCP</color>.\nVous pouvez traverser les portes.\nClic gauche sur vos ennemis pour les téléporter dans votre dimension.\nMaintenez la touche TAB pour accéder à vos compétences.
+Aidez les <color=#FFFF7CFF>Scientifiques</color> à s'échapper.\nMenottez les <color=#FFA500FF>Classes-D</color>, tuez-les s'ils sont hostiles ou ignorez-les et accomplissez votre mission.\nSuivez les ordres du Capitaine et instruisez vos soldats.
+Tuez tout le monde.\nEmpêchez tout le monde de fuir.\nCoopérez avec les autres <color=#F00>SCP</color>.\nClic gauche pour tuer vos ennemis.\nMaintenez le bouton d'interaction enfoncé sur un cadavre récemment tué pour le transformer en zombie.
+Échappez-vous de la Fondation.\nCoopérez avec la <color=#0096FF>FIM Epsilon-11</color>.\nÉvitez les autres équipes.
+Tuez tout le monde.\nEmpêchez tout le monde de fuir.\nCoopérez avec les autres <color=#F00>SCP</color>.
+Aidez le <color=#FF8E00>personnel de Classe D</color> à s'échapper.\nMenottez les <color=#FFFF7CFF>Scientifiques</color>, tuez-les s'ils sont hostiles ou ignorez-les et accomplissez votre mission.
+Tuez tout le monde.\nEmpêchez tout le monde de fuir.\nCoopérez avec les autres <color=#F00>SCP</color>.
+Tuez tout le monde.\nEmpêchez tout le monde de fuir.\nCoopérez avec les autres <color=#F00>SCP</color>.\nClic gauche pour attaquer avec un court délai.
+Aidez les <color=#FFFF7CFF>Scientifiques</color> à s'échapper.\nMenottez les <color=#FF8E00>Classes-D</color>, tuez-les s'ils sont hostiles ou ignorez-les et accomplissez votre mission.\nSuivez les ordres du Capitaine et instruisez vos soldats.
+Aidez les <color=#FFFF7CFF>Scientifiques</color> à s'échapper.\nMenottez les <color=#FF8E00>Classes-D</color>, tuez-les s'ils sont hostiles ou ignorez-les et accomplissez votre mission.\nInstruisez vos soldats.
+Aidez les <color=#FFFF7CFF>Scientifiques</color> à s'échapper.\nMenottez les <color=#FF8E00>Classes-D</color>, tuez-les s'ils sont hostiles ou ignorez-les et accomplissez votre mission.\nSuivez les ordres de vos supérieurs.
+Faites ce que l'on vous dit pour accomplir votre objectif.
+Aidez les <color=#FFFF7CFF>Scientifiques</color> à s'échapper.\nMenottez les <color=#FF8E00>Classes-D</color>, tuez-les s'ils sont hostiles ou ignorez-les et accomplissez votre mission.
+Tuez tout le monde.\nEmpêchez tout le monde de fuir.\nCoopérez avec les autres <color=#FFFF00>SCP</color>.
+Tuez tout le monde.\nEmpêchez tout le monde de fuir.\nCoopérez avec les autres <color=#FFFF00>SCP</color>.
+Aidez le <color=#FF8E00>personnel de Classe D</color> à s'échapper.\nMenottez les <color=#FFFF7CFF>Scientifiques</color>, tuez-les s'ils sont hostiles ou ignorez-les et accomplissez votre mission.
+Aidez le <color=#FF8E00>personnel de Classe D</color> à s'échapper.\nMenottez les <color=#FFFF7CFF>Scientifiques</color>, tuez-les s'ils sont hostiles ou ignorez-les et accomplissez votre mission.
+Aidez le <color=#FF8E00>personnel de Classe D</color> à s'échapper.\nMenottez les <color=#FFFF7CFF>Scientifiques</color>, tuez-les s'ils sont hostiles ou ignorez-les et accomplissez votre mission.

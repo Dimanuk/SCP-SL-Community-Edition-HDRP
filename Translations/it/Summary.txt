@@ -1,0 +1,17 @@
+Il round è finito!
+Gli SCP hanno vinto
+LA FONDAZIONE HA VINTO
+LA CHAOS INSURGENCY HA VINTO
+PAREGGIO
+Tutti i soggetti evasi sono dispersi. I soccorsi sono stati disturbati.
+Tutte le minacce neutralizzate. Questo Sito è ora di nuovo sicuro.
+La presenza all'interno della Fondazione è stata eliminata. L'occupazione da parte della Chaos Insurgency è ora in corso.
+Il Sito-02 è sotto controllo incerto. Il vincitore rimane indeterminato.
+[summary_d_escaped] Classe D scappati
+[summary_s_escaped] Scienziati scappati.
+La testata nucleare ha ucciso [summary_warhead_kills] esseri viventi.
+La testata nucleare non è stata detonata durante questa missione,
+Durata della missione [summary_round_minutes] minuti e [summary_round_seconds] secondi.
+[summary_scp_terminated] SCP terminati
+Prossimo round tra [summary_next_round_countdown] secondi.
+Gli SCP hanno ucciso [summary_scpfrags] esseri umani.

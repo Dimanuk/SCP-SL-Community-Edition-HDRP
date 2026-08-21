@@ -1,0 +1,10 @@
+<color=green>OPEN</color>
+<color=#07A2FF>GESLOTEN</color>
+<color=orange>BEWEEGT</color>
+<color=red>LOCKDOWN</color>
+<color=red>FOUT</color>
+<color=red>TOEGANG VERBODEN</color>
+<color=green>TOEGANG VERLEEND</color>
+<color=#07A2FF>SLEUTELKAART VEREIST</color>
+<color=orange>GA DOOR</color>
+<color=orange>SLUIT</color>

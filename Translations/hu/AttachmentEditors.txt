@@ -1,0 +1,16 @@
+Egyedi
+#[index] Beállítás
+MENTÉS
+TARTOZÉKOK TÖRLÉSE
+Alapértelmezett
+BEÁLLÍTÁSOK
+MUNKAÁLLOMÁS - <color=#c00>OFFLINE</color>
+<color=#ccc>SITE-02 LŐFEGYVER TESTRESZABÁSI PONT</color> - KÉSZENLÉTI MÓDBAN\n<size=39>AKTIVÁLJA A KÉPERNYŐ MEGÉRINTÉSÉVEL. <color=#ccc>CSAK FELHATALMAZOTT SZEMÉLYZET SZÁMÁRA.</color></size>
+ÜDVÖZLET, FELHASZNÁLÓ!
+A MUNKAÁLLOMÁS ELINDUL
+MUNKAÁLLOMÁS - <color=#0c0>KÉSZ</color>
+<size=52><color=#ccc>SITE-02 LŐFEGYVER TESTRESZABÁSI PONT</color> - KÉSZ</size>\n<size=42><color=#ccc>KÉRJÜK, SZERELJE FEL A LŐFEGYVERÉT, HOGY MÓDOSÍTSA A TARTOZÉKOKAT.</color></size>
+LEÁLLÍTÁS
+A MUNKAÁLLOMÁS LEÁLL
+ÖSSZEGZÉS MUTATÁSA
+ÖSSZEGZÉS BEZÁRÁSA

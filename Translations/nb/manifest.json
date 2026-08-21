@@ -1,0 +1,21 @@
+{
+  "Name": "Norsk (bokmål) - Norwegian (Bokmål)",
+  "Authors": [
+    "Tam",
+    "Evan (Rnen)"
+  ],
+  "InterfaceLocales": [
+    "nb-NO",
+    "nb",
+    "no"
+  ],
+  "SystemLocales": [
+    "nb-NO",
+    "nb-SJ",
+    "nb",
+    "no"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}

@@ -1,0 +1,3 @@
+ANGRIFF COOLDOWN
+Nicht verfügbar auf der Surface.
+Nicht verfügbar während Aufzugsfahrt.

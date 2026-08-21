@@ -1,0 +1,4 @@
+<size=180><color=red>АДКЛЮЧАНА</color></size>
+<color=red><size=200>ПАЧАКАЙЦЕ</size></color>
+<color=lime><size=180>ГАТОВА</size></color>
+ДЭТАНАЦЫЯ НЕПАЗБЕЖНА!!!

@@ -1,0 +1,4 @@
+Fonte de Luz
+Contador de Munição
+Supressão de Flash
+Visão Noturna

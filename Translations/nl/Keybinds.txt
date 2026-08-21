@@ -1,0 +1,30 @@
+Schieten
+Inzoomen
+Springen
+Interactie
+Inventaris
+Herladen
+Rennen
+Voice Chat
+Sluipen
+Beweeg Vooruit
+Beweeg Achteruit
+Beweeg naar Links
+Beweeg naar Rechts
+Spelerlijst
+Karakterinfo
+Admin op Afstand
+Zaklamp aan/uit
+Alt Voice Chat
+Noclip
+Gameconsole
+Keycard Sneltoets
+Inspecteren
+Hamer Revolver
+Item Gooien
+Primair Wapen Sneltoets
+Secundair Wapen Sneltoets
+Medische Sneltoets
+Verberg GUI
+Noclip Mist aan/uit
+Granaat Sneltoets

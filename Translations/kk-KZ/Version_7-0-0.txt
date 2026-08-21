@@ -1,0 +1,5 @@
+ӨЛІСІҢ
+<color=yellow>Wapon Manager планшетін</color> орналастыру үшін {KEYBINDING_INTERACTION} түймесін басыңыз.
+<color=yellow>Wapon Manager планшетін</color> алу үшін {KEYBINDING_INTERACTION} түймесін басыңыз.
+Бұл <color=yellow>жұмыс станциясында</color> бұрыннан басқа <color=yellow>Wapon Manager планшеті</color> бар.
+Осы <color=yellow>жұмыс станциясын</color> пайдалану үшін сізге <color=yellow>Қару менеджері планшеті</color> қажет.

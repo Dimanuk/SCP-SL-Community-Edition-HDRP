@@ -1,0 +1,8 @@
+COOLDOWN D'ATTAQUE
+Non disponible à l'extérieur.
+Non disponible pendant les trajets en ascenseur.
+Une force imparable capable de contourner facilement n'importe quelle porte de la Fondation.
+Capture:Attrape un humain à courte distance, le piégeant dans la dimension de poche, une prison mortelle où vos règles s'appliquent. La joie de capturer de nouvelles proies redonne de la Vigueur.
+Traque:Immergez-vous dans le sol. Déplacez-vous rapidement et de manière invisible, régénérez-vous et préparez-vous à frapper votre proie. Utilise de la Vigueur, qui se régénère lentement lorsque la capacité Traque est inactive.
+Atlas du Chasseur:Déplacez-vous rapidement dans une pièce voisine, à un coût de Vigueur élevé. Un tel mouvement est instinctif pour vous, ayant rôdé aussi longtemps dans les couloirs du site.
+Délectable Agonie:Pendant la traque, vous ne pouvez voir que des humains blessés. Plus leur agonie est grande, plus la distance à laquelle vous pouvez les repérer est grande. Les évadés de la dimension de poche sont traumatisés, les laissant visibles de n'importe où.

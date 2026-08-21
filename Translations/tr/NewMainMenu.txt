@@ -1,0 +1,94 @@
+Haberler
+Sunucular
+Ayarlar
+Çıkış
+Sosyal Medya
+İnternet
+Favoriler
+Resmî
+Geçmiş
+Arkadaşlar
+Sunucuları Ara
+Sunucu Oluştur
+Tekrar Bağlan
+Doğrudan Bağlan
+Yenile
+Boş Sunucuları Gizle
+Dolu Sunucuları Gizle
+Beyazliste olmayan
+Görüntü
+Ses
+Kontroller
+Oynanış
+Diğer
+Pencere Modu
+Özel Tam-ekran
+Penceresiz Ekran
+Büyütülmüş pencere
+Pencere
+Dikey Senkronizasyon
+FPS Limit
+Kapalı
+Doku Kalitesi
+Parçacıklar
+Gölgeler
+Gölge Çözünürlüğü
+Gölge Mesafesi
+Hareket Bulanıklığı
+Renk Düzeltmesi
+Kenar Yumuşatma
+Işık İşleme Modu
+Ana Ses
+Ses Efektleri
+Sesli Sohbet
+Menü Müziği
+Arayüz Düzeyi
+Menü Teması
+Tanıtım Solgunlaştırması
+Kafa Sallanması
+Koşuya Geçiş
+Asıl Can Miktarını Göster
+Rich Presence
+Topluluk Lobisi
+Ara
+SCP-079 - Görüntüleme Modunu Aç
+SCP-079 - İşlem Sonrası
+Dil
+Ana Menü
+Bağlan
+Geri
+Bu değişiklik yeniden yükleme gerektirecek.\nMenüyü tekrar yüklesin mi?
+Evet
+Hayır
+Çıkmak istediğinizden emin misiniz?
+Ekran Çözünürlüğü
+IP'yi gizle
+Hoşgeldiniz, {username}!
+Jenerik
+DOĞRULANIYOR
+Merkez sunuculara bağlanıyor...
+<color=green>Bağlantı kuruldu</color>
+<color=red>Bağlantı başarısız (Detaylar için konsola bakınız)</color>
+<color=red>Steam doğrulaması başarısız (Detaylar için konsola bakınız)</color>
+<color=red>Discord doğrulaması başarısız (Detaylar için konsola bakınız)</color>
+Devredışı
+Saniye
+Ceset Temizleme Süresi
+Steam Profilini Göster
+Oyuncuların oyuncu listesindeki ikona tıklayıp profilini görüntülemesini izin ver.
+Do Not Track (DNT)
+Sunucunun verilerinizi (IP adresi, kullanıcı kimliği, vb.) sunucu güvenliği ile ilgili olmayan amaçlarla kullanmasını yasaklar.
+Grafik API
+Oyunda doğrudan sunucu oluşturmak artık desteklenmiyor.\nŞu anda SCP:SL sunucusu oluşturmanın 3 yolu vardır:\n- SCP:SL'ye ayrılmış sunucuyu (Steam AppID: 996560) indirebilir ve bilgisayarınızda çalıştırabilirsiniz\n- Bir barındırma sağlayıcısından bir VPS veya Adanmış Sunucu[Dedicated Server] kiralayabilir ve burada SCP:SL için adanmış sunucu çalıştırabilirsiniz\n- SCP:SL'yi destekleyen bir oyun barındırma sağlayıcısından bir SCP:SL sunucusu kiralayabilirsiniz (örn. ZAP Hosting)\n\nDaha fazla bilgi almak için aşağıdaki bağlantılara tıklayın.\nYardım için teknik desteğimizden (Discord sunucumuzun bağlantısı ana menüde bulunabilir) isteyebilirsiniz.
+YİNE DE OLUŞTUR
+DAHA FAZLASINI OKU
+BİR SUNUCU KİRALA
+İPTAL
+İkinci
+oyunumuzu oynadığınız için!
+Doğduğunda Görev Çubuğunu aydınlat
+Ortam Işığı
+Hacimsel Aydınlatma
+Bloom
+Altyazılar
+Operasyon Rehberi

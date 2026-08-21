@@ -1,0 +1,20 @@
+Skyt
+Forstørre
+Hopp
+Interagere
+Inventar
+Lad om
+Løp
+Stemme chat
+Snik
+Flytt fremover
+Flytt bakover
+Flytt til venstre
+Flytt til høyre
+Spillerliste
+Karakter Info
+Administrator Fjernstyring
+Veksle lommelykt modus
+Alternativ stemmechat
+Flyvemodus
+Spill konsoll

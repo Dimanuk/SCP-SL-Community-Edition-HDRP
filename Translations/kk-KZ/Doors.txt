@@ -1,0 +1,10 @@
+<color=green>АШЫҚ</color>
+<color=#07A2FF>ЖАБЫҚ</color>
+<color=orange>ҚОЗҒАЛУ</color>
+<color=red>ЖАБЫҚ</color>
+<color=red>ҚАТЕ</color>
+<color=red>ҚРЕТУГЕ БАС ТАРТЫЛДЫ</color>
+<color=green>ҚҰРЫЛУ БЕРІЛДІ</color>
+<color=#07A2FF>КАРТА КЕРЕК</color>
+<color=orange>ЖАЛҒАСТЫРУҢЫЗ</color>
+<color=orange>ЖАБУ</color>

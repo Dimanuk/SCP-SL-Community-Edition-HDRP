@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e788e8327d5054770c593a66e41a19f, type: 3}
+  m_Name: _PanelKeycard
+  m_EditorClassIdentifier:
+  PanelOpenMat: {fileID: 2100000, guid: adcf6f36595730349a05d3e7ed590679, type: 2}
+  PanelClosedMat: {fileID: 2100000, guid: adcf6f36595730349a05d3e7ed590679, type: 2}
+  PanelMovingMat: {fileID: 2100000, guid: cf28898c68275cc4ba26d30c91283fd0, type: 2}
+  PanelErrorMat: {fileID: 2100000, guid: f498a30e3e7ea354e80fd97183bff173, type: 2}
+  PanelDeniedMat: {fileID: 2100000, guid: 4d66300ff408a2740bf89052ef905d9b, type: 2}
+  _textOpenTranslationId: 7
+  _textClosedTranslationId: 7
+  _textMovingTranslationId: 6
+  _textLockedDownTranslationId: 3
+  _textErrorTranslationId: 4
+  _textDeniedTranslationId: 5

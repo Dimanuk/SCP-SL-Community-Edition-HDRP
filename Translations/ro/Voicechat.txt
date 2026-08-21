@@ -1,0 +1,23 @@
+MUTED DE ADMIN
+MUTED GLOBAL
+NEAUTENTIFICAT
+AJUSTĂ SETĂRILE DE CONFIDENȚIALITATE
+Microfonul tău este dezactivat din cauza setărilor voastre de confidențialitate
+Setări De Confidențialitate Pentru Chat Vocal
+Acest joc folosește chat vocal. Folosirea tastelor de apăsare și vorbire ("Q" și "V" implicit) va captura intrarea microfonului și o va transmite altor utilizatori conectați la server.\nAnumite funcții de joc pot stoca temporar înregistrări scurte ale transmisiilor voastre, care vor fi șterse automat după deconectarea de la server.
+Respinge tot (dezactivează capturarea microfonului)
+Personalizați setările
+Acceptă tot
+Acceptă
+Respinge
+Captură cu Microfon
+Permiteți jocului să vă captureze microfonul și să îl transmită utilizatorilor atunci când sunt apăsate tastele de apăsat și vorbit. O pictogramă de microfon va fi afișată în partea de jos a ecranului, indicând transmisia activă. Jocul nu va transmite niciodată și nu va folosi microfonul fără ca indicatorul să fie vizibil.
+Înregistrări Scurte
+Permite mecanicilor de joc să folosească înregistrări scurte ale vocii tale. Aceasta include abilitatea "Cu Multe Voci" a lui SCP-939, care poate înregistra și reda înregistrări scurte de voce ale jucătorilor uciși. Toate înregistrările sunt eliminate în momentul în care părăsiți serverul sau odată ce runda repornește.
+Aplicați Setările
+Înapoi
+Apăsați "[key]" și navigați la "Setări" pentru a ajusta.
+Mutează jucătorii în viață
+Muteaza alți spectatori
+Mutează lobby-ul
+Mutează sunetul rezumatului chatului global

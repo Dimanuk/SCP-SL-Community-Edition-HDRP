@@ -1,0 +1,21 @@
+ADS Zumiranje
+---
+Jačina napada
+Penetracija
+Brzina pucanja
+Skok pucanja
+Skok pucanja dok se nišani
+Preciznost metka
+Hip-Pucanje preciznost
+Preciznost dok se nišani
+Vrjeme Uzimanja
+Jačina zvuka Puške
+Kapacitet magazina
+Vrjeme Uzimanja
+Vrjeme repertiranja
+---
+Brzina nišanjenja
+Širenje peleta
+Konstanta paterna
+Broj projektila
+Brzina repertiranja

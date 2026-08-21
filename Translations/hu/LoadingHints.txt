@@ -1,0 +1,63 @@
+Egy lőfegyver kézbentartása közben megbilincselhetsz játékosokat, ha interakcióba lépsz velük.
+Négy fő zóna van a Létesítményben: Light Containment, Heavy Containment, Entrance, és Surface (felszín).
+A Tudósoknak és D-Osztályúaknak el kell érniük a Felszínt, hogy kimeneküljenek.
+Entrance Zónában két kapu található, ami hozzáférést nyújt a Felszínhez. Kulcskártya kell a kinyitásukhoz.
+Egy lift használata gyors és egyszerű módja a legtöbb SCP elől való elszökésnek.
+A kimenekült D-Osztályúak a Chaos Insurgency-hez csatlakoznak, míg a tudósok az MTF tagjai lesznek.
+Adrenalin használata egyből újratölti az állóképességed, és a harcban előnyt nyújt.
+A rádióknak négy hatótávolság-beállítása van. Minél nagyobb a távolság, annál gyorsabban merül.
+A Mobile Task Force egységek és Chaos Ügynökök a Felszín ellentétes végeiben érkeznek meg.
+Az Alpha Robbanófej megöl mindenkit a Létesítményben, amikor felrobban. A Felszínen lehet aktiválni.
+Az Alpha Robbanófej detonációs folyamat megszakítható a kamrájából Heavy Containment-ben.
+Az Intercom szoba Entrance Zónában arra használható, hogy minden játékosnak hangüzenetet sugározz.
+El tudsz hajítani tárgyakat (alapbeállítás: "T"). Ezzel kinyithatsz kártyával lezárt ajtókat, vagy kitörhetsz üveget.
+Light Containment Zóna 15 perc után lezár; megölve mindenkit, aki bent maradt. Juss ki, amíg lehet!
+Maximalizáld az előnyöd azzal, hogy fegyvereid tartozékait a jelenlegi szituációhoz igazítod.
+Minél több tartozék van egy fegyveren, annál nehezebb lesz. Ez befolyásolja az állóképesség-használatot és a mozgási sebességet.
+A hangtompító nem csak elfojtja a lövéseket, hanem a tüzelési lángot is elrejti.
+A hosszabb és nehezebb fegyverek kevésbé pontosan lőnek futás közben.
+Páncél viselése megemeli az egyes tárgyak és lőszerek limitjét.
+A páncéltörő golyók (AP) teljesítenek legjobban páncélos célpontok ellen.
+Az üreges fejű golyók (JHP) több sebzést okoznak páncélozatlan célpontok számára, de gyengébbek páncél ellen.
+Tartsd lenyomva az újratöltés gombot a fegyver kiürítéséhez, ez hozzáadja a töltényeket az eszköztáradhoz.
+A Chaos Insurgency fegyverei erősek, viszont lőszer nem található hozzájuk a Létesítményben. Használd úgy, hogy számítson.
+Repeszgránátokkal szét lehet törni ajtókat.
+A gránátokat kisebb erővel eldobhatod a jobb egérgomb lenyomásával.
+A Micro H.I.D. gyorsan meg tudja ölni a legtöbb SCP-t, de korlátozott az energiaforrása. Használd bölcsen!
+A Micro H.I.D. körülbelül 5 másodpercnyi töltést igényel, mielőtt tüzelni tud.
+A jobb egérgomb lenyomva tartása a Micro H.I.D.-t tűzre kész állapotban tartja; lassan merítve az energiát belőle.
+A Micro H.I.D. nagyon hangos töltés közben. Akkor használd, amikor a célpontjaid nem tudnak elfutni.
+A Micro H.I.D. töltése megfélemlítő hangot ad, ami elég az ellenséged terveinek tönkretételéhez.
+Egy üveg SCP-207 nem csak megnöveli a mozgási sebességed, hanem kissé visszaállítja életerőd.
+Maximum négy üveg SCP-207 iható, ami jelentősen megszorozza sebességed.
+SCP-500 nem csak visszaállítja az életerőd, hanem eltávolítja a legtöbb negatív effektet, majd regenerációt biztosít.
+Amíg SCP-268 láthatatlanná tesz minden ember számára, SCP-079 és SCP-939-ek észrevehetnek.
+SCP-268 nem fog megmenteni SCP-096-tól, ha ránéztél az arcára.
+SCP-018 rendkívül kiszámíthatatlan. Miután eldobták, takarodj onnan.
+SCP-018 eltorlaszolhatja üldözőidet, amikor egy folyosóban pattog.
+SCP-914 minden tárgyat megváltoztathat, beleértve a fegyvereket és lőszert.
+SCP-914 újra tudja tölteni a rádiókat és a Micro H.I.D.-et.
+SCP-079 relatívan gyengén kezd, de egyre erősebb lesz a meccs folyamán.
+SCP-079 lezárhat ajtókat, lekapcsolhat lámpákat, és aktiválhat Tesla Kapukat.
+Egy Tesla Kapu, amit SCP-079 megfigyel, mindig aktívnak fog tűnni.
+SCP-079 nem tudja lekapcsolni a lámpákat azokban a szobákban, ahol egy ajtó ki van törve.
+SCP-079 újbóli elzárása a Heavy Containment-ben található generátorokkal, majd egy végső gombbal a kamrájában történik.
+A kamera, amit SCP-079 használ, kéken fog világítani. Sosem tudhatod, mikor figyel.
+SCP-173 szabadon mozog a sötét szobákban, még ha nézik is. Vigyél zseblámpát!
+SCP-173 titkosan megölhet hátulról.
+SCP-173 képes egy tócsa készítésére, ami lelassítja a rajta átkelő embereket — ez gyors és hatékony területtagadóként szolgál.
+SCP-106 ellenáll a golyóknak, viszont nem ellenálló robbanóanyagokkal vagy elektromossággal szemben.
+SCP-106 gyorsan újra elzárható a "combcsonttörővel", amit a kamrájában találsz.
+SCP-106 át tud haladni ajtókon és üvegablakokon.
+SCP-096 akkor a leggyengébb, amikor pont elkezdett megnyugodni.
+SCP-096 előretörhet tombolás közben – így kitör ajtókat, és megöli az útjába eső célpontokat.
+SCP-096 ki fog törni ajtókat és felfeszít bezárt kapukat, amíg tombol.
+SCP-939 harapásait nem befolyásolja a páncél.
+SCP-939 amnéziát okoz az embereken, akiket megharap; ez elsötétíti látásukat.
+SCP-939 határtalan ideig tud sprintelni, és teljesen csendes séta közben.
+SCP-939 lépései némák, ami tökéletes lesből támadóvá teszi.
+Az SCP-k lépései különbözőek, mint az embereké. Figyelj oda!
+SCP-049 egyből meg tud ölni az akármilyen embert, ha elég közel kerül hozzá.
+SCP-049 csak friss hullákat tud újraéleszteni.
+SCP-049-2 sérülékeny a fejlövésekre nézve.
+Az SCP-049-2 példányok jó felderítőként szolgálnak, és veszélyesek nagy csoportokban.

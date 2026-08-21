@@ -1,0 +1,31 @@
+Het is <b>[user]</b>'s lichaam - die was [class]!\n\nDoodsoorzaak: [cause]
+Heropgesloten.
+Verdampt door Alpha Warhead.
+Ineense stilzetting van levenskenmerken. Geen duidelijk trauma.
+Onbekende doodsoorzaak.
+Extreme elektrische brandwonden.
+Zuurstofgebrek, een dood door verstikking.
+Extreem bloedverlies door diepe wonden.
+Je bent doodgebloed.
+Verbrijzelde benen en voeten lijken fataal trauma veroorzaakt door een val.
+Je bent naarbeneden gevallen.
+Vergaan in de Pocket Dimensie.
+Gesmolten door bijtende stof.
+Een ziekelijke gele huid en een ranzige geur suggereert dood door vergiftiging.
+Het gif heeft je beëindigd.
+Droge huid en een bloedende mond duiden op een dood veroorzaakt door een ingeslikte stof.
+SCP-207 heeft je beeïndigd.
+Je had niet meer dan twee moeten nemen!
+Je bent gedood door een Teslapoort.
+Scherven en ernstige brandwonden veroorzaakt door een explosie.
+Je bent gedood door nabije explosie.
+Zware snijwonden en veel bloedverlies.
+Cervicale breuk aan de basis van de schedel.
+Grote, diepe bijtwonden zijn zichtbaar
+Een hoofdwond en kleine schrammen zijn aanwezig op het lichaam.
+[ammotype] kogelwonden.
+Dodelijk trauma; het lichaam is zwaar verminkt en verpulverd.
+Ernstig letsel aan beide dijbeenderen wijst op dood door een shock van de bloedsomloop.
+Je bent opgeofferd om SCP-106 te hervangen.
+Automatisch gedood voor eigen vuur.
+Koude huid en bevroren vingers wijzen op een dood door onderkoeling.

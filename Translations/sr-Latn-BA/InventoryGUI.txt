@@ -1,0 +1,17 @@
+Municija{0}/{1} {2}
+Vatrena Moć
+Brzina pucanja
+Preciznost bez Nišana
+Preciznost Nišana
+Težina
+Dužina
+Ispusti:
+Efikasnost Šljema
+Efikasnost Pancira
+Koišćenje Stamine
+Brzina Pomjeranja
+Ograničenje za stvari:
+Ograničenje za municiju:
+{0} ukupno
+Penetracija pancira
+Preciznost trčanja

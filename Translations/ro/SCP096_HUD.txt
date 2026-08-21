@@ -1,0 +1,8 @@
+SCP-096 începe docil și poate deveni furios când cineva îi vede fața sau îi face rău. Furia împuternicește cu multe abilități, care îl ajută pe SCP-096 să urmărească luminile transgresorului înainte ca furia să se domolească.
+Încearcă Să Nu Plângi:Este greu să continui... dar sprijinirea pe ceva te ajută să te calmezi, fie să te ascunzi... fie să aștepți să treacă cineva.
+Atac Apropiat:Sfârșește orice în calea ta pentru a ajunge la cei care te-au rănit. Atacurile tale vor distruge ușile și vor răni oamenii.
+Încărcare:Reduceți scăpările - merită. Te înțepi drept, demolând orice în fața ta pe o distanță scurtă. Dacă lovești o poartă grea, te forțezi prin ea.
+Numai în Furie
+Numai în Mod Docil
+Ține apăsat [key] pentru a intra în furie.
+Ține apăsat [key] pentru a ieși din furie.

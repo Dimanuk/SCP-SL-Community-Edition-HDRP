@@ -1,0 +1,46 @@
+Ništa~Normalna opcija bez ikakvih efekata.
+Metalni Nišan~Par markera za poravnanje čine jednostavan, lagan nišanski uređaj.
+Tačka Nišan~Refleksni nišan bez uvećanja sa malom osvetljenom tačkom koja označava tačku cilja.
+Holografični Nišan~Nišan bez uvećanja sa holografskom končanicom. Efikasan u bližoj borbi.
+Nišan za Noćno Gledanje ~ Teleskopski nišan dopunjen uređajem za noćno osmatranje. Težak, ali efikasan u svim uslovima osvetljenja.
+Brojač Metaka Nišan~Gvozdeni nišani sa integrisanim uređajem za brojanje municije.
+Teleskopski nišan ~ Teški nišanski uređaj, koji obezbeđuje optičko uvećanje. Savršeno za velike domete, ali ograničava ukupnu percepciju.
+Standardni stok~Obični stok, koji omogućava bolju kontrolu vatrenog oružja pri nišanjenju.
+Proširen Stok~Daje bolju konrtrolu puške kad se nišani, ali zato treba više vremena uzimanja puške.
+Uvučeni Stok ~ čini pušku kompaktnijom, što povećava pokretljivost.
+Lagani Stok~Smanji težinu puške ali napravi da se teže koristi kada se nišani.
+Teški Stok~Povećana težina puške smanjuje mobilnost ali daje bolju kontrolu nad puškom.
+Stok za smanjenje trzaja~Stok opremljen sistemom koji pokušava da rasprši silu između pojedinačnih hitaca.
+Drška~Vertikalna Drška. Napravi da je laganije kontrolisati pušku kad se diže.
+Laser~Daje vizualnu referencu na metu, pomaže pucanju bez nišana ali može da vam oda lokaciju.
+Svjetlo~Svjetlo koje se može paliti i gasiti. Napravi pušku težom ali može biti dobro po život u tamnim prostorijama.
+Brojač Metaka~Brojač metaka, eksperimentalana tehnologina najbolje korištena uz magazin sa velikim kapacitetom.
+Standardni Barel~Normalni barel bez promjena.
+Duži Barel~Poboljšava ukupnu vatrenu moć, ali doprinosi niskoj mobilnosti uzrokovanoj povećanom težinom i dužinom.
+Prigušivač~Moderator zvuka. Smanjuje glasnoću pucnja, ali povećava ukupnu težinu i dužinu puške.
+Skrivač dima~Sakrije dim dok se puca. Napravi da se laganije puca u tamnim prostorijama.
+Njušna Kočnica~Kompezator odskakanja puške. Koristi propeletne gasove da umanji skok, ali poveća aukustičnu inenzivnost puške.
+Njušni Pojačivač~Doprinosi većoj brzini pucanja, to znači da više naudi, ali puška se teže kontroliše.
+FMJ Magazin~Standardni magazin koji sadrži metke sa punim metalnim omotačem.
+AP Magazin~Standarni magazin koji sadrži metke za probijanje pancira.
+JHP Magazin~Standardni magazin koji sadrži metke sa šupljim vrhom.
+Prošireni FMJ Magazin~Prošireni magazin koji sadrži metke sa punim metalnim omotačem.
+Prošireni AP Magazin~Prošireni magazin koji sadrži metke za probijanje pancira.
+Prošireni JHP Magazin~Prošireni magazin koji sadrži metke sa šupljim vrhom.
+FMJ Valjak~Visoki kapacitet drum magazin koji sadrži metke sa punim metalnim omotačem.
+AP Valjak~Visoki kapacitet drum magazin koji sadrži metke za probijanje pancira.
+JHP Valjak~Visoki kapacitet drum magazin koji sadrži metke sa šupljim vrhom.
+Nis-Kap FMJ Magazin~Niski kapacitet magazin koji sadrži metke sa punim metalnim omotačem.
+Nis-Kap AP Magazin~Niski kapacitet magazin koji sadrži metke za probijanje pancira.
+Nis-Kap JHP Magazin~Niski kapacitet magazin koji sadrži metke sa šupljim vrhom.
+4-Cilindar~Posjeduje manje metaka ali zato može nauditi više neprijatieljima sa pancirom.
+6-Cilindar~Klasični 6 pucač.
+8-Cilindar~Posjeduje više metaka ali zato treba više vremena da se precizno puca.
+Karbajn Resiver~Normalni resiver koji se smatra kao dobar kompromis oko mobilnosti i moć pucanja.
+Duži Resiver~Puni sistem resivera, jača je moć pucanja ali zbog težeg gas sistema nije nešto oko mobilnosti.
+Kratka cev~Kraća verzija normalne cevi, korištena da se nadogradi mobilnost i vrjeme uzimanja.
+Čouk~Napravi pucanje metaka konstantnije, ali zato je radijus metaka proširen.
+Duža Cev~Malo suzi radijus metaka ali pravi pušku težom.
+Bez Stoka~Kratke konfiguracije dolaze uz brzo uzimanje i laganiju težinu, ali uklanjanje stoka od puške sa velikim skokom nije uvijek dobra ideja.
+Jedno Pucanje Sistem~Standarni sistem. Jedno povlačenje okidača dovodi do jednog pražnjenja.
+Dvo Pucanje Sistem~Modificirani mehanizam napravi da se pucaju oba metka iz barela sa jednim povlačenjem okidača.

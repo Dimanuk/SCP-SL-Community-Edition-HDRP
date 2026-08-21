@@ -1,0 +1,4 @@
+<size=180><color=red>ӨШІРІЛГЕН</color></size>
+<color=red><size=200>КҮТІҢІЗ</size></color>
+<color=lime><size=180>ДАЙЫНДЫ</size></color>
+ЖАРЫЛУҒА БОЛМАЙДЫ

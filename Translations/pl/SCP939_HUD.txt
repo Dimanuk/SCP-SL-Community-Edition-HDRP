@@ -1,0 +1,39 @@
+Naciśnij [key_attack] lub [key_jump], aby wyskoczyć.
+Odsłuchaj głos (tylko ty to usłyszysz)
+PODGLĄD
+Usuń głos (przytrzymaj)
+Transmituj głos (każdy to usłyszy)
+Zostałeś zabity przez SCP-939, który ukradł ci twój głos!
+Jeżeli nie chcesz, aby twój głos był przez niego używany, możesz wyłączyć tą funkcję.
+Zapamiętaj mój wybór
+Usuń
+OK
+Więcej informacji
+SCP-939 używa mechaniki pozwalającej na nagrywanie kilku ostatnich sekund twojej rozmowy głosowej. Może być on odtwarzany przez SCP-939, aby zwabić do siebie pozostałych graczy.\nNagrania są automatycznie usuwane jeżeli opuścisz serwer, SCP-939 zginie lub gdy runda dobiegnie końca. Wyłączenie tej funkcji spowoduje usunięcie wszystkich nagrań twojego głosu.
+Nie można wypuścić obłoku w tym miejscu.
+Rozmiar obłoku jest za mały. Przytrzymaj klawisz dłużej.
+SCP-939 jest pozbawiony wzroku, stosuje jednak otaczające go dźwięki do nawigacji po placówce. Korzysta na błędach ludzi, przy pomocy swoich cichych kroków i przerażającej prędkości zastawia na nich zasadzki i ich zabija.
+Szpony:Naciśnij, aby machnąć szeroko swoimi szponami, ciąć ciało i łamać kości swoim ofiarom. Podczas koncentracji główny atak pozwoli ci rzucić się na znalezioną zdobycz.
+Koncentracja:Poświęcając całą energię na swoich zmysłach, możesz widzieć ofiary z dalekiej odległości. Możesz ustalić kim one są analizując ich zachowanie.
+Amnezyjny obłok:Wypełnij powietrze niebezpiecznym neurochemicznym gazem, którego zasięg będzie zależał od długości wypuszczania go. Ludzie, którzy wdechną ten gaz, nie spostrzegą SCP-939 oraz nie będą mogli wykonywać pewnych czynności. Natomiast atakowanie ich lub bycie atakowanym chwilowo cię ujawni.
+O wielu głosach:Po zabiciu ofiary masz szansę na otrzymanie jej ostatnich słów, pozwalając na użycie ich w celu zmylenia innych. SCP-939 może również udawać niektóre dźwięki, na przykład kroki ludzi.
+Ultraczułość:SCP-939 jest w stanie wyczuć pobliskie źródła ciepła w postaci normalnej wizji małego zasięgu. Dalej natomiast musisz polegać na dźwiękach, aby znaleźć swoją zdobycz. Głośniejsze dźwięki są widoczne z większej odległości. Wytrzymałość wpływa na zasięg twojej wizji.
+Powrót
+Ustaw źródło dźwięku
+Przenieś źródło dźwięku
+Usuń źródło dźwięku
+Wydawaj wszystkie dźwięki z twojego obecnego położenia
+Ustawiono źródło dźwięku!
+Usunięto źródło dźwięku!
+Usunięto źródło dźwięku. Opuszczono zasięg.
+Skradzione głosy
+Udawaj głosy swoich ofiar
+Dźwięki otoczenia
+Udawaj różne dźwięki aby zmylić ofiary
+(Odnawianie: [time]s)
+Kroki
+Udawanie
+Strzały
+Inne
+Poprzednie
+Następne

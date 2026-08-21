@@ -1,0 +1,36 @@
+Pedel Nøglekort:Ingen beskrivelse
+Videnskabsmand Nøglekort:Ingen beskrivelse
+Forskningsvejleder Nøglekort:Ingen beskrivelse
+Zone Manager Nøglekort:Ingen beskrivelse
+Sikkerhedsvagt Nøglekort:Ingen beskrivelse
+MTF Kadet Nøglekort:Ingen beskrivelse
+Tekniker Nøglekort:Ingen beskrivelse
+MTF Løjtnant Nøglekort:Ingen beskrivelse
+MTF Kommandør Nøglekort:Ingen beskrivelse
+Facilitets Manager Nøglekort:Ingen beskrivelse
+Kaos Oprørere Adgangsenhed
+O5-level Nøglekort
+Radio:SR = Short Range \nMR = Medium Range \nLR = Long Range \nUR = Ultra Range \nOpbruger batteri mens tændt. Højere rækkevidde kræver mere batteri.
+COM-15 Håndvåben:Ingen beskrivelse
+Førstehjælpskasse:Lapper dig sammen igen.
+Lommelygte:Lad der være lys!
+Mikro H.I.D.:En transportabel højintensitets strømkanon.
+SCP-500:Universalrengøring - nu i pilleform.
+SCP-207:Et sukkersus du ikke kan løbe fra.
+Våbentablet:Brugt til at smide ammunition og opgradere dine våben
+MTF-E11-SR:Ingen beskrivelse
+Projekt 90:Ingen beskrivelse
+Smidt 5.56:Ingen beskrivelse
+MP7:Ingen beskrivelse
+Logicer:Ingen beskrivelse
+Fragmentationsgranat:Kaboom!
+Flashbang-granat:Blænder dine fjender.
+Afvæbner:Venstreklik afvæbner, højreklik løslader. \nHold E nede på holdkammerater som er afvæbnet for at løslade dem.
+Smidt 7.62:Ingen beskrivelse
+Smidt 9mm:Ingen beskrivelse
+USP:Ingen beskrivelse
+SCP-018:En hoppebold med usædvanlige hoppeevner
+SCP-268:Når hatten bæres bliver du midlertidig usynlig. Enhver handling vil gøre dig synlig igen
+Adrenalin:Øger din udholdenhed midlertidigt.
+Smertestillende:Lindring af mindre smerter.
+Mønt:Du er ikke sikker på hvorfor du bære rundt på den...

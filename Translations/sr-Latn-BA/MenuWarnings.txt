@@ -1,0 +1,4 @@
+UPOZORENjE
+U REDU
+<b>Intel grafike</b> su bile primećene i one <b>nisu podržane</b>.\n <b>Preporučeno</b> je da se koristi <b>ne itegrisana</b> grafička karta.\nIgrica će vjerovatno <b>često prestati raditi</b> sa trenutnom konfiguracijom računara.
+Bitno ažuriranje za sistem glasa nije pronađen. Molimo vas potvredite da je vaš Windows ažuriran , ili igrica možda neće funkcionisati dobro. Ako se ovaj problem ponovo pojavi, konkatrijate naš tim za pomoć u našem Diskordu, koristi se Engleski jezik.

@@ -1,0 +1,6 @@
+<color=red>Hozzáférés megtagadva</color>
+Elérted a limitet <color=yellow>[type] típusú lőszerből</color> (<color=yellow>[max_type_count] golyó</color>).
+<b>Már</b> elérted a limitet a <color=yellow>[type] típusú lőszerből</color> (<color=yellow>[max_type_count] golyó</color>).
+Elérted a limitet a <color=yellow>[type] típusú tárgyból</color> (<color=yellow>[max_type_count] tárgy</color>).
+<b>Már</b> elérted a limitet a(z) <color=yellow>[type] típusú tárgyból</color> (<color=yellow>[max_type_count] tárgy</color>).
+Csak <color=yellow>[max_item_count] tárgyat</color> cipelhetsz.

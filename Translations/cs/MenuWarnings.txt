@@ -1,0 +1,4 @@
+VAROVANÍ
+OKAY
+Byla detekována <b>grafika Intel</b>, která <b>není podporována</b>.\n<b>Doporučujeme</b> použít <b>neintegrovanou</b> grafickou kartu.\nHra může při aktuálním nastavení <b>často padat.</b>
+Důležitou aktualizaci systému, kterou vyžaduje hlasový chat, nelze nalézt. Ujistěte se prosím, že je váš systém Windows plně aktualizován, jinak hra nemusí fungovat správně. Pokud tento problém přetrvává, kontaktujte náš tým technické podpory a požádejte o další pomoc.

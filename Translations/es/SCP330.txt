@@ -1,0 +1,22 @@
+Caramelos
+Caramelo arcoíris
+Es una pieza dura de caramelo roca, lleno de toda clase de sabores.
+Otorga un gran número de pequeños beneficios, incluyendo regeneración de vida, resistencia y AHP.
+Caramelo amarillo
+El abrumador olor a limón hace que tiembles un poco.
+Te permite moverte más rápido y correr más rápido por un corto periodo de tiempo.
+Caramelo púrpura
+Tiene un jugoso olor a uva. Se te hace agua la boca.
+Otorga resistencia temporal al daño y regenera lentamente la salud.
+Caramelo rojo
+Un fuerte olor a cereza inunda la sala. Es un poco... <i>demasiado</i> fuerte.
+Restaura tu salud rápidamente.
+Caramelo verde
+Un nauseabundo olor a hierbas es desprendido del caramelo.
+Otorga una regeneración de salud de larga duración y una inmunidad temporal a la mayoría de efectos de estado.
+Caramelo azul
+Su olor es suave y dulce, se parece a un malvavisco.
+Otorga una barrera temporal.
+Caramelo rosa
+El aroma a fresa es tan suave como parece.
+- R E D A C T A D O -

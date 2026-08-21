@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e788e8327d5054770c593a66e41a19f, type: 3}
+  m_Name: _PanelHCZ
+  m_EditorClassIdentifier:
+  PanelOpenMat: {fileID: 2100000, guid: 5737b7115743d594ca7b0a94922fe9df, type: 2}
+  PanelClosedMat: {fileID: 2100000, guid: 1c1e19f96b6b0a14f967818077bcd508, type: 2}
+  PanelMovingMat: {fileID: 2100000, guid: 91d7a795ecd17b3408434d598f59c3bb, type: 2}
+  PanelErrorMat: {fileID: 2100000, guid: c5192a83defff81468519e08129134d9, type: 2}
+  PanelDeniedMat: {fileID: 2100000, guid: c5192a83defff81468519e08129134d9, type: 2}
+  _textOpenTranslationId: 0
+  _textClosedTranslationId: 0
+  _textMovingTranslationId: 0
+  _textLockedDownTranslationId: 0
+  _textErrorTranslationId: 0
+  _textDeniedTranslationId: 0

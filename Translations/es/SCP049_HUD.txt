@@ -1,0 +1,23 @@
+Esta alma ya no está con nosotros.
+Este cadáver ha expirado.
+Esta alma ha sido revivida demasiadas veces.
+Esta alma ya no quiere ser revivida.
+Este cadáver no puede ser revivido.
+Este cadáver ya ha sido consumido.
+Solo se pueden consumir cadáveres humanos.
+ENFRIAMIENTO DE ATAQUE
+Has negado la resurrección de SCP-049.
+Pulsa [key] para negar la resurrección.
+No se ha encontrado ningún objetivo.
+Ya estás al máximo de salud.
+Este cadáver ya está siendo consumido.
+Lento y frágil, SCP-049 se especializa en emboscadas, puede cambiar el curso de la partida "curando" al personal de la Fundación.
+Rápido y peligroso, SCP-049-2 ayuda a su maestro cultivando caos y destrucción por delante, haciendo que más cuerpos se unan a él.
+Ataque Cardíaco: Extiendes tu mano enguantada para tocar el corazón de los que sufren la Pestilencia, haciendo que sus funciones vitales fallen rápidamente; dándote la oportunidad de aplicarles tu cura.
+Buen Sentido del Médico: Cambias tu enfoque por completo hacia un alma contaminada. Te mueves más rápido, dispuesto a liberarlos de la Pestilencia. Eres capaz de calcular la distancia a la que se encuentra la víctima mediante el aroma nauseabundo de la enfermedad.
+La Llamada del Médico: Señalas tu ubicación al resto del equipo curado. A medida que se acercan a ti, sus cuerpos se refuerzan para tolerar más daños. Al fin y al cabo, un gran médico siempre examina a sus pacientes.
+Útil , Inútil: Tu instinto médico no carece de eficacia; puedes revivir a los curados una y otra vez para obtener más información. No todos los días los muertos resucitan dos veces.
+Lobotomía Sanguinaria: Tu mente fue extraída a la fuerza, dejando solo la violencia. Te encuentras persiguiendo a los humanos cada vez más rápido mientras los persigues ...
+Voracidad: La cura no carece totalmente de beneficios. Puedes regenerar tu cuerpo utilizando la carne de cualquier cadáver cercano. Eso sí, no se puede compartir, así que asegúrate de ser el primero en llegar al festín.
+Revivir
+Mantener [key]

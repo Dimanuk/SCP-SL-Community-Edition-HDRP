@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 80033bcd8f50c8d4da604320e6b51561
+timeCreated: 1776604373
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  externalObjects: {}
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Noto Sans Hebrew
+  fontNames:
+  - Noto Sans Hebrew
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 1
+  output:
+    hasEmptyFontData: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData:
+  assetBundleName:
+  assetBundleVariant:

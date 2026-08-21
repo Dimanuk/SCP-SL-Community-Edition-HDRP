@@ -1,0 +1,36 @@
+STEMME LYDSTYRKE
+Ja
+TVING START
+SCP-106 GEN-TILFANGETAGELSE\nTILSIDESÆT PROCEDURE
+Omvend Y-akse
+OPSUMMERING
+Annuller
+I N V E N T A R
+LYSSTYRKE
+INDSTILLINGER
+AFBRYD
+ALFA SPRÆNGHOVEDET ER DEAKTIVERET
+ADGANG NÆGTET
+STEMMECHAT
+INVENTAR OVERBELASTET
+MUSEFØLSOMHED
+HACKER
+SAMLER OP...
+At øge lysstyrken <b>forværrer spillets samlede atmosfære.\nForsøg at indstille denne så lavt som muligt.\n<b>Standardværdien anbefales.</b>
+[1] ÅBEN/LUK DØR\n[2] LÅS DØR*\n\n*At låse døren opbruger dine evner
+DØREN ER BLEVET SPÆRRET AF SCP-079
+Fuldskærms-tilstand
+Er du sikker på at du vil forlade serveren?
+Basale indstillinger. Fuld liste over indstillingerne i menuen.
+VENTER PÅ SPILLERE
+OPSUMMERING
+FORTSÆT
+PRIMÆR LYDSTYRKE
+tilsluttet
+Du flygtede som en Videnskabsmand og har sluttet dig til MTF enheden.
+Du flygtede som Klasse-D Personale og har sluttet dig til Kaos Oprørerne
+DU ER
+FLUGT-TID: [escape_minutes] minutter og [escape_seconds] sekunder
+Vent [time] sekunder inden du kan bruge [item] igen.
+Tryk på <color=yellow><b>F1</b></color> for hjælp.
+Du er blevet sat i håndjern\n<size=40>følg ordrer eller spørg dine holdkammerater om hjælp</size> 

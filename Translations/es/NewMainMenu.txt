@@ -1,0 +1,94 @@
+Noticias
+Servidores
+Ajustes
+Salir
+Redes sociales
+Internet
+Favoritos
+Oficial
+Historial
+Amigos
+Buscar servidores
+Crear servidor
+Reingresar
+Conexión directa
+Recargar
+Ocultar partidas vacías
+Ocultar partidas llenas
+Sin lista blanca
+Vídeo
+Audio
+Controles
+Juego
+Otros
+Modo ventana
+Pantalla completa
+Ventana sin bordes
+Ventana maximizada
+Ventana
+Sincronización vertical
+Límite de FPS
+Apagado
+Calidad de texturas
+Texturas decals
+Sombras
+Resolución de sombras
+Distancia de sombras
+Desenfoque de movimiento
+Corrección de color
+Anti-Aliasing
+Renderización de luces
+Sonido global
+Efectos de sonido
+Chat de voz
+Música del menú
+Volumen de la interfaz
+Música del menú
+Desvanecer rápido de la intro.
+Movimiento de cabeza
+Alternar carrera
+Mostrar valores exactos de vida
+Rich Presence
+Sala pública
+Alternar recolección
+SCP-079 - Alternar modo de vista
+SCP-079 - Post-procesado
+Idioma
+Menú principal
+Conectar
+Atrás
+Este cambio necesitará recargar el menú.\n¿Recargar el menú ahora?
+Sí
+No
+¿Seguro que quieres salir?
+Resolución de pantalla
+Ocultar IP
+¡Hola de nuevo, {username}!
+Créditos
+AUTENTICANDO
+Conectando a los servidores centrales...
+<color=green>Conexión establecida</color>
+<color=red>Fallo en la conexión (Comprueba la consola para más detalles)</color>
+<color=red>Fallo en la autenticación con Steam (Comprueba la consola para más detalles)</color>
+<color=red>Fallo en la autenticación con Discord (Comprueba la consola para más detalles)</color>
+Deshabilitado
+{0} Segundos
+Tiempo de limpieza de cadáveres
+Mostrar perfil de Steam
+Permite a los jugadores ver tu perfil de Steam en el icono de la lista de jugadores.
+No rastrear (NR)
+Prohíbe al servidor usar tus datos (Dirección IP, ID de usuario, etc.) con propósitos no relacionados con la seguridad del servidor
+API de gráficos
+Crear servidores desde el juego ya no es compatible.\nHay 3 formas de crear un servidor de SCP:SL:\n- Descargando el servidor dedicado de SCP:SL (Steam AppID: 996560) y usándolo en tu PC\n- Alquilando un VPS o un servidor dedicado de uno de los proveedores de servidores y ejecutando el servidor dedicado ahí\n- Alquilar un servidor de un proveedor de servidores que soporte SCP:SL (ej. ZAP Hosting)\n\nClic en los links para más información\nPuedes preguntar a nuestro soporte técnico (el link a nuestro discord está en el menú principal)
+CREAR IGUALMENTE
+LEER MÁS
+ALQUILAR UN SERVIDOR
+CANCELAR
+Segundo
+Por jugar a nuestro juego!
+Flash en la barra de tareas al aparecer
+Oclusión ambiental
+Luces volumétricas
+Bloom
+Subtítulos
+Guía Operativa

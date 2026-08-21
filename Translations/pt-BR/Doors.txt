@@ -1,0 +1,10 @@
+<color=green>ABERTO</color>
+<color=#07A2FF>FECHADO</color>
+<color=orange>MOVENDO</color>
+<color=red>TRANCADO</color>
+<color=red>ERRO</color>
+<color=red>ACCESSO NEGADO</color>
+<color=green>ACCESSO GARANTIDO</color>
+<color=#07A2FF>CARTÃO REQUERIDO</color>
+<color=orange>POR FAVOR PASSE</color>
+<color=orange>FECHANDO</color>

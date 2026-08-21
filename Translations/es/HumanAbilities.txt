@@ -1,0 +1,7 @@
+Correr:Aumenta tu velocidad de movimiento, pero también aumenta el sonido que haces al moverte.
+Sigilo:Tu movimiento se hace más silencioso a costa de reducir tu velocidad de movimiento.
+Inventario:Abre tu inventario y selecciona el objeto usando click izquierdo. Usa click derecho para soltar.
+Desarmado:No tienes nada. Encuentra algo, lo que sea, y rápido.
+Tarjeta de Acceso:Tienes una tarjeta de acceso, no es la mejor, pero no la pierdas.
+Equipamiento estándar:Tienes en el inventario un arma de fuego, una tarjeta de acceso y algunos objetos útiles.
+Armado y Peligroso:Te han asignado armamento pesado, un dispositivo de acceso y suministros médicos.

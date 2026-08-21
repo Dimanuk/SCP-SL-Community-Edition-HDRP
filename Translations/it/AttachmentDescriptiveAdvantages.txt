@@ -1,0 +1,4 @@
+Sorgente d'illuminazione
+Contatore di munizioni
+Rimozione del lampo
+Visione notturna

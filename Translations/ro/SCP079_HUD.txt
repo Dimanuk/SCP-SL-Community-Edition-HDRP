@@ -1,0 +1,74 @@
+ZOOM [amount]x
+NIVEL DE ACCES [tier]
+EXP [current] / [next]
+NIVELUL MAX ATINS
+NICIO CAMERĂ
+DU-TE LA: [camera] ([cost])
+PUTERE AUXILIARĂ INSUFICIENTĂ
+ETA: [time] secunde
+NIVEL SUPERIOR NECESAR
+CAMERA INVALIDĂ
+ACCES DE UȘĂ NEGAT
+DESCHIDE UȘA ([cost])
+ÎNCHIDE UȘA ([cost])
+BLOCARE UȘA ([cost])
+DEBLOCARE UȘĂ
+TIMP DE AȘTEPTARE BLOCARE UȘI
+PUTERE AUXILIARĂ
+CINEVA TE ATACĂ!
+ELIBEREAZĂ TOATE UȘILE BLOCATE ([num] total)
+DESCHIDE HARTA FACILITĂȚII
+ÎNCHIDE
+LIGHT CONTAINMENT ZONE
+HEAVY CONTAINMENT ZONE
+ENTRANCE ZONE
+SURFACE ZONE
+PANĂ DE CURENT ([cost])
+PANĂ DE CURENT INDISPONIBIL PENTRU ACEASTĂ CAMERĂ
+S-A ATINS LIMITA DE PENE DE CURENT MOMENTANE
+TIMP DE AȘTEPTARE PANĂ DE CURENT
+TRIMITE LIFT ([cost])
+IZOLARE ([cost])
+TIMP DE AȘTEPTARE IZOLARE
+FĂRĂ UȘI DISPONIBILE PENTRU IZOLARE
+PING LOCAȚIE ([cost])
+LIMITA DE RATĂ DE PING S-A ATINS
+SCHIMBARE DE CAMERĂ A EȘUAT
+SEMNAL PIERDUT
+RECONECTARE (ETA: [time]s)
+ACTIVARE POARTĂ TESLA ([cost])
+TIMP DE AȘTEPTARE ACTIVARE POARTĂ TESLA
+$Nivel de Accesare [tier]$ - DEBLOCAT
+$PUTERE AUXILIARĂ$ limita crescută la $[limit]$.
+$PANĂ DE CURENT$ acum disponibilă - apasă $[key]$ pentru a dezactiva luminile camerei.
+$PANĂ DE CURENT$ capacitate crescută la $[number]$ camere.
+$IZOLARE$ acum disponibilă - apasă $[key]$ pentru a încuia temporar toate ușile dintr-o cameră.
++[amount] EXP - Comandă Admin
++[amount] EXP - Asistare terminație Personal Clas-D
++[amount] EXP - Asistare terminație Om de Știință
++[amount] EXP - Asistare terminație Paza Facilității
++[amount] EXP - Asistare terminație Nine-Tailed Fox
++[amount] EXP - Asistare terminație Insurgența Haosului
++[amount] EXP - Asistare terminație Om
++[amount] EXP - Martor la terminație de către un coechipier
++[amount] EXP - Asistență la urmărire a coechipierului
++[amount] EXP - Protecția coechipierilor
++[amount] EXP - Utilizare a Micro H.I.D.-ului împiedicată.
+CAMERĂ FEED ONLINE
+PANĂ DE CURENT ÎN TOATĂ ZONA ([cost])
+$PANĂ DE CURENT ÎN TOATĂ ZONA$ acum disponibil - lângă etichetele zonei de pe $Harta Facilității$.
+TIMP DE AȘTEPTARE PANĂ DE CURENT ÎN TOATĂ ZONA
+PANĂ DE CURENT DEJA ACTIVĂ
+PANĂ DE CURENT INDISPONIBILĂ PENTRU ACEASTĂ ZONĂ
+FORME DE VIAȚĂ TOTALE
+ȚINTE
+SUBIECTE SCP
+CIVILI
+MILITAR
+UTILIZAȚI SPEAKER
+ACCES LA LIFT NEGAT
+SCP-079 nu are capacități directe de luptă sau mișcare. În schimb, priviți lumea prin camerele de securitate găsite în fiecare cameră. Toate abilitățile disponibile sunt listate în colțul din dreapta sus al HUD-ului tău.
+Practic Indestructibil:Trei generatoare apar în Heavy Containment. Dacă toate sunt deblocate și activate, poți fi distrus din camera ta. Generatoarele au o secvență de numărătoare inversă pe care orice jucător o poate întrerupe apăsând butonul „CANCEL” de pe generator.
+Acces Nelimitat:Puteți manipula numeroase sisteme din facilitate pentru a-i ajuta pe ceilalți SCP. Colțul din dreapta sus a ecranului arată ce abilități sunt disponibile. Aceste abilități costă puterea auxiliară (AP) de utilizat, care se regenerează în timp.
+Învățare Profundă:Asistența la rezilieri sau efectuarea de acțiuni utile pentru celelalte SCP-uri vă va oferi experiență către un nou nivel de acces. Fiecare nivel nou oferă mai mult AP și îți oferă noi abilități.
+Overwatch: A fi peste tot și nicăieri îți oferă o perspectivă unică. Puteți da ping la locații, oameni și obiecte de interes, permițându-vă să asistați la sacrificarea oamenilor.

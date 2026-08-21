@@ -1,0 +1,33 @@
+Este corpul lui <b>[user]</b> - ei erau [class]!\n\nCauza morții: [cause]
+Reținut.
+Vaporizat de Alfa Warhead.
+Încetarea bruscă a semnelor de viață. Fără traume clare.
+Cauza a morții neștiută.
+Multe arsuri electrice.
+Lipsa de oxigen a dus la moartea prin asfixie.
+Pierderi severe de sânge căuzate de răni profunde.
+Ai sângerat.
+Picioarele sparte sugerează traume fatale căuzate de o cădere.
+Ai căzut jos.
+Decedat în Dimensiunea de Buzunar.
+Topit de o substanță foarte corozivă.
+Pielea galbenă bolnavă și mirosul rânced sugerează moartea prin otravă.
+Otrava te-a terminat.
+Pielea palidă și sângele care scurge din gură sugerează sângerări interne căuzate de ingestia de substanțe.
+SCP-207 te-a terminat.
+Nu ar fi trebuit să iei mai mult de două!
+Ai fost prins de o Poartă Tesla.
+Shrapnel și arsuri grave căuzate de o explozie.
+Ai fost ucis de o explozie din apropiere.
+Lacerări masive și pierderi excesive de sânge.
+Fractură cervicală la baza craniului.
+Se pot observa urme mari de mușcături adânci pe corp.
+Traumele contondente și zgârieturile minore sunt prezente pe corp.
+Rane de glonț [ammotype].
+Traumatism contondent fatal; corpul este grav mutilat și pulpat.
+Semnele unui traumatism sever la ambele oase ale femurului sugerează moartea prin șoc circulator.
+Ai fost sacrificat pentru a recontamina SCP-106.
+Ucis automat pentru friendly fire.
+Pielea rece și degetele înghețate sugerează o moarte prin hipotermie.
+Ai înghețat până la moarte.
+Lacerații profunde și zgârieturi sunt prezente pe corp.

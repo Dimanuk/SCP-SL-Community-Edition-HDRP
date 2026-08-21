@@ -1,0 +1,12 @@
+Klicke [key_attack] oder [key_jump], um zu springen.
+Vorschau der Stimme (nur du kannst dies hören)
+LOKALE VORSCHAU
+Stimme entfernen (halten)
+Spiele die Stimme ab (jeder kann dies hören)
+SCP-939 hat dich getötet und deine Stimme gestohlen!
+Wenn du nicht möchtest, dass deine Stimme verwendet wird, kannst du diese Funktion ausschalten.
+Meine Auswahl merken
+Löschen
+OK
+Mehr Informationen
+SCP-939 verwendet eine Mechanik, wobei die letzten wenigen Sekunden deines Sprachchats temporär aufgenommen werden. Dies kann durch SCP-939 wieder abgespielt werden, um Ziele anzulocken.\nDie Aufnahmen werden automatisch gelöscht, wenn du den Server verlässt, SCP-939 stirbt, oder die Runde endet. Wenn du dieses Feature ausschaltest, werden alle deine existierenden Aufnahmen gelöscht.

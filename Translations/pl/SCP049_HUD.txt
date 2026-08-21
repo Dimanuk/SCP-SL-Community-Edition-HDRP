@@ -1,0 +1,23 @@
+Ta dusza nas opuściła.
+Tego ciała nie można już wyleczyć.
+Ta dusza była już wskrzeszana zbyt wiele razy.
+Ta dusza już nie chce być wskrzeszana.
+Tego ciała nie można wskrzesić.
+Te ciało zostało już zjedzone.
+Tylko ludzkie ciała mogą być zjedzone.
+ODNAWIANIE ATAKU
+Odmówiono dalszego wskrzeszania przez SCP-049!
+Naciśnij [key] aby odmówić dalszego wskrzeszania.
+Nie znaleziono celu.
+Posiadasz pełną ilość zdrowia.
+Te ciało jest już jedzone.
+Powolny i słaby SCP-049 specjalizuje się w zasadzkach i może odwrócić losy gry wraz z hordą swoich "wyleczonych".
+Szybkie i niebezpieczne podmioty SCP-049-2 kłębią się przed swoim panem siejąc panikę i chaos oraz pozostawiając nowe ciała które dołączą do fali.
+Atak serca:Wyciągasz przed siebie dłoń, aby dotknąć serc ofiarom zarazy, zatrzymując im funkcje życiowe i dając sobie szansę na podanie lekarstwa.
+Zmysł doktora:Skupiasz się na skażonej duszy. Poruszasz się szybciej, zdeterminowany, aby pozbyć się zarazy. Jesteś w stanie wskazać jej odległość od ciebie dzięki znanemu ci aromatowi.
+Wezwanie doktora:Sygnalizujesz swoją lokację twoim wyleczonym. Gdy stoją obok ciebie, ich ciała uodparniają się na obrażenia. Dobry doktor zawsze sprawdza swoich pacjentów.
+Nie marnuj, a nie będziesz w potrzebie:Twoje zdolności medyczne wymagają efektywności. Możesz wskrzeszać wyleczonych w nieskończoność. Nie każdego dnia zmarli powstają dwa razy.
+Lobotomiczna żądza krwi:Twój umysł został przymusowo usunięty, zostawiając ci tylko przemoc. Znajdujesz ścigających ciebie ludzi coraz szybciej i w końcu do nich dotrzesz ...
+Zachłanność:Lekarstwo nie jest bez zalet. Jesteś w stanie regenerować swoje ciało, używając pobliskich zwłok. Nie ma jednak dzielenia się nimi. Pamiętaj aby być pierwszym na uczcie.
+Wskrześ
+Przytrzymaj [key]

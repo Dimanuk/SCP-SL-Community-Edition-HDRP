@@ -1,0 +1,38 @@
+Atirar
+Mirar
+Pular
+Interagir
+Inventário
+Recarregar
+Correr
+Chat de voz
+Esgueirar-se
+Mover para Frente
+Mover para Trás
+Mover para Esquerda
+Mover para Direita
+Lista de jogadores
+Informações do personagem
+Administrador remoto
+Alternar lanterna
+Bate-papo por voz alternativa
+Noclip
+Console do jogo
+Tecla de atalho do cartão-chave
+Inspecionar
+Engatilhar Revólver
+Lançar Item
+Tecla de atalho da Arma Primária
+Tecla de atalho de Arma Secundária
+Tecla de atalho Médica
+Esconder GUI
+Alternar Neblina do Noclip
+Tecla de atalho de Granada
+Menu de Pausa
+Registro de Depuração
+Modo de Visão Livre
+Bloquear Porta
+Liberar Todos Bloqueios
+Blecaute
+Confinamento
+Ping

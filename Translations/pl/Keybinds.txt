@@ -1,0 +1,38 @@
+Strzał
+Przybliżenie
+Skok
+Interakcja
+Ekwipunek
+Przeładowanie broni
+Bieg
+Czat głosowy
+Skradanie
+Ruch w przód
+Ruch w tył
+Ruch w lewo
+Ruch w prawo
+Lista graczy
+Informacje o postaci
+Remote Admin
+Latarka
+Drugi czat głosowy
+Noclip
+Konsola gry
+Skrót na kartę dostępu
+Oglądanie broni
+Zakorkowanie rewolwera
+Rzut przedmiotem
+Skrót na broń pierwszą
+Skrót na broń drugą
+Skrót na przedmioty medyczne
+Schowaj interfejs
+Przełącz mgłę w noclipie
+Skrót na granat
+Menu pauzy
+Dziennik debugowania
+Tryb wolnego widoku
+Zablokuj drzwi
+Odblokuj wszystko
+Zgaś światła
+Zablokuj pomieszczenie
+Zaznacz lokację

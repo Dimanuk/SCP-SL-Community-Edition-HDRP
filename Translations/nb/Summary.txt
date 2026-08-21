@@ -1,0 +1,17 @@
+Runden er ferdig!
+SCPENE VANT
+MTF VANT
+OPPRØRSBEVEGELSEN VANT
+FASTLÅST SITUASJON
+Alle rømte subjekter er mistet. Nødetater er blitt avlyst.
+All trussel er uskadeliggjort. Dette fasilitetet er trygt igjen.
+Alt sikkerhetspersonell uskadeliggjort. Opprørs-okkupasjon i gang.
+Fasilitet-02 er under usikker kontroll. Vinneren er usikker.
+[summary_d_escaped] klasse d-personell rømte
+[summary_s_escaped] forsker(e) overlevde
+Detonasjonen av Stridshode Alpha drepte [summary_warhead_kills] sjeler.
+Stridshode Alpha ble ikke detonert i løpet av dette oppdraget.
+Oppdraget varte i [summary_round_minutes] minutter og [summary_round_seconds] sekunder.
+[summary_scp_terminated] uskadeliggjorte SCPer
+Neste runde om [summary_next_round_countdown] sekunder.
+SCPene drepte [summary_scpfrags] mennesker.

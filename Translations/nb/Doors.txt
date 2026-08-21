@@ -1,0 +1,10 @@
+<color=green>ÅPNE</color>
+<color=#07A2FF>LUKKET</color>
+<color=orange>FJERNE</color>
+<color=red>LÅST NED</color>
+<color=red>FEIL</color>
+<color=red>TILGANG NEKTET</color>
+<color=green>TILGANG INNVILGET</color>
+<color=#07A2FF>NØKKELKORT KREVES</color>
+<color=orange>VENNLIGST PASSER</color>
+<color=orange>LUKKER</color>

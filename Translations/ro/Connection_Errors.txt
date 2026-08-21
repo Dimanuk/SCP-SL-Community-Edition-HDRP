@@ -1,0 +1,38 @@
+<size=80>AI FOST DAT AFARĂ</size>\nServerul a fost forțat să oprească conexiunea.\n<size=26>\nProbabil ai fost banat temporar de administratori\nsau nu întâlnești necesitățile serverului (de exemplu: conexiune la Steam).\nPentru banuri temporale posibile - autorii jocului <b>nu</b> sunt responsabili.\n</size>
+<size=80>DECONECTAT</size>\nGazda specificată nu este valabilă.
+<size=80>DECONECTAT</size>\nConexiunea specificată de ID nu există.
+<size=80>DECONECTAT</size>\nCanalul specificat nu există.
+<size=80>DECONECTAT</size>\nServerul este full.
+<size=80>DECONECTAT</size>\nPrimit pachetul greșit.
+<size=80>DECONECTAT</size>\nConexiune pierdută (timed out).
+<size=80>DECONECTAT</size>\nConexiune pierdută (timed out).
+<size=80>DECONECTAT</size>\nOperația nu este suportată.
+<size=80>DECONECTAT</size>\nVersiunea ta de joc este diferită cu cea al serverului.
+<size=80>DECONECTAT</size>\nServer config invalabil.
+<size=80>DECONECTAT</size>\nAdresa este invalidă sau nu poatea fi rezolvată.
+<size=80>DECONECTAT</size>\nO problemă neașteptată s-a întamplat!
+<size=80>AȘTEAPTĂ</size>\n<size=35>Stabilind conexiunea...</size>
+<size=80>RESTARTARE RUNDĂ</size>\n<size=35>Runda reîncepe...</size>
+<size=80>AȘTEAPTĂ</size>\n<size=35>Încărcând tutorialul...</size>
+<size=80>VERSIUNE INCOMPATABILĂ</size>\nVersiunea jocului tău este diferită de cea a serverului\n(Client - [your]; Server - [server])
+<size=80>CONNECTAT</size>\n<size=35>Încărcând nivel...</size>
+<size=35>Încărcând facilitatea...</size>
+<size=80>DECONECTAT</size>\nEroare nespecificată de server.
+<size=80>DECONECTAT</size>\nAcest server necesită conexiune la servere centrale.
+<size=80>DECONECTAT</size>\nNu ești pe whitelist pe acest server.
+<size=80>DECONECTAT</size>\nAi fost banat global.
+<size=80>DECONECTAT</size>\nAi fost banat global: [reason].
+<size=80>DECONECTAT</size>\nAi fost banat de pe acest server.
+<size=80>DECONECTAT</size>\nAi fost banat de pe acest server.\nBanul expiră: [date] [time]
+<size=80>DECONECTAT</size>\nTokenul de autenticație a expirat.\nServerul ar putea avea timp setat greșit sau zona timpului.\nVă rugăm contactați un administrator de server.
+<size=80>DECONECTAT</size>\nAi fost limitat de rată. Încercați iarăși în câteva secunde.
+<size=80>DECONECTAT</size>\nServerul nu acceptă conexiuni de la locația ta geografică.\nNumele sau informația serverului ar putea conține mai multe informații.
+<size=80>DECONECTAT</size>\nAi fost dat afară de o modificație a serverului.\n\nMotiv: [reason]\nEste o modificație a serverului, nu ceva în joc.\nContactează un administrator pentru mai multe informații.
+<size=80>DECONECTAT</size>\nTokenul tău de server a fost respins.\nRestartează jocul și încearcă iarăși sau contactează studioul tehnic de suport.
+<size=80>DECONECTAT</size>\nAi fost banat de la server.\nMotiv: [reason]
+<size=80>DECONECTAT</size>\nAi fost banat de la server.\nBanul expiră: [date] [time]\nMotiv: [reason]
+<size=80>Așteaptă</size>\nProcesând verificarea securității serverului...
+<size=80>DECONECTAT</size>\nEșuat să procesezi verificarea securității serverului.
+<size=80>DECONECTAT</size>\nProcesarea a verificarea securității serverului era prea încet pentru acest server.\nVă rugăm încercați iarăși sau contactați un administrator a serverului.
+<size=80>EROARE AUTH</size>\nMESAJ CENTRAL SERVER: [message].
+<size=80>DECONECTAT</size>\nServerul se închide.

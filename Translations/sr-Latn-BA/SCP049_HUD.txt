@@ -1,0 +1,23 @@
+Ova duša nije više sa nama.
+Ovaj leš je istekao.
+Ova duša je bila izlječena previše puta.
+Ova duša neće više da se lječi.
+Ovaj leš se ne može izlječiti.
+Ovaj leš je već bio konzumiran.
+Samo ljudski leševi se mogu konzumirati.
+ČEKANjE NAPADA
+Odbio si dalje lječenje od SCP-049!
+Pritisni [key] da odbiješ dalje oživljavanje.
+Meta nije pronađena.
+Već si na maksimalnom HP.
+Ovaj leš se već konzumira.
+Spor i osjetljiv, SCP-049 specilizira kao zasjedni predator, u mogućnosti da promjeni rezultat igre sa hordama "izlječenog" osoblja.
+Brz i opasan, SCP-049-2 instance idu ispred njihovog gospodara da prave probleme, praveći nove leševe da se pridruže timu.
+Srčani Napad:Vi pružite vašu ruku u rukavici da dodirnete srce tih koji pate od Pestilence-a, praveći njihove funkcije tjela da brzo propadaju; dajeći vama šansu da primjenite vaš lijek.
+Dobar Osjećaj Doktora:Vi pomjerite vaš fokus na ugroženu dušu. Vi se pomjerate brže, uporni da uklonite ih od Pestilence-a. Vi možete da mjerite udaljenost od žrtve koristeći aromu same bolesti.
+Poziv Doktora:Vi dajete vašu lokaciju svom izlječenom osoblju. Kada stoje blizu vas, njihova tjela se onaprede i mogu tolerisati više štete. Dobar doktor uvijek provjerava stanje njegovih pacijenata.
+Ne troši, Ne želi:Vaši medicinski instikti nisu bez potrebe za efikasnošću; možete ponovo i ponovo oživljavati izlječene da biste pružili više uvida. Nije svaki dan da mrtvi se ožive dva puta.
+Lobotomizovan Krvožeđnost:Vaš mozak je silno uklonjen, ostavljajući vas samo sa nasiljem. Vi vidite sebe kako brže i brže ganjate ljude što ih više ganjate...
+Proždrljivost:Lijek nije skroz bez beneficija. Vi možete regenerisati baše tkivo koristeći masu bliženjeg leša. Nema djeljenja, tako da pobrinite se da ste prvi stigli na gozbu.
+OŽIVI
+DRŽI [key]

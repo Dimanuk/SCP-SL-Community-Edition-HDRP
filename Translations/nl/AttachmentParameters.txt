@@ -1,0 +1,19 @@
+ADS zoom
+---
+Schade
+Penetratie
+Vuursnelheid
+Terugslag
+Terugslag tijdens Richten
+Kogelaccuratie
+Heupvuuraccuratie
+Richtaccuratie
+Uitrusttijd
+Schotvolume
+Magazijn Grootte
+Uitrusttijd
+Herlaadtijd
+---
+Richtsnelheid
+Korrelverspreiding
+Patroonconsistentie

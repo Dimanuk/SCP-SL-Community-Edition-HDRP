@@ -1,0 +1,74 @@
+INGRANDIMENTO [amount]x
+LIVELLO D'ACCESSO [tier]
+XP [current] / [next]
+MASSIMO LIVELLO RAGGIUNTO
+NESSUNA TELECAMERA
+VAI A: [camera] ([cost])
+NON HAI ABBASTANZA ENERGIA AUSILIARIA
+TEMPO STIMATO D'ARRIVO: [time] secondi
+È RICHIESTO UN LIVELLO SUPERIORE
+TELECAMERA NON VALIDA
+ACCESSO ALLA PORTA NEGATO
+APRI LA PORTA ([cost])
+CHIUDI LA PORTA ([cost])
+BLOCCA LA PORTA ([cost])
+SBLOCCA LA PORTA
+TEMPO DI RICARICA PER BLOCCARE LA PORTA
+ENERGIA AUSILIARIA
+STAI ESSENDO ATTACCATO!
+SBLOCCA TUTTE LE PORTE BLOCCATE ([num] totale/i)
+APRI LA MAPPA DELLA STRUTTURA
+CHIUDI
+LIGHT CONTAINMENT ZONE
+HEAVY CONTAINMENT ZONE
+ENTRANCE ZONE
+SURFACE ZONE
+BLACKOUT ([cost])
+IL BLACKOUT NON È DISPONIBILE PER QUESTA STANZA
+BLACKOUT MASSIMI RAGGIUNTI
+TEMPO DI RICARICA PER IL BLACKOUT ALL'INTERNO DELLA STANZA
+AVVIA L'ASCENSORE ([cost])
+ISOLAMENTO ([cost])
+TEMPO DI RICARICA PER ISOLARE LA STANZA
+NON CI SONO PORTE DISPONIBILI PER ISOLARE LA STANZA
+SEGNALA LA POSIZIONE ([cost])
+LIMITE DI SEGNALAZIONI RAGGIUNTE
+PASSAGGIO DI TELECAMERA NON RIUSCITO
+SEGNALE PERSO
+RICONNESSIONE (TEMPO STIMATO: [time]secondo/i)
+ATTIVA IL TESLA GATE ([cost])
+TEMPO DI RICARICA PER ATTIVARE IL TESLA GATE
+$Access Tier [tier]$ - SBLOCCATO
+$AUXILIARY POWER$ limite incrementato a $[limit]$.
+Il $BLACKOUT$ è ora disponibile - premi $[key]$ per disabilitare le luci della stanza.
+La capacità del $BLACKOUT$ è stata incrementata a $[number]$ stanze.
+L'$ISOLAMENTO$ è ora disponibile - premi $[key]$ pre bloccare tutte le porte all'interno della stanza.
++[amount] XP - comando Admin
++[amount] XP - partecipazione alla terminazione di un Classe D
++[amount] XP - partecipazione alla terminazione di uno Scienziato
++[amount] XP - partecipazione alla terminazione di una Guardia della Struttura
++[amount] XP - partecipazione alla terminazione di un Nine-Tailed Fox
++[amount] XP - partecipazione alla terminazione di un Chaos Insurgency
++[amount] XP - partecipazione alla terminazione di un umano
++[amount] XP - testimone della cessazione da parte di un compagno di squadra
++[amount] XP - partecipazione ad un inseguimento di un compagno
++[amount] XP - protezione di un compagno di squadra
++[amount] XP - evitato l'utilizzo di una Micro H.I.D.
+TELECAMERA ONLINE
+BLACKOUT DI ZONA ([cost])
+$BLACKOUT DI ZONA$ è ora disponibile - sulle etichette di zone della $MAPPA DELLA STRUTTURA$.
+TEMPO DI RICARICA PER IL BLACKOUT DI ZONA
+IL BLACKOUT È GIÀ ATTIVO
+IL BLACKOUT NON È DISPONIBILE PER QUESTA ZONA
+FORME DI VITA TOTALI
+TARGET
+ISTANZE SCP
+CIVILI
+MILITARI
+UTILIZZA L'ALTOPARLANTE
+ACCESSO NEGATO ALL'ASCENSORE
+SCP-079 non ha capacità di combattimento diretto o di movimento. Invece, tu vedi e interagisci con il mondo attraverso le telecamere di sicurezza trovate in ogni stanza. Tutte le abilità disponibili sono elencate nell'angolo superiore del tuo HUD.
+Virtualmente Indistruttibile: Tre generatori si generano nella Heavy Containment Zone. Se tutti i generatori verrano sbloccati e attivati, verrai ricontenuto dopo 60 secondi.\nI generatori hanno una sequenza di conto alla rovescia che qualsiasi giocatore può interrompere premendo il pulsante "CANCEL" sul generatore, anche gli SCP.
+Accesso illimitato:È possibile manipolare numerosi sistemi nella struttura per assistere gli altri SCP. La parte in alto a destra dello schermo mostra quali abilità sono disponibili. Queste abilità costano energia ausiliaria (AP) da usare, che si rigenera nel tempo.
+Apprendimento profondo:Assistere nelle terminazioni o eseguire azioni utili per gli altri SCP ti garantirà esperienza verso un nuovo livello di accesso. Ogni nuovo livello fornisce più AP e ti concede nuove abilità.
+Overwatch:Essere ovunque e da nessuna parte ti dà una prospettiva unica. È possibile eseguire la segnalazione delle posizioni, persone e oggetti di interesse, che consente di assistere nel massacro.

@@ -1,0 +1,42 @@
+0~Vaktmester Nøkkelkort
+1~Forsker Nøkkelkort
+2~Forskings Veileder Nøkkelkort
+3~Sone Sjef Nøkkelkort
+4~Annlegsvakt Nøkkelkort
+5~MTF Privat Nøkkelkort
+6~Innestengnings Ingenør Nøkkelkort
+7~MTF Sersjant Nøkkelkort
+8~MTF Kaptein Nøkkelkort
+9~Anleggssjef Nøkkelkort
+10~Opprørstilgangsenhet
+11~O5-nivå nøkkelkort
+12~Radio
+13~COM-15
+14~Førstehjelp~Behandler dine skader.
+15~Lommelykt~La det bli lys!
+16~Micro H.I.D.~Mobil høyintensiv elektrisk utladningskaster.
+17~SCP-500~Universalmiddel.
+18~SCP-207 ~Skadelig øker motoriske ferdigheter.
+20~MTF-E11-SR
+21~Crossvec
+23~FSP-9
+24~Logicer
+25~Høy-Eksplosiv Granat~Boom!
+26~Lysgranater~Blender dine fiender.
+30~COM-18
+31~SCP-018~Super-sprettball som er i stand til å sprette med ekstrem effekt.
+32~SCP-268~Når den er aktivert, gjør den deg midlertidig usynlig med mindre den brytes av eventuelle brukerinteraksjoner.
+33~Adrenalin~Midlertidig øker utholdenheten.
+34~Smertestillende~Behandle mindre skader.
+35~Mynt~Du er ikke sikker på hvorfor du vil bære denne rundt...
+36~Lett Beskyttelse
+37~Middels Beskyttelse
+38~Tung Beskyttelse
+39~.44 Revolver
+40~AK
+41~Hagle
+42~Pose med Godteri~En pose som inneholder følgende godteri:
+43~SCP-2176~Ditt helt egne spøkelses-lys! Forsiktig, veldig skjør...
+44~SCP-244-A~En antikk vase, iskald overflate. Lager en stor sky av is-tåke når plassert.
+45~SCP-244-B~En antikk vase, iskald overflate. Lager en stor sky av is-tåke når plassert.
+46~SCP-1853~Forbedrer våpen-manipulasjons ferdigheter til tross for høyere utholdenhets-påkjenning.

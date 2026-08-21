@@ -1,0 +1,23 @@
+UĆUTKAN ZAHTJEVOM ADMINISTRATORA
+GLOBALNO UĆUTKANI
+NISTE PRIJAVLJENI
+Podesite postavke privatnosti
+Vaš mikorfon je isključen zbog vaših postavka privatnosti.
+Glasovni čet postavke
+Ova igra koristi glasovni čet. Koristeći dugma za priču (podešeno kao "Q" and "V") Ovo će hvatati zvuk od mikrofona i slati svim igračima povezanim na serveru radi priče.\nNeke funkcije igre će ove zvukove zadržati malo, ovi zvukovi će se izbrisati kada prekinete vezu sa serverom.
+Odbij sve (ne daj pristup mikrofonu)
+Podesite postavke
+Prihvati sve
+Prihvati
+Odbij
+Hvatanje mirkofona
+Dozvoli igri da hvata zvukove koji sluša vaš mikrofon i da šalje svim igračima na serveru. Slika mirkofona će se prikazati na donjoj strani ekrana, pokazivajući prenošenje zvuka. Igra nikada neće slati zvukove, niti koristiti vaš mikrofon kad se ne vidi ta slika.
+Kratko sačuvanje zvuka
+Dozvoli mehanikama u igri da sačuvaju vaš glas za kratko vrijeme. Ovo podrazumjeva SCP-939 "Sa mnogo glasova" moć, koji može da snima i da pusti da se čuju mali klipovi ubijenih igrača. Svi snimci se brišu kada se restartuje runda ili kada prekinete vezu sa serverom.
+Potvrdi podešavanja
+Vrati se
+Pritisni "[key]" pa na "Postavke" da se promjeni.
+Utišaj druge žive igrače
+Utišaj druge posmatrače
+Utišaj server
+Utišaj globalni čet na kraju meča

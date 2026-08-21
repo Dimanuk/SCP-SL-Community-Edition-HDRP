@@ -1,0 +1,8 @@
+RECARGA DE ATAQUE
+Indisponível na Superfície.
+Indisponível durante transporte por elevador.
+Uma imparável força capaz de evadir facilmente qualquer porta da instalação.
+Captura:Apanha um humano à curta distância, aprisionando-o dentro da dimensão do bolso - uma prisão mortal ditada por suas regras. A alegria de capturar novas presas reabastece o Vigor.
+Perseguição:Submerge você no chão. Mova-se de forma rápida e invisível, regenere-se e prepare-se para atacar sua presa. Usa Vigor, que se regenera lentamente enquanto Perseguição está inativa.
+Atlas do Caçador:Mova-se rapidamente para uma sala próxima, com um grande custo de Vigor. Tal movimento é instintivo para você por ter perambulado pelos corredores do Sítio por tanto tempo.
+Bendita Agonia:Durante a Perseguição, você só pode ver humanos feridos. Quanto maior suas agonias, maior a distância de onde você pode identificá-los. Os fugitivos da dimensão do bolso ficam traumatizados, deixando-os visíveis de qualquer lugar.

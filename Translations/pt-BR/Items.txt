@@ -1,0 +1,44 @@
+0~Cartão de Zelador
+1~Cartão de Cientista
+2~Cartão de Supervisor de Pesquisa
+3~Cartão de Diretor de Zona
+4~Cartão de Guarda
+5~Cartão de MTF Privado
+6~Cartão de Engenheiro de Contenção
+7~Cartão de MTF Sargento
+8~Cartão de MTF Capitão
+9~Cartão de Diretor da Instalação
+10~Dispositivo de Acesso da Insurgência do Caos
+11~Cartão nível-O5
+12~Rádio
+13~COM-15
+14~Kit Médico~Cura seus machucados.
+15~Lanterna~Que haja luz!
+16~Micro H.I.D.~Lançador de descarga elétrica móvel de alta intensidade.
+17~SCP-500~Cura-tudo.
+18~SCP-207~Prejudicialmente aumenta as funções motoras.
+20~MTF-E11-SR
+21~Crossvec
+23~FSP-9
+24~Logicer
+25~Granada Altamente-Explosiva~Boom!
+26~Granada Flashbang~Cega seus inimigos.
+30~COM-18
+31~SCP-018~Superbola capaz de quicar com extrema eficiência.
+32~SCP-268~Quando usado, torna você temporariamente invisível, à menos que seja interrompido por qualquer interação do usuário.
+33~Adrenalina~Aumenta temporariamente a resistência.
+34~Analgésicos~Trata machucados menores.
+35~Moeda~Você não tem certeza por que deseja carregar isso por aí...
+36~Colete Leve
+37~Colete de Combate
+38~Colete Pesado
+39~.44 Revolver
+40~AK
+41~Espingarda
+42~Saco de Doces~Um saco contendo os seguintes doces:
+43~SCP-2176~Sua própria Luz Fantasma! Atenção, muito frágil...
+44~SCP-244-A~Um vaso antigo, congelando ao toque. Cria uma grande nuvem de neblina gelada quando colocada.
+45~SCP-244-B~Um vaso antigo, congelando ao toque. Cria uma grande nuvem de neblina gelada quando colocada.
+46~SCP-1853~Melhora as habilidades de manipulação de armas.
+47~3-X Disruptor de Partículas
+48-COM-45

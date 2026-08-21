@@ -1,0 +1,48 @@
+SES DÜZEYİ
+Evet
+BAŞLAMAYA ZORLA
+SCP-106 GERİ BARINDIRMA\nPROSEDÜRÜ BAŞLAT
+Y-ekseni ters çevir
+ÖZET
+İptal
+E N V A N T E R
+PARLAKLIK
+AYARLAR
+BAĞLANTIYI KES
+ALFA SAVAŞ BAŞLIĞI DEVREDIŞI
+ERİŞİM REDDEDİLDİ
+SESLİ SOHBET
+ENVANTER DOLU
+F. HASSASİYETİ
+HACKLENİYOR
+ALINIYOR...
+Oyun parlaklığını arttırmak <b> oyunun atmosferini önemli derecede kötüleştirir. </b>\nBu değeri olabildiğince düşüğe alın.\n<b>Varsayılan değerde bırakmak önerilir.</b>
+[1] KAPIYI AÇ/KAPA\n[2] KAPIYI KİLİTLE*\n\n*Kapıyı kilitlemek özel yeteneğini kullanır
+KAPI SCP-079 TARAFINDAN KİLİTLENDİ
+Tam-ekran modu
+Bu sunucudan çıkmak istediğine emin misin?
+Temel ayarlar. Menüdeki ayarların tam listesi.
+OYUNCULAR BEKLENİYOR
+ÖZET
+DEVAM ET
+ANA SES
+bağlandı
+Bir Bilim adamı olarak kaçtın ve MGG birimlerine katıldın.
+Bir D-Sınıf olarak kaçtın ve Kaos İsyancılarına katıldın.
+ROLÜN
+Kaçış süresi: [escape_minutes] dakika ve [escape_seconds] saniye
+[item] eşyasını tekrar kullanmak için [time] kadar bekleyin.
+DAHA FAZLA BİLGİ İÇİN <color=white><b>F1</b></color> TUŞUNA BAS
+Tutuklandın\n<size=40>emirlere uy veya takım arkadaşlarından yardım iste</size>
+Dokuz Kuyruklu Tilki ekibi tarafından yakalandın.\nVakıftan bir tehditin azalmasıyla beraber, kendi saflarını güçlendirebilirler.
+Bilim adamı olarak Kaos İsyancıları seni esir aldı.\nOnlara verdiğin bilgilerle bir avantaj elde ettiler.
+OYUN <color=yellow>{0}</color> SANİYE İÇİNDE BAŞLICAK
+GERİ SAYIM <color=#FF5050>DURDURULDU</color>
+NİŞAN ALMA HASSASİYETİ AZALTMASI
+Fırlatmayı iptal etmek için [key] tuşuna bas.
+Nişan almayı bas-çek
+İzleyici Sohbetini Sustur
+Gürültü Azaltmayı Etkinleştir (önerilir)
+Otomatik (Sistem Varsayılanı)
+Mikrofon Algılanamadı!
+GİRİŞ AYGITI

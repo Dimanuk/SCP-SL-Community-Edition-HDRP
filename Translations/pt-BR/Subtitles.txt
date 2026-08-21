@@ -1,0 +1,27 @@
+Força-Tarefa Móvel Unidade Epsilon-11, designada [designation], entrou na instalação.<split>Todos os funcionários restantes são aconselhados à prosseguir com os protocolos de evacuação padrões até que um esquadrão da MTF chegue ao seu destino.<split>
+Aguardando re-contenção de: [count] entidades SCP.
+Aguardando re-contenção de: 1 entidade SCP.
+Ameaça substancial à segurança permanece dentro da instalação - Exercer cautela.
+neutralizado com sucesso. Causa de neutralização não especificada.
+neutralizado por SCP-[scp].
+neutralizado com sucesso pelo Sistema de Segurança Automático.
+neutralizado com sucesso pela Ogiva Nuclear Alfa
+contido com sucesso por indivíduo do Departamento Científico.
+contido com sucesso por sujeito Classe-D.
+contido com sucesso pela Insurgência do Caos.
+SCP-[scp]
+contido com sucesso. Unidade de contenção desconhecida.
+contido com sucesso. Unidade de contenção [designation].
+perdido na Sequência de Descontaminação.
+[current] de [max] geradores ativados.
+<split>Todos os geradores foram ativados com sucesso.
+Sobrecarga em 3... 2... 1...
+A instalação está de volta ao modo operacional.
+Atenção, todos os indivíduos.<split>O processo de descontaminação da Zona de Contenção Leve ocorrerá em T-15 minutos.<split>Todas as substâncias biológicas devem ser removidas para evitar destruição.
+Perigo, descontaminação geral da Zona de Contenção Leve em T-[time] minutos.
+Perigo, descontaminação geral da Zona de Contenção Leve T-1 minuto.
+Perigo, descontaminação geral da Zona de Contenção Leve em T-30 segundos.<split>Todas as portas dos postos de controle foram permanentemente abertas. Por favor, evacue imediatamente.
+A Zona de Contenção Leve está bloqueada e pronta para descontaminação.<split>A remoção de substâncias orgânicas acabou de começar.
+SEQUÊNCIA DE DETONAÇÃO DE EMERGÊNCIA DA OGIVA ALFA FOI ATIVADA.<split>A SEÇÃO SUBTERRÂNEA DA INSTALAÇÃO SERÁ DETONADA EM T-[time] SEGUNDOS.
+DETONAÇÃO CANCELADA. REINICIANDO SISTEMAS.
+SEQUÊNCIA DE DETONAÇÃO RETOMADA, T-[time] SEGUNDOS.

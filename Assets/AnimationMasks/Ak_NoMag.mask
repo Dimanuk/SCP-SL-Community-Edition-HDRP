@@ -1,0 +1,219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Ak_NoMag
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: ak_ammocounter_lod0
+    m_Weight: 0
+  - m_Path: ak_holo_lod0
+    m_Weight: 0
+  - m_Path: ak_scope_lod0
+    m_Weight: 0
+  - m_Path: ak_woodenstock_lod0
+    m_Weight: 0
+  - m_Path: akbasemuzzle_lod0
+    m_Weight: 0
+  - m_Path: akbody_lod0
+    m_Weight: 0
+  - m_Path: akbody_reload_lod0
+    m_Weight: 0
+  - m_Path: akbullet_lod0
+    m_Weight: 0
+  - m_Path: akbullets_lod0
+    m_Weight: 0
+  - m_Path: akdrum_lod0
+    m_Weight: 0
+  - m_Path: akflashlight_lod0
+    m_Weight: 0
+  - m_Path: akhand_lod0
+    m_Weight: 0
+  - m_Path: akiron_lod0
+    m_Weight: 0
+  - m_Path: aklaser_lod0
+    m_Weight: 0
+  - m_Path: akmag2_lod0
+    m_Weight: 0
+  - m_Path: akmag_lod0
+    m_Weight: 0
+  - m_Path: akbooster
+    m_Weight: 0
+  - m_Path: akbrake
+    m_Weight: 0
+  - m_Path: aknormalstock_lod0
+    m_Weight: 0
+  - m_Path: aksilencer_lod0
+    m_Weight: 0
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/camera
+    m_Weight: 0
+  - m_Path: Armature/camera/Laser Spot Light
+    m_Weight: 0
+  - m_Path: Armature/hand.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/index1.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/index1.L/index2.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/index1.L/index2.L/index3.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/middle1.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/middle1.L/middle2.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/middle1.L/middle2.L/middle3.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/pinky0.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/pinky0.L/pinky1.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/pinky0.L/pinky1.L/pinky2.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/pinky0.L/pinky1.L/pinky2.L/pinky3.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/ring0.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/ring0.L/ring1.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/ring0.L/ring1.L/ring2.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/ring0.L/ring1.L/ring2.L/ring3.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/thumb1.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/thumb1.L/thumb2.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/thumb1.L/thumb2.L/thumb3.L
+    m_Weight: 0
+  - m_Path: Armature/hand.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/index1.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/index1.R/index2.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/index1.R/index2.R/index3.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/middle1.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/middle1.R/middle2.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/middle1.R/middle2.R/middle3.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/pinky0.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/pinky0.R/pinky1.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/pinky0.R/pinky1.R/pinky2.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/pinky0.R/pinky1.R/pinky2.R/pinky3.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/ring0.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/ring0.R/ring1.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/ring0.R/ring1.R/ring2.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/ring0.R/ring1.R/ring2.R/ring3.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/thumb1.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/thumb1.R/thumb2.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/thumb1.R/thumb2.R/thumb3.R
+    m_Weight: 0
+  - m_Path: Armature/pole.L
+    m_Weight: 0
+  - m_Path: Armature/pole.R
+    m_Weight: 0
+  - m_Path: Armature/root
+    m_Weight: 0
+  - m_Path: Armature/root/arm.L
+    m_Weight: 0
+  - m_Path: Armature/root/arm.L/forearm.L
+    m_Weight: 0
+  - m_Path: Armature/root/arm.R
+    m_Weight: 0
+  - m_Path: Armature/root/arm.R/forearm.R
+    m_Weight: 0
+  - m_Path: Armature/root/main
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/Holo Glass
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/Holo Glass/DotSightRenderer
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/No stock
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/long barrel
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/long barrel/longer
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/long barrel/barrel flash long
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/long barrel/barrel flash long/Point Light
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/long barrel/barrel flash long/sparks
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/long barrel/barrel flash long/barrel flash short (with light) (1)
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/long barrel/barrel flash long/BarrelGas
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/long barrel/barrel flash long/ExplosiveGas
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/Sniper Glass
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/Sniper Glass/SniperCameraTarget
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/Sniper Glass/SniperCameraTarget/SniperCameraCrosshair
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/Sniper Glass/SniperCamera
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/Sniper Glass/SniperCamera/PostProcessing
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/Flashlight Spot Light
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/Laser Forward
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/Casings
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/barrel flash short (with light)
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/barrel flash short (with light)/Point Light
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/barrel flash short (with light)/sparks
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/barrel flash short (with light)/barrel flash short (with light) (1)
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/barrel flash short (with light)/BarrelGas
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/barrel flash short (with light)/ExplosiveGas
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/barrel suppressor flash
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/barrel suppressor flash/ExplosiveGas
+    m_Weight: 0
+  - m_Path: Armature/root/main/attachments/barrel suppressor flash/BarrelGas
+    m_Weight: 0
+  - m_Path: Armature/root/main/bullet
+    m_Weight: 0
+  - m_Path: Armature/root/main/chargingHandle
+    m_Weight: 0
+  - m_Path: Armature/root/main/mag
+    m_Weight: 1
+  - m_Path: Armature/root/main/mag/bullets
+    m_Weight: 0
+  - m_Path: Armature/root/main/mag2
+    m_Weight: 0
+  - m_Path: Armature/root/main/magRelease
+    m_Weight: 0
+  - m_Path: Armature/root/main/trigger
+    m_Weight: 0

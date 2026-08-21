@@ -1,0 +1,27 @@
+Mobile Task Force Unit Epsilon-11 desemnat [designation] a intrat în instalație.<split>Toți personalii rămași sunt sfătuiți să continue cu protocoalele standard de evacuare până când ajunge o echipă MTF la destinația voastră.<split>
+Se așteaptă re-contaminarea pentru: [count] subiecte SCP.
+Se așteaptă re-contaminarea pentru: 1 subiect SCP.
+Amenințare substanțială la siguranță rămâne în cadrul instalației -- fii prudent.
+terminat cu succes. Cauza terminației nespecificată.
+terminat de SCP-[scp].
+terminat cu succes de Sistemul de Securitate Automată.
+terminat cu succes de Alfa Warhead.
+cuprins cu succes de Personali de Știință.
+cuprins cu succes de Personal Clas-D.
+cuprins cu succes de Insurgența Haosului.
+SCP-[scp]
+cuprins cu succes. Unitate de cuprindere necunoscută.
+cuprins cu succes. Unitate de Cuprindere [designation].
+pierdut în Secvența de Decontaminare.
+[current] din [max] generatoare activate.
+<split>Toate generatoarele au fost activate cu succes.
+Supraîncărcare în 3... 2... 1...
+Instalația este din nou în modul operațional.
+Atenție, toți personali.<split>Procesul de decontaminare a Zonei Light Containment va avea loc în T-15 minute.<split>Toate substanțele biologice trebuie îndepărtate pentru a evita distrugere.
+Pericol, Decontaminarea generală a Zonei Light Containment în T-[time] minute.
+Pericol, Decontaminarea generală a Zonei Light Containment în T-1 minut.
+Pericol, Decontaminarea generală a Zonei Light Containment în T-30 de secunde.<split>Toate ușile punctelor de control au fost deschise permanent. Vă rugăm să evacuați imediat.
+Zona Light Containment este blocată și pregătită pentru decontaminare.<split>Îndepărtarea substanțelor organice a început.
+SECVENȚA DE DETONARE DE URGENȚĂ ALFA WARHEAD ACTIVATĂ.<split>SECȚIUNEA SUBTERANĂ A FACILITĂȚII VA FI DETONATĂ ÎN T-[time] SECUNDE.
+DETONAȚIE ANULATĂ. SE REPORNESC SISTEMELE.
+SECVENȚA DE DETONARE RELUATĂ, T-[time] SECUNDE.

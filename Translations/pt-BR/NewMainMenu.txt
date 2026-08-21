@@ -1,0 +1,94 @@
+Notícias
+Servidores
+Opções
+Sair
+Mídia Social
+Internet
+Favoritos
+Oficial
+Historico
+Amigos
+Procurar Servidores
+Criar Servidor
+Reconectar
+Conexão Direta
+Recarregar
+Esconder Servidores Vazios
+Esconder Servidores Cheios
+Sem Whitelist
+Video
+Audio
+Controles
+Gameplay
+Outros
+Modo da Janela
+Tela Cheia Exclusiva
+Janela Sem Bordas
+Janela Maximizada
+Janela
+Sincronização Vertical
+Limite de FPS
+Desligado
+Qualidade da Textura
+Decals
+Sombras
+Qualidade da Sombra
+Distância da Sombra
+Desfoque de Movimento
+Correção de Cores
+Antisserrilhamento
+Renderizar Luzes
+Volume Principal
+Efeitos Sonoros
+Chat de Voz
+Música do Menu
+Volume da Interface
+Tema do Menu
+Intro Desaparecer Rapidamente
+Balanço da Cabeça
+Correr Alternado
+Exibir HP Exato
+Presença na Comunidade
+Lobby Público
+Pesquisar Alternado
+SCP-079 - Modo alternativo
+SCP-079 - Pós-Processamento
+Idioma
+Menu Principal
+Conectar
+Voltar
+Essa alteração exige recarregar o menu.\nRecarregar o menu agora?
+Sim
+Não
+Você tem certeza que deseja sair?
+Resolução da Tela
+Esconder IP
+Bem vindo de volta, {username}!
+Creditos
+AUTENTICANDO
+Conectando-se aos servidores centrais...
+<color=green>Conexão estabelecida</color>
+<color=red>Falha na conexão (Verifique o console para obter detalhes)</color>
+<color=red>Falha na autenticação da Steam (Verifique o console para obter detalhes)</color>
+<color=red>Falha na autenticação do Discord (Verifique o console para obter detalhes)</color>
+Desativado
+Segundo(s)
+Tempo de Limpeza do Ragdoll
+Mostrar Perfil da Steam
+Permite que jogadores vejam o seu perfil da Steam clicando no ícone na lista de jogadores.
+Do Not Track (DNT)
+Proíbe que o servidor utilize os seus dados (endereço IP, ID de usuário, etc.) em propósitos não relacionados à segurança do servidor.
+API Gráfica
+Criar servidores diretamente pelo jogo não é mais suportado.\nExistem atualmente 3 maneiras de criar um servidor de SCP:SL:\n- Você pode baixar o SCP:SL Dedicated Server (Steam AppID: 996560) e executá-lo no seu computador\n- Você pode comprar uma VPS ou um Servidor Dedicado de um provedor de hospedagem e executar o SCP:SL Dedicated Server lá\n- Você pode comprar um servidor SCP:SL de uma hosting de server que fornece suporte para SCP:SL (ex.: ZAP Hosting)\nClique nos links abaixo para ter mais informações. Você pode pedir para o nosso suporte técnico\n (link para o nosso servidor Discord pode ser encontrado no menu principal) para assistência.
+FORÇAR CRIAÇÃO
+LEIA MAIS
+COMPRAR SERVIDOR
+CANCELAR
+Segundo(s)
+Por jogar o nosso jogo!
+Piscar Hotbar ao Spawnar
+Oclusão de Ambiente
+Luzes Volumétricas
+Bloom
+Legendas
+Guia Operacional

@@ -1,0 +1,17 @@
+Náboje {0}/{1} {2}
+Poškození
+Rychlost palby
+Přesnost od Boku
+Přesnost při míření
+Hmotnost:
+Délka
+VYHODIT:
+Účinnost helmy
+Účinnost vesty
+Použítí výdrže
+Rychlost pohybu
+Limit položek:
+Limit munice:
+{0} celkem
+Průbojnost vesty
+Přesnost za běhu

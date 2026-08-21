@@ -1,0 +1,19 @@
+Ngắm bắn
+---
+Sát thương
+Xuyên giáp
+Tốc độ bắn
+Độ giật
+Độ giật khi ngắm
+Độ chính xác
+Độ chính xác khi không ngắm
+Độ chính xác khi ngắm
+Thời gian rút súng
+Âm thanh khai hỏa
+Sức chứa băng đạn
+Thời gian rút súng
+Thời gian nạp đạn
+---
+Tốc độ ngắm
+Độ phân tán đạn
+Độ đều của đạn

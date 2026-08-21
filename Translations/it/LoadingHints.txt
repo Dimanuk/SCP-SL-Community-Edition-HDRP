@@ -1,0 +1,63 @@
+Puoi arrestare un giocatore anche se impugna un'arma da fuoco.
+Ci sono 4 zone nella Struttura: Light Containment Zone, Heavy Containement Zone, Entrance Zone e Surface Zone.
+Scienziati e Classe D possono raggiungere la Surface Zone per evadere.
+La Entrance Zone ha 2 Gate che forniscono l'accesso alla Surface Zone. Avrai bisogno di una Tessera magnetica per aprirli.
+Usare un ascensore è una via semplice per evadere da molti SCP.
+Un Classe D evaso entrerà a far parte della Chaos Insurgency, invece uno Scienziato evaso diventerà della Nine-Tailed Fox.
+L'Adrenalina può essere usata per ricaricare instantaneamente la tua stamina e può darti diversi vantaggi nel combattimento.
+La radio ha 4 modifiche del raggio. Più lungo è il raggio e più velocemente si scaricherà la batteria.
+La Nine-Tailed Fox e la Chaos Insurgency spawnano alla fine opposta della Surface Zone, la prima al Gate B, la seconda al Gate A.
+L'Alpha Warhead ucciderà instantaneamente tutti coloro che si troveranno all'interno della Struttura quando esploderà. Dovrà essere attivata dalla Surface Zone.
+La sequenza della detonazione della Alpha Warhead può essere cancellata in una stanza della Heavy Containment Zone.
+La stanza dell'Intercom si trova nella Entrance Zone e può essere usata per parlare con tutti i giocatori della Struttura.
+Potrai lancirare gli oggetti (tasto "T" di default). Questo potrà essere usato per aprire le porte con Tessere magnetiche o per rompere i vetri.
+La Light Containment Zone verrà bloccata dopo 15 minuti; uccidendo tutti coloro che si troveranno all'interno. Scappa finché puoi!
+Massimizza il tuo vantaggio regolando gli accessori delle tue armi in base alla situazione in cui ti trovi.
+Più accessori ha un'arma su di essa e più pesante diventa. Ciò influisce sull'utilizzo della resistenza e sulla velocità di movimento.
+I soppressori non solo attutiscono i colpi, ma nascondono anche i lampi di fuoco della canna.
+Le armi più lunghe e pesanti sono meno precise se sparate durante la corsa.
+Indossare un'armatura aumenta il numero di oggetti e munizioni che può trasportare.
+I proiettili perforanti (AP) danno i migliori risultati contro bersagli corazzati.
+I proiettili a punta cava (JHP) infliggono danni maggiori ai bersagli non armati ma sono più deboli contro l'armatura.
+Tieni premuto il tasto di ricarica per rimuovere il caricatore da un'arma, aggiungendo le sue munizioni al tuo inventario.
+Le armi della Chaos Insurgency sono potenti ma le loro munizioni non si generano nella Struttura. Ricordalo.
+Le granate possono essere usate per distruggere le porte.
+Le granate possono essere lanciate con meno forza usando il tasto destro del mouse.
+La Micro H.I.D. può uccidere la maggior parte degli SCP molto rapidamente ma ha un'alimentazione limitata. Usala saggiamente!
+La Micro H.I.D. richiede circa 5 secondi di carica prima che possa essere usata.
+Tenendo premuto il pulsante destro del mouse, la Micro H.I.D. al suo stato pronto al fuoco; lentamente drenando energia.
+La Micro H.I.D. è molto rumorosa durante la ricarica. Assicurati di usarlo mentre i tuoi bersagli non possono scappare.
+La carica della Micro H.I.D. produce un suono intimidatorio che è sufficiente per rovinare i piani dei tuoi nemici.
+Una bottiglia di SCP-207 non solo aumenta la tua velocità di movimento, ma ripristinerà anche parzialmente la tua salute.
+Si possono bere fino a quattro bottiglie di SCP-207, consentendo un significativo moltiplicatore della tua velocità.
+SCP-500 non solo ti guarisce, ma rimuove la maggior parte degli effetti negativi e fornisce rigenerazione in seguito.
+Mentre SCP-268 ti rende invisibile a tutti gli umani, SCP-079 e SCP-939 possono ancora vederti.
+SCP-268 non ti salverà da SCP-096 se lo hai guardato.
+SCP-018 è altamente imprevedibile. Quando viene lanciata, mettiti al riparo.
+SCP-018 può essere usata per bloccare gli inseguitori quando rimbalzano in un corridoio.
+SCP-914 può cambiare tutti gli oggetti, incluse armi e munizioni.
+SCP-914 può ricaricare la radio e la Micro H.I.D.
+SCP-079 inizia relativamente debole ma diventa più potente man mano che la partita va avanti.
+SCP-079 può bloccare le porte, spegnere le luci e sovraccaricare i Tesla Gate.
+Una Tesla Gate controllata da SCP-079 apparirà sempre attiva.
+SCP-079 non può spegnere le luci in una stanza con una porta rotta.
+SCP-079 si potrà ricontenere utilizzando i generatori trovati nella Heavy Containment Zone, infine utilizzando un pulsante nella sua camera di contenimento.
+Una telecamera utilizzata da SCP-079 si illuminerà di blu. Non sai mai quando sta guardando.
+SCP-173 può muoversi liberamente in stanze buie, anche se viene guardato. Porta una torcia!
+SCP-173 può ucciderti di nascosto da dietro.
+SCP-173 può creare una pozzanghera che rallenta gli umani che la attraversano, creando un'area "difficilmente sorpassabile" rapida ed efficiente.
+SCP-106 è resistente ai proiettili ma non agli esplosivi e all'elettricità.
+SCP-106 può essere rapidamente contenuto utilizzando il "Femur Breaker" che si trova nella sua camera di contenimento.
+SCP-106 può attraversare porte e finestre di vetro.
+SCP-096 è più debole quando ha appena iniziato a calmarsi.
+SCP-096 può caricare in avanti mentre è infuriato, sfondando porte e uccidendo bersagli.
+SCP-096 distruggerà le porte e aprirà i Gate chiusi quando infuriato.
+Il morso di SCP-939 non è influenzato dall'armatura.
+SCP-939 infligge amnesia agli umani che morde; oscurando la loro vista.
+SCP-939 può scattare indefinitamente ed è completamente silenzioso quando cammina.
+SCP-939 è silenzioso quando cammina, il che lo rende un perfetto predatore da imboscata.
+I passi degli SCP sono distinti da quelli umani. Ascolta attentamente!
+SCP-049 può uccidere qualsiasi essere umano all'istante, se si avvicina.
+SCP-049 può rianimare i cadaveri solo se sono freschi.
+SCP-049-2 è vulnerabile ai colpi alla testa.
+Gli SCP-049-2 sono ottimi esploratori e sono pericolosi in gran numero.

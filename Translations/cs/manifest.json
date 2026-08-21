@@ -1,0 +1,21 @@
+{
+  "Name": "Čeština - Czech",
+  "Authors": [
+    "ahyper",
+    "Krumpac",
+    "Cezhar",
+    "Andrew",
+    "CrazY"
+  ],
+  "InterfaceLocales": [
+    "cs-CZ",
+    "cs"
+  ],
+  "SystemLocales": [
+    "cs-CZ",
+    "cs"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}

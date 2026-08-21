@@ -1,0 +1,33 @@
+To był <b>[user]</b>, jako [class]!\n\nPrzyczyna zgonu: [cause]
+Zabezpieczony.
+Spopielony przez potężną eksplozję.
+Nagły zanik funkcji życiowych. Brak wyraźnych urazów.
+Nieznany powód śmierci.
+Poważne porażenia elektryczne.
+Niedobór tlenu spowodowało śmierć przez uduszenie.
+Duża utrata krwi spowodowana przez głębokie rany.
+Wykrwawiony.
+Złamane żebra oraz miednica sugerują śmiertelny uraz spowodowany upadkiem.
+Śmiertelny upadek z wysokości.
+Zaginął w Wymiarze Łuzowym.
+Stopiony przez silnie żrącą substancję.
+Chora żółta skóra oraz zjełczały zapach sugerują śmierć przez otrucie.
+Wykończony przez truciznę.
+Blada skóra oraz krew wyciekająca z ust sugerują krwotok wewnętrzny spowodowany poprzez spożycie jakiejś substancji.
+Wykończony przez SCP-207.
+Nie powinieneś brać więcej niż dwóch!
+Złapany przez bramę Tesli.
+Głębokie rany oraz poważne oparzenia spowodowane wybuchem.
+Zabity przez pobliską eksplozję.
+Ogromne rany i nadmierna utrata krwi.
+Złamanie szyi u podstawy czaszki.
+Na ciele widoczne są głębokie ślady po ugryzieniach.
+Na ciele widoczne są zadrapania oraz tępy uraz.
+Rany postrzałowe z amunicji [ammotype].
+Tępy uraz, ciało jest poważnie okaleczone i zmiażdżone.
+Objawy ciężkich urazów obu kości udowych sugerują śmierć w wyniku wstrząsu krążeniowego.
+Poświęcony w celu zabezpieczenia SCP-106.
+Automatycznie zabity za bratobójczy ogień.
+Zimna skóra oraz odmrożone palce sugerują śmierć przez hipotermię.
+Zamarzłeś na śmierć.
+Głębokie rany oraz zadrapania są widoczne na ciele.

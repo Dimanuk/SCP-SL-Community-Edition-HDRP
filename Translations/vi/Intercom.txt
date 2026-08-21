@@ -1,0 +1,7 @@
+SẴN SÀNG
+ĐANG TRUYỀN TẢI...\nTHỜI GIAN CÒN LẠI: {0}
+ĐANG TRUYỀN TẢI...\nCHẾ ĐỘ VƯỢT TƯỜNG
+KHỞI ĐỘNG LẠI\n{0}
+QTV ĐANG SỬ DỤNG\nHỆ THỐNG INTERCOM
+BẠN ĐÃ BỊ QTV CẤM SÓNG
+KHÔNG RÕ

@@ -1,0 +1,63 @@
+Vous pouvez désarmer un joueur en interagissant avec lui tout en tenant une arme à feu.
+Il y a quatre zones principales dans la Fondation :  Confinement Léger, Confinement Lourd, l'Entrée et l'Extérieur.
+Les Scientifiques et les Classes-D doivent atteindre l'extérieur pour s'échapper.
+La Zone d'Entrée possède deux portes permettant l'accès à l'extérieur. Vous aurez besoin d'une carte pour les ouvrir.
+Utiliser un ascenseur est un moyen rapide et facile d'échapper à la plupart des SCP.
+Les Classes-D rejoignent l'Insurrection du Chaos, tandis que les Scientifiques évadés deviennent MTF.
+L'adrénaline peut être utilisée pour regagner instantanément votre endurance et vous donne un avantage au combat.
+Les radios ont quatre réglages de portée. Plus la portée est longue, plus la batterie se décharge rapidement.
+Les unités de la Force d'Intervention Mobile et les Insurgés du Chaos arrivent aux extrémités opposées de la Zone Extérieur.
+L'Ogive Alpha tue tout ce qui se trouve à l'intérieur de la Fondation lorsqu'elle explose. Elle peut être activée depuis l'Extérieur.
+La détonation de l'Ogive Alpha peut être annulée depuis sa chambre dans la Zone de Confinement Lourd.
+L'Intercom dans la Zone d'Entrée peut être utilisé pour diffuser un message vocal à tous les joueurs.
+Vous pouvez jeter des objets ("T" par défaut). Cela peut être utilisé avec une carte pour ouvrir les portes à distance ou pour briser une vitre.
+La Zone de Confinement Léger se verrouillera après 15 minutes, tuant toute personne restée à l'intérieur. Évadez-vous tant que vous le pouvez !
+Maximisez vos chances en ajustant vos accessoires d'armes en fonction de la situation dans laquelle vous vous trouvez.
+Plus une arme a d'accessoires, plus elle devient lourde. Cela affecte l'endurance et la vitesse de déplacement.
+En plus d'étouffer les coups de feu, les suppresseurs masquent les flashs du canon.
+Les armes plus longues et plus lourdes sont moins précises si elles sont utilisées en courant.
+Porter un gilet pare-balles augmente le nombre d'objets et de munitions que vous pouvez transporter.
+Les balles perforantes (AP) fonctionnent mieux contre des cibles dotées d'une armure.
+Les balles à pointe creuse (JHP) infligent des dégâts plus importants aux cibles non blindées, mais sont plus faibles contre les armures.
+Maintenez la touche de rechargement pour décharger une arme et ajouter ses munitions à votre inventaire.
+Les armes de l'Insurrection du Chaos sont puissantes, mais leurs munitions n'apparaissent pas dans la Fondation. Chaque balle compte.
+Les grenades peuvent être utilisées pour détruire les portes.
+Les grenades peuvent être lancées avec moins de force en utilisant le clic droit.
+La Micro H.I.D. peut tuer la plupart des SCP très rapidement, mais a une batterie limitée. Faites-en bon usage !
+La Micro H.I.D. nécessite environ cinq secondes de charge avant de pouvoir tirer.
+Maintenir le clic droit enfoncé maintient la Micro H.I.D. dans un état prêt à tirer, drainant lentement son énergie.
+La Micro H.I.D. est très bruyante pendant sa charge. Assurez-vous de l'utiliser lorsque vos cibles ne peuvent pas s'enfuir.
+Charger la Micro H.I.D. produit un son intimidant qui suffit à dérouter vos ennemis.
+Une bouteille de SCP-207 augmente non seulement votre vitesse de déplacement, mais restaure également partiellement votre santé.
+Jusqu'à quatre bouteilles de SCP-207 peuvent être bues, appliquant un multiplicateur important à votre vitesse.
+SCP-500 vous guérit, supprime la plupart des effets négatifs et octroie un effet de régénération.
+Alors que SCP-268 vous rend invisible aux yeux des humains, SCP-079 et SCP-939 peuvent toujours vous voir.
+SCP-268 ne vous sauvera pas de SCP-096 si vous l'avez regardé.
+SCP-018 est hautement imprévisible. Quand il est lancé, mettez-vous à couvert.
+SCP-018 peut être utilisé pour bloquer des poursuivants lorsqu'il rebondit dans un couloir.
+SCP-914 peut transformer tous les objets, y compris les armes et les munitions.
+SCP-914 peut recharger les radios et la Micro H.I.D.
+SCP-079 est relativement faible en début de partie, mais devient plus puissant au fur et à mesure de la partie.
+SCP-079 peut verrouiller les portes, éteindre les lumières et surcharger les Tesla.
+Une Tesla surveillée par SCP-079 apparaîtra toujours active.
+SCP-079 ne peut pas éteindre les lumières dans une pièce avec une porte cassée.
+SCP-079 est reconfiné à l'aide de générateurs trouvés dans la Zone de Confinement Lourd, et d'un dernier bouton dans sa chambre de confinement.
+Une caméra utilisée par SCP-079 s'illuminera en bleu. Vous ne savez jamais quand il sera là.
+SCP-173 peut se déplacer librement dans les pièces sombres, même s'il est regardé. Apportez une lampe torche !
+SCP-173 peut tuer furtivement par derrière.
+SCP-173 peut créer une flaque qui ralentit les humains qui la traversent — créant rapidement une zone peu praticable.
+SCP-106 est résistant aux balles, mais pas aux explosifs et à l'électricité.
+SCP-106 peut être rapidement reconfiné à l'aide du briseur de fémur qui se trouve dans sa chambre de confinement.
+SCP-106 peut traverser les portes et les vitres.
+SCP-096 est plus vulnérable lorsqu'il commence à se calmer.
+SCP-096 peut effectuer une charge vers l'avant en étant enragé – cassant des portes et tuant ses victimes.
+SCP-096 peut détruire les portes et forcer les portes blindées lorsqu'il est enragé.
+La morsure de SCP-939 n'est pas affectée par un gilet pare-balles.
+SCP-939 inflige une amnésie aux humains qu'il mord, obscurcissant leur vision.
+SCP-939 peut sprinter indéfiniment et est complètement silencieux lorsqu'il marche.
+SCP-939 est silencieux lorsqu'il marche, ce qui en fait un parfait prédateur embusqué.
+Les pas des SCP sont distincts de ceux des humains. Écoutez attentivement !
+SCP-049 peut tuer n'importe quel humain instantanément, d'un seul toucher.
+SCP-049 ne peut réanimer les cadavres que s'ils sont frais.
+SCP-049-2 se révèle vulnérable aux tirs dans la tête.
+Les SCP-049-2 sont de bons éclaireurs et deviennent dangereux en grand nombre.

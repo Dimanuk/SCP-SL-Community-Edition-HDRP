@@ -1,0 +1,18 @@
+{
+  "Name": "Slovenčina - Slovak",
+  "Authors": [
+    "Gejb",
+    "Mordi Slovakian"
+  ],
+  "InterfaceLocales": [
+    "sk-SK",
+    "sk"
+  ],
+  "SystemLocales": [
+    "sk-SK",
+    "sk"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}

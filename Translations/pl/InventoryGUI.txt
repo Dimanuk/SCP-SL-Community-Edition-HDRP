@@ -1,0 +1,17 @@
+Amunicja {0}/{1} {2}
+Obrażenia
+Szybkostrzelność
+Celność z biodra
+Celność przy ADS
+Waga
+Długość
+UPUŚĆ:
+Skuteczność hełmu
+Skuteczność kamizelki
+Zużycie wytrzymałości
+Prędkość ruchu
+Limit przedmiotów:
+Limit amunicji:
+{0} ogółem
+Penetracja pancerza
+Celność w biegu

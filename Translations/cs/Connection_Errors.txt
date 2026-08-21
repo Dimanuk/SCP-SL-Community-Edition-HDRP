@@ -1,0 +1,38 @@
+<size=80>Byl jsi vyhozen</size>\nServer přinutil ukončit spojení.\n<size=26>\nPravděpodobně jsi byl dočasně zaBANován administrátorem \nnebo nesplňuješ požadavky pro připojení (např. spojení se službou Steam).\nZa možné časové BANy <b>nejsou</b> tvůrci hry zodpovědní.\n</size>
+<size=80>ODPOJEN</size>\nVybraný host není dostupný.
+<size=80>ODPOJEN</size>\nVybraný identifikátor neexistuje.
+<size=80>ODPOJEN</size>\nVybraný kanál neexistuje.
+<size=80>ODPOJEN</size>\nServer je plný.
+<size=80>ODPOJEN</size>\nObdržen špatný packet.
+<size=80>ODPOJEN</size>\nSpojení ztraceno (čas vypršel).
+<size=80>ODPOJEN</size>\nSpojení ztraceno (čas vypršel).
+<size=80>ODPOJEN</size>\nOperace není podporována.
+<size=80>ODPOJEN</size>\nŠpatné nastavení serveru (nekompatibilita verzí).
+<size=80>ODPOJEN</size>\nŠpatné nastavení serveru.
+<size=80>ODPOJEN</size>\nZadaná adresa nemůže být dešifrována. Ujistěte se, že se jedná o správnou adresu.
+<size=80>ODPOJEN</size>\nObjevil se neočekávaný problém!
+<size=80>Čekejte prosím</size>\n<size=35>Navazuji spojení...</size>
+<size=80>Restart kola</size>\n<size=35>Server restartuje kolo...</size>
+<size=80>Čekejte prosím</size>\n<size=35>Načítání tutoriálu...</size>
+<size=80>NEKOMPATIBILITA VERZÍ</size>\nVaše verze hry je jiná než verze hry na serveru\n(Vaše - [your]; Serveru - [server])
+<size=80>PŘIPOJENO</size>
+<size=35>Načítání laboratoře...</size>
+<size=80>ODPOJEN</size>\nNa serveru došlo k neurčené chybě.
+<size=80>ODPOJEN</size>\nTento server vyžaduje ověření centrálními servery.
+<size=80>ODPOJEN</size>\nNa tomto serveru nejste na bílé listině.
+<size=80>ODPOJEN</size>\nByl vám udělen globální ban.
+<size=80>ODPOJEN</size>\nByl vám udělen globální ban: [reason].
+<size=80>ODPOJEN</size>\nByl vám udělen ban na tomto serveru.
+<size=80>ODPOJEN</size>\nByl vám udělen ban na tomto serveru.\nBan vyprší v: [date] [time]
+<size=80>ODPOJEN</size>\nPlatnost vašeho ověřovacího tokenu vypršela.\nServer může mít nastavený nesprávný čas nebo časové pásmo.\nObraťte se na správce serveru.
+<size=80>ODPOJEN</size>\nByl vám udělen limit míry dotazů. Zkuste to za pár sekund znovu.
+<size=80>ODPOJEN</size>\nServer nepříjímá připojení z vaší zeměpisné polohy. Název nebo informace o serveru mohou obsahovat další podrobnosti.
+<size=80>ODPOJEN</size>\nByli jste vykopnuti serverovým rozšířením.\n\nDůvod: [reason]\nJedná se o serverovém rozšířením, nikoli o herní funkci.\nPro více informací kontaktujte správce serveru.
+<size=80>ODPOJEN</size>\nVáš ověřovací token byl serverem zamítnut.\nProsím restartujte hru a zkuste to znovu nebo kontaktujte technickou podporu hry.
+<size=80>ODPOJEN</size>\nByl vám udělen ban na tomto serveru.\nDůvod: [reason]
+<size=80>ODPOJEN</size>\nByl vám udělen ban na tomto serveru.\nBan vyprší v: [date] [time]\nDůvod: [reason]
+<size=80>Prosím čekejte</size>\nZpracování ověření zabezpečení serveru...
+<size=80>ODPOJEN</size>\nNepodařilo se zpracovat ověření zabezpečení serveru.
+<size=80>ODPOJEN</size>\nZpracování ověření zabezpečení serveru bylo pro server příliš pomalé.\nZkuste to prosím znovu nebo kontaktujte správce serveru.
+<size=80>AUTH Chyba</size>\nZpráva z centrálního serveru: [message].
+<size=80>ODPOJEN</size>\nServer se vypíná.

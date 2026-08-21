@@ -1,0 +1,19 @@
+ADS Zoom
+---
+Skade
+Penetrasjon
+Skuddtakt
+Rekyl
+Rekyl når innsiktet
+Nøyaktighet på kuler
+Hofte-avfyringsnøyaktighet
+Sikte nøyaktighet
+Utrustningsfart
+Skudd lydstyrke
+Magasin kapasitet
+Utrustningstid
+Omladnings tid
+---
+Innsiktnings hastighet
+Kulespredning
+Mønster konsistens

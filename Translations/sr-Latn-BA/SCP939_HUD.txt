@@ -1,0 +1,39 @@
+Pritisni [key_attack] ili [key_jump] da skočiš.
+Slušaj glas (samo vi možete ovo čuti)
+LOKALNI PREGLED
+Ukloni glas (drži)
+Pusti glas da se čuje (svako ovo čuje)
+SCP-939 vas je ubijo i ukrao vaš glas!
+Ako ne želite da se koristi vaš glas, možete ovo isključiti.
+Zapamti moju odluku
+Izbriši
+U redu
+Više informacija
+SCP-939 koristi mehaniku gdje su zadnje sekunde vašeg glasa budu sačuvane. SCP-939 može ovo da pusti da primami neprijatelje.\nSminci su automatski izbrisani ako prekinete vezu sa servetrom, SCP-939 umre, ili tokom restartom runde. Isključivanje ove funkcije će izbrisate sve sačuvane klipove glasa.
+Oblak se ne može postaviti na ovom mjestu.
+Minimalna veličina oblaka nije dostugnuta, držite dugme stavljanja malo duže.
+SCP-939 je slijepo, i vidi kroz zvuk. Ono kapitalizira na greškama, koristeći njegovo tiho hodanje i ozbiljnu brzinu da spremi zasjede i da skoči da ubije.
+Kandže:Kliknite da prevucete svoje kandže u širokom luku ispred vas, kidajući tkivo i kosti vaše odabrane žrtve. Dok fokusirate, vaš glavni napad će vam omogućiti da skočite na vaš plijen.
+Fokus:Posvećujući svu vašu snagu na čula, vi možete da vidite plijen dalje od vas, i da vidite kakav su oni plijen, kroz stavri koje oni rade. 
+Amnezijski oblak:Napunite svoje vazdušne kese opasnim neurohemijskim gasom, projektujući ga u poluprečniku koji je određen vremenom kada je napunjen. Ljudi koji udišu gas gube percepciju SCP-939 i ne mogu da izvrše određene radnje. Ipak, pazite, ako napadte ili ste napaduti će vas otkriti na kratko.  
+Sa mnogo glasova:Ljudi koje ubijete imaju šansu da vam daju svoje poslednje reči, dozvoljavajući vam da ukradete njihov glas i iskoristite ga da obmanete druge. Pored toga, SCP-939 takođe može da oponaša neke osnovne zvukove, kao što je prikrivanje svojih koraka da bi odgovarali ljudima. 
+Ultra osjetljiv:SCP-939 je u stanju da osjeti obližnje izvore toplote, predstavljen malim radijusom normalnog vida. Osim toga, međutim, morate se osloniti na zvuk da biste pratili obližnji plen. Što je zvuk jači, dalje ga možete čuti. Na opseg vašeg vida utiču nivoi vaše izdržljivosti. 
+Vrati
+Postavi Tačku Imitacije
+Premjestite Trenutnu Tačku Imitacije
+Ukloni Tačku Imitacije
+Napravi da svi zvuci dolaze sa vaše lokacije
+Tačka Imitacije postavljena!
+Tačka Imitacije uklonjena!
+Tačka Imitcaije uništena. Vi ste se udaljili od nje.
+Ukradeni Glasovi
+Pustite glasove vaših žrtvi
+Okolišne Imitacije
+Imitira razne zvukve kako bi se namamili neprijatelji
+(Sačekajte: [time]s)
+Zvuci Koraka
+Lažno Predstavljanje
+Pucanje
+Drugo
+Prošli Meni
+Sljedeći Meni

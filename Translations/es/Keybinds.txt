@@ -1,0 +1,38 @@
+Disparar
+Zoom
+Saltar
+Interactuar
+Inventario
+Recargar
+Correr
+Chat de Voz
+Caminar en sigilo
+Moverse hacia adelante
+Moverse hacia atrás
+Moverse hacia la izquierda
+Moverse hacia la derecha
+Lista de Jugadores
+Información del Personaje
+Remote Admin
+Alternar modo de Linterna
+Chat de Voz Alternativo
+Noclip
+Consola
+Atajo Tarjeta de Acceso
+Inspeccionar
+Percutor del revólver
+Lanzar objeto
+Atajo de Arma Primaria
+Atajo de Arma Secundaria
+Atajo de Artículo Médico
+Ocultar Interfáz
+Alternar niebla en Noclip
+Atajo Granada
+Menú de Pausa
+Registro de Depuración
+Modo de vista libre
+Bloquear Puerta
+Desbloquear Todo
+Apagón
+Bloquear
+Ping

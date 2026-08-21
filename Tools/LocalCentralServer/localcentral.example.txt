@@ -1,0 +1,22 @@
+# Copy this file as "localcentral.txt" into the game app folder. That folder is:
+#     %AppData%\SCP Secret Laboratory\
+# (e.g. C:\Users\<you>\AppData\Roaming\SCP Secret Laboratory\)
+# This is the SAME folder for a built game AND the Unity Editor, so editor testing just works.
+#
+# Its presence switches the game into LOCAL central-server mode:
+#   * trusts the local test master key instead of Northwood's,
+#   * points all central-server URLs at the address below over plain HTTP,
+#   * authenticates without a Steam ticket or the launcher.
+#
+# Only use this on a private network (LAN / Radmin VPN).
+
+# Address of the machine running LocalCentralServer.exe (use its Radmin VPN IP). Must end with /.
+url=http://26.119.65.236:5000/
+
+# Identity is taken AUTOMATICALLY from your running Steam account (SteamID64 + your Steam name).
+# If Steam isn't running, a stable per-machine id is generated and your Windows username is used.
+#
+# The two lines below are OPTIONAL overrides — only set them if you want a fixed identity, or to
+# give two clients on the SAME PC/Steam account different ids (otherwise they'd clash).
+#userid=76561198000000001@steam
+#nickname=Gleb

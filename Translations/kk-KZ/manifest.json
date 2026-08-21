@@ -1,0 +1,17 @@
+{
+  "Name": "Қазақ - Kazakh",
+  "Authors": [
+    "KaizeR"
+  ],
+  "InterfaceLocales": [
+    "kk-KZ",
+    "kz"
+  ],
+  "SystemLocales": [
+    "kk-KZ",
+    "kz"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}

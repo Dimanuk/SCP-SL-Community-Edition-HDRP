@@ -1,0 +1,291 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Revolver_Unloaded
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/camera
+    m_Weight: 0
+  - m_Path: Armature/camera/camera_end
+    m_Weight: 0
+  - m_Path: Armature/hand.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/index1.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/index1.L/index2.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/index1.L/index2.L/index3.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/index1.L/index2.L/index3.L/index3.L_end
+    m_Weight: 0
+  - m_Path: Armature/hand.L/middle1.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/middle1.L/middle2.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/middle1.L/middle2.L/middle3.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/middle1.L/middle2.L/middle3.L/middle3.L_end
+    m_Weight: 0
+  - m_Path: Armature/hand.L/pinky0.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/pinky0.L/pinky1.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/pinky0.L/pinky1.L/pinky2.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/pinky0.L/pinky1.L/pinky2.L/pinky3.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/pinky0.L/pinky1.L/pinky2.L/pinky3.L/pinky3.L_end
+    m_Weight: 0
+  - m_Path: Armature/hand.L/ring0.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/ring0.L/ring1.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/ring0.L/ring1.L/ring2.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/ring0.L/ring1.L/ring2.L/ring3.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/ring0.L/ring1.L/ring2.L/ring3.L/ring3.L_end
+    m_Weight: 0
+  - m_Path: Armature/hand.L/thumb1.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/thumb1.L/thumb2.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/thumb1.L/thumb2.L/thumb3.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/thumb1.L/thumb2.L/thumb3.L/thumb3.L_end
+    m_Weight: 0
+  - m_Path: Armature/hand.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/index1.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/index1.R/index2.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/index1.R/index2.R/index3.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/index1.R/index2.R/index3.R/index3.R_end
+    m_Weight: 0
+  - m_Path: Armature/hand.R/middle1.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/middle1.R/middle2.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/middle1.R/middle2.R/middle3.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/middle1.R/middle2.R/middle3.R/middle3.R_end
+    m_Weight: 0
+  - m_Path: Armature/hand.R/pinky0.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/pinky0.R/pinky1.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/pinky0.R/pinky1.R/pinky2.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/pinky0.R/pinky1.R/pinky2.R/pinky3.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/pinky0.R/pinky1.R/pinky2.R/pinky3.R/pinky3.R_end
+    m_Weight: 0
+  - m_Path: Armature/hand.R/ring0.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/ring0.R/ring1.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/ring0.R/ring1.R/ring2.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/ring0.R/ring1.R/ring2.R/ring3.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/ring0.R/ring1.R/ring2.R/ring3.R/ring3.R_end
+    m_Weight: 0
+  - m_Path: Armature/hand.R/thumb1.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/thumb1.R/thumb2.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/thumb1.R/thumb2.R/thumb3.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/thumb1.R/thumb2.R/thumb3.R/thumb3.R_end
+    m_Weight: 0
+  - m_Path: Armature/pole.L
+    m_Weight: 0
+  - m_Path: Armature/pole.L/pole.L_end
+    m_Weight: 0
+  - m_Path: Armature/pole.R
+    m_Weight: 0
+  - m_Path: Armature/pole.R/pole.R_end
+    m_Weight: 0
+  - m_Path: Armature/root
+    m_Weight: 0
+  - m_Path: Armature/root/arm.L
+    m_Weight: 0
+  - m_Path: Armature/root/arm.L/forearm.L
+    m_Weight: 0
+  - m_Path: Armature/root/arm.L/forearm.L/forearm.L_end
+    m_Weight: 0
+  - m_Path: Armature/root/arm.R
+    m_Weight: 0
+  - m_Path: Armature/root/arm.R/forearm.R
+    m_Weight: 0
+  - m_Path: Armature/root/arm.R/forearm.R/forearm.R_end
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/DotSightRenderer
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/SniperCameraTarget
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/SniperCameraCrosshair
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/SniperCamera
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/SniperCamera/PostProcessing
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder/CasingsBattery
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder/Casings
+    m_Weight: 1
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder/Casings/Bullets
+    m_Weight: 1
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder/Casings/Bullets/Bullets_end
+    m_Weight: 1
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder/Casings/Primers4
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder/Casings/Primers4/Quad (0)
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder/Casings/Primers4/Quad (1)
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder/Casings/Primers4/Quad (2)
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder/Casings/Primers4/Quad (3)
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder/Casings/Primers6
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder/Casings/Primers6/Quad
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder/Casings/Primers6/Quad (1)
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder/Casings/Primers6/Quad (2)
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder/Casings/Primers6/Quad (3)
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder/Casings/Primers6/Quad (4)
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder/Casings/Primers6/Quad (5)
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder/Casings/Primers8
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder/Casings/Primers8/Quad (0)
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder/Casings/Primers8/Quad (1)
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder/Casings/Primers8/Quad (2)
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder/Casings/Primers8/Quad (3)
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder/Casings/Primers8/Quad (4)
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder/Casings/Primers8/Quad (5)
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder/Casings/Primers8/Quad (6)
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder/Casings/Primers8/Quad (7)
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder/Extractor
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Crane/Cylinder/Extractor/Extractor_end
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Hammer
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Hammer/Hammer_end
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/SpeedLoader
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/SpeedLoader/SpeedLoaderBullets
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/SpeedLoader/SpeedLoaderBullets/SpeedLoaderBullets_end
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Thumbpiece
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Thumbpiece/Thumbpiece_end
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Trigger
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Trigger/Trigger_end
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Muzzle Flashes
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Muzzle Flashes/stationary flashes
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Muzzle Flashes/stationary flashes/chamber gas
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Muzzle Flashes/stationary flashes/chamber gas/side flash
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Muzzle Flashes/stationary flashes/chamber gas/side flash/side flash 2
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Muzzle Flashes/barrel normal
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Muzzle Flashes/barrel normal/RevolverFlash_norm
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Muzzle Flashes/barrel normal/RevolverFlash_norm/barrel flash
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Muzzle Flashes/barrel normal/RevolverFlash_norm/barrel flash/Point Light
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Muzzle Flashes/barrel normal/RevolverFlash_norm/barrel gas
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Muzzle Flashes/barrel short
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Muzzle Flashes/barrel short/RevolverFlash_short
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Muzzle Flashes/barrel short/RevolverFlash_short/barrel flash
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Muzzle Flashes/barrel short/RevolverFlash_short/barrel flash/Point Light
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Muzzle Flashes/barrel short/RevolverFlash_short/barrel gas
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Muzzle Flashes/barrel long
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Muzzle Flashes/barrel long/RevolverFlash_long
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Muzzle Flashes/barrel long/RevolverFlash_long/barrel flash
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Muzzle Flashes/barrel long/RevolverFlash_long/barrel flash/Point Light
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/Main/Muzzle Flashes/barrel long/RevolverFlash_long/barrel gas
+    m_Weight: 0
+  - m_Path: Revolver_BarrelLong_Mesh
+    m_Weight: 0
+  - m_Path: Revolver_BarrelShort_Mesh
+    m_Weight: 0
+  - m_Path: Revolver_BarrelStandard_Mesh
+    m_Weight: 0
+  - m_Path: Revolver_CylinderEight_Mesh
+    m_Weight: 0
+  - m_Path: Revolver_CylinderFour_Mesh
+    m_Weight: 0
+  - m_Path: Revolver_CylinderSix_Mesh
+    m_Weight: 0
+  - m_Path: Revolver_Ironsights_Mesh
+    m_Weight: 0
+  - m_Path: Revolver_MainBody_Mesh
+    m_Weight: 0
+  - m_Path: Revolver_PistolGrip_Mesh
+    m_Weight: 0
+  - m_Path: Revolver_RedDot_Mesh
+    m_Weight: 0
+  - m_Path: Revolver_RedDot_Mesh/Revolver_Rail_Mesh
+    m_Weight: 0
+  - m_Path: Revolver_Scope_Mesh
+    m_Weight: 0
+  - m_Path: Revolver_Scope_Mesh/Revolver_Rail_Mesh
+    m_Weight: 0
+  - m_Path: Revolver_Stock_Mesh
+    m_Weight: 0

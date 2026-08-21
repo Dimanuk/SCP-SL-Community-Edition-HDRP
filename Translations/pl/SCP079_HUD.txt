@@ -1,0 +1,74 @@
+PRZYBLIŻENIE [amount]x
+POZIOM DOSTĘPU [tier]
+EXP [current] / [next]
+MAKSYMALNY POZIOM
+BRAK KAMERY
+IDŹ DO: [camera] ([cost])
+BRAK WYSTARCZAJĄCEJ ENERGII
+ZA: [time] sekund
+WYMAGANY WYŻSZY POZIOM
+NIEPOPRAWNA KAMERA
+ODMOWA DOSTĘPU
+OTWÓRZ DRZWI ([cost])
+ZAMKNIJ DRZWI ([cost])
+ZABLOKUJ DRZWI ([cost])
+ODBLOKUJ DRZWI
+TRWA ODNAWIANIE BLOKADY DRZWI
+ENERGIA
+JESTEŚ ATAKOWANY!
+ODBLOKUJ WSZYSTKIE DRZWI (wszystkie [num])
+OTWÓRZ MAPĘ PLACÓWKI
+ZAMKNIJ
+STREFA NIŻSZEGO NADZORU
+STREFA WYŻSZEGO NADZORU
+STREFA WEJŚCIOWA
+POWIERZCHNIA
+ZGAŚ ŚWIATŁA ([cost])
+GASZENIE ŚWIATEŁ NIEDOSTĘPNE W TYM POMIESZCZENIU
+OSIĄGNIĘTO LIMIT ZGASZONYCH ŚWIATEŁ
+TRWA ODNAWIANIE GASZENIE ŚWIATEŁ
+WYŚLIJ WINDĘ ([cost])
+ZABLOKUJ POMIESZCZENIE ([cost])
+TRWA ODNAWIANIE BLOKADY POMIESZCZENIA
+BRAK DOSTĘPNYCH DRZWI DO ZABLOKOWANIA POMIESZCZENIA
+ZAZNACZ LOKACJĘ ([cost])
+OSIĄGNIĘTO LIMIT ZAZNACZEŃ
+ZMIANA KAMERY NIE POWIODŁA SIĘ
+BRAK SYGNAŁU
+ŁĄCZENIE (ZA: [time]s)
+AKTYWUJ BRAMĘ TESLI ([cost])
+TRWA ODNAWIANIE AKTYWACJI BRAMY TESLI
+$Poziom dostępu [tier]$ - ODBLOKOWANY
+Limit $ENERGII$ zwiększony do $[limit]$.
+$GASZENIE ŚWIATEŁ$ jest dostępne - naciśnij $[key]$, aby zgasić światła w pomieszczeniu.
+Limit $ZGASZONYCH ŚWIATŁEŁ$ zwiększony do $[number]$ pomieszczeń.
+$BLOKOWANIE POMIESZCZEŃ$ jest dostępne - naciśnij $[key]$, aby zablokować wszystkie drzwi w pomieszczeniu.
++[amount] EXP - Komenda administratora
++[amount] EXP - Pomoc w zabiciu personelu klasy D
++[amount] EXP - Pomoc w zabiciu naukowca 
++[amount] EXP - Pomoc w zabiciu ochroniarza
++[amount] EXP - Pomoc w zabiciu Nine-Tailed Fox
++[amount] EXP - Pomoc w zabiciu rebelii chaosu
++[amount] EXP - Pomoc w zabiciu człowieka
++[amount] EXP - Uświadczenie zabicia przez członka twojej drużyny
++[amount] EXP - Pomoc w pościgu członka twojej drużyny
++[amount] EXP - Obronienie członka twojej drużyny
++[amount] EXP - Zapobiegnięcie użycia Micro H.I.D.
+KAMERA ONLINE
+ZGAŚ ŚWIATŁA W CAŁEJ STREFIE ([cost])
+$GASZENIE ŚWIATEŁ W CAŁEJ STREFIE$ jest dostępne - przycisk znajduje się obok jej nazwy na $mapie placówki$.
+TRWA ODNAWIANIE GASZENIA ŚWIATEŁ W CAŁEJ STREFIE
+ŚWIATŁA SĄ JUŻ ZGASZONE
+GASZENIE ŚWIATEŁ NIEDOSTĘPNE W TEJ STREFIE
+WSZYSTKICH ISTOT
+CELÓW
+PODMIOTÓW SCP
+CYWILI
+SIŁ ZBROJNYCH
+UŻYJ GŁOŚNIKA
+ODMOWA DOSTĘPU DO WINDY
+SCP-079 nie ma możliwości bezpośredniej walki lub ruchu. Zamiast tego widzisz świat przez kamery znajdujące się w każdym pomieszczeniu. Wszystkie dostępne umiejętności są wyświetlane w prawym górnym rogu twojego ekranu.
+Praktycznie niezniszczalny:Trzy generatory znajdują się w Strefie Wyższego Nadzoru. Gdy zostaną aktywowane, będziesz mógł zostać zabezpieczony w swojej celi przechowawczej. Każdy generator ma sekwencję odliczania, która może zostać przerwana poprzez kliknięcie przycisku "ANULUJ" na generatorze.
+Nielimitowany dostęp:Możesz kontrolować wiele systemów w placówce, pomagając innym podmiotom SCP. W prawym górnym rogu twojego ekranu wyświetlane są dostępne umiejętności. Każda z nich zużywa energię, która z czasem się regeneruje.
+Głębokie uczenie:Pomaganie podmiotom SCP jest wynagradzane w postaci doświadczenia, potrzebnego do uzyskania następnego poziomu dostępu. Każdy kolejny poziom zapewnia więcej energii oraz nowe umiejętności.
+Obserwacja:Będąc wszędzie i zarazem nigdzie posiadasz unikatową perspektywę całej placówki. Możesz zaznaczać lokacje, ludzi oraz obiekty zainteresowań, pomagając członkom drużyny w rzeźni.

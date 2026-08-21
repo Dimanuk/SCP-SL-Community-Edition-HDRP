@@ -1,0 +1,22 @@
+{
+  "Name": "繁體中文 - Chinese (Traditional)",
+  "Authors": [
+    "X-EROS",
+    "Arkira-Kouyo",
+    "Tychus_驍奕",
+    "菈菲"
+  ],
+  "InterfaceLocales": [
+    "zh-TW",
+    "zh-Hant"
+  ],
+  "SystemLocales": [
+    "zh-TW",
+    "zh-HK",
+    "zh-MO",
+    "zh-Hant"
+  ],
+  "ForcedFontOrder": [
+    "NotoSansCJKtc-RegularDynamic"
+  ]
+}

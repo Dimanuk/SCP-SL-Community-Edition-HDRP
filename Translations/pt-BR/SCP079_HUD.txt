@@ -1,0 +1,74 @@
+ZOOM [amount]x
+NÍVEL DE ACESSO [tier]
+EXP [current] / [next]
+NÍVEL MÁXIMO ADQUIRIDO
+SEM CÂMERA
+IR PARA: [camera] ([cost])
+ENERGIA AUXILIAR INSUFICIENTE
+ETA: [time] segundos
+NÍVEL MAIOR REQUIRIDO
+CÂMERA INVÁLIDA
+ACESSO DE PORTA NEGADO
+ABRIR PORTA ([cost])
+FECHAR PORTA ([cost])
+TRANCAR PORTA ([cost])
+DESTRANCAR PORTA
+TRANCAR PORTA EM RECARGA
+PODER AUXILIAR
+VOCÊ ESTÁ SENDO ATACADO!
+LIBERAR TODAS AS PORTAS ([num] total)
+ABRIR MAPA DA INSTALAÇÃO
+FECHAR
+ZONA DE CONTENÇÃO LEVE
+ZONA DE CONTENÇÃO PESADA
+ZONA DE ENTRADA
+ZONA DE SUPERFÍCIE
+BLECAUTE ([cost])
+BLECAUTE INDISPONÍVEL NESTA SALA
+LIMITE DE BLECAUTE SIMULTÂNEOS ATINGINDO
+BLECAUTE DE SALA EM RECARGA
+ENVIAR ELEVATOR ([cost])
+CONFINAMENTO ([cost])
+CONFINAMENTO EM RECARGA
+SEM PORTAS DISPONÍVEIS PARA CONFINAMENTO
+MARCAR LOCAL ([cost])
+LIMITE DE MARCAÇÕES ATINGIDA
+TROCA DE CÂMERA FALHADA
+SINAL PERDIDO
+RECONECTANDO (ETA: [time]s)
+DISPARAR PORTÃO TESLA ([cost])
+ATIVAÇÃO DE PORTÃO TESLA EM RECARGA
+$Nível de acesso [tier]$ - DESBLOQUEADO
+$PODER AUXILIAR$ limite aumentado para $[limit]$.
+$BLECAUTE$ disponível - pressione $[key]$ para desativar as luzes das salas,
+$BLECAUTE$ capacidade aumentou para $[number]$ salas.
+$CONFINAMENTO$ disponível - pressione $[key]$ para temporariamente trancar todas as portas em uma sala.
++[amount] EXP - Comando de Admin
++[amount] EXP - Assistência de eliminação de Classe-D
++[amount] EXP - Assistência de eliminação de Cientista
++[amount] EXP - Assistência de eliminação de Guarda
++[amount] EXP - Assistência de eliminação de Nine-Tailed Fox
++[amount] EXP - Assistência de eliminação de Insurgente do Caos
++[amount] EXP - Assistência de eliminação de Humano
++[amount] EXP - Testemunhou eliminação de aliado.
++[amount] EXP - Assistência de perseguição de aliado.
++[amount] EXP - Proteção de aliado(s)
++[amount] EXP - Preveniu uso da Micro H.I.D.
+FEED DE CÂMERA ON-LINE
+BLECAUTE DE ZONA ([cost])
+$BLECAUTE DE ZONA$ disponível - next to zone labels on the $Facility Map$.
+BLECAUTE DE ZONA EM RECARGA
+BLECAUTE JÁ ATIVO
+BLECAUTE INDISPONÍVEL PARA ESTA ZONA
+FORMAS DE VIDA TOTAIS
+ALVOS
+ANOMALIAS SCP
+CIVIL
+MILITAR
+USAR ALTO-FALANTE
+ACESSO AO ELEVADOR NEGADO
+SCP-079 não possui capacidade de combate ou movimento direto. Alternadamente, você vê o mundo através de câmeras de segurança encontradas em todos os lugares. Todas as habilidades disponíveis estão listadas no canto superior direito do seu HUD.
+Virtualmente Indestrutível:Três geradores são distribuidos na Zona de Contenção Pesada. Se todos eles estiverem ativados, você poderá ser recontido na sua câmara. Os geradores têm uma sequência de contagem regressiva que qualquer jogador pode interromper pressionando o botão "CANCEL" no gerador.
+Acesso Ilimitado:Você pode manipular inúmeros sistemas da instalação para assistir os SCPs. O canto superior direito da tela mostra quais habilidades estão disponíveis. Essas habilidades custam energia auxiliar (AP) para usar, que se regenera com o tempo.
+Profunda Aprendizagem:Cooperar com assassinatos ou realizar ações úteis para os outros SCPs concederá a você experiência para um novo nível de acesso. Cada novo nível fornece mais AP e concede a você novas habilidades.
+Supervisão:Estar em todos os lugares e em nenhum lugar lhe garante uma perspectiva única. Você pode indicar locais (Ping), pessoas e objetos de interesse, permitindo que você ajude no massacre.

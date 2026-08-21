@@ -1,0 +1,4 @@
+ADVARSEL
+OK
+<b>Intel grafikk</b> som <b>ikke er støttet.</b> har blitt oppdaget.\nDet er <b>anbefalt</b> å bruke et <b>ikke-integrert</b> grafikkort.\nSpillet kan <b>ofte krasje</b> med det gjeldende oppsettet.
+En viktig systemoppdatering som kreves av stemme-chattingen ble ikke funnet. Vennligst forsikre deg om at Windows er helt oppdatert, ellers vil ikke spillet fungere ordentlig. Dersom dette problemet vedvarer, kan du kontakte vårt teknologi supportteam for ytterligere assistanse

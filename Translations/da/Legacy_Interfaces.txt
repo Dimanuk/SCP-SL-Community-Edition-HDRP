@@ -1,0 +1,19 @@
+GIV ORDRE
+ADLYD ORDRE
+SAMME GRAD
+Klasse-D Personale flygtede
+Videnskabsmænd overlevede
+Dræbt af SCP
+Eliminerede SCP subjekter
+Alfa Sprænghoved
+Detoneret
+Ubrugt
+Den næste runde vil begynde om [time] sekunder.
+SPECIEL EVNE
+SKAB PASSAGE
+BRUG PASSAGE
+DU ER DØD
+Du blev dræbt af
+som
+Passiv
+(skjult)

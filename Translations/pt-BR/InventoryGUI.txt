@@ -1,0 +1,17 @@
+Munição {0}/{1} {2}
+Dano
+Taxa de Disparo
+Precisão Sem Mirar
+Precisão Mirando
+Peso
+Comprimento
+LARGAR:
+Eficácia do Capacete
+Eficácia do Colete
+Uso de Stamina
+Velocidade de Movimento
+Limite de Itens:
+Limite de Munição:
+{0} total
+Penetração de Armadura
+Precisão Correndo

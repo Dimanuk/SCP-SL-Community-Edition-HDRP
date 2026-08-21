@@ -1,0 +1,44 @@
+BESZÉD HANGEREJE
+Igen
+KÉNYSZER. INDÍTÁS
+SCP-106 ÚJBÓLI ELZÁRÁSI\nELJÁRÁS FELÜLÍRÁSA
+Y-tengely felcserélése
+ÖSSZEFOGLALÁS
+Mégsem
+E S Z K Ö Z T Á R
+FÉNYERŐ
+BEÁLLÍTÁSOK
+SZÉTKAPCSOLÁS
+ALPHA ROBBANÓFEJ KI VAN KAPCSOLVA
+HOZZÁFÉRÉS BIZTOSÍTVA
+HANGOS CSEVEGÉS
+AZ ESZKÖZTÁR MEGTELT
+EGÉR ÉRZÉKENYSÉG
+FELTÖRÉS
+FELVÉTEL...
+A fényerő emelése <b>jelentősen rontja a hangulatát</b>a játéknak.\nPróbáld olyan alacsonyan tartani, amennyire csak lehet.\n<b>Az eredeti érték ajánlott.</b>
+[1] AJTÓ NYITÁSA/CSUKÁSA\n[2] AJTÓ LEZÁRÁSA*\n\n*Az ajtó zárása a speciális képességgel történik
+AZ AJTÓ ZÁRVA SCP-079 ÁLTAL
+Teljes képernyős mód
+Biztosan le szeretnél csatlakozni a szerverről?
+Alapbeállítások. A teljes lista a menüben található.
+VÁRAKOZÁS A JÁTÉKOSOKRA
+ÖSSZEGZÉS
+FOLYTATÁS
+FŐ HANGERŐ
+csatlakozott
+Elmenekültél egy Tudósként, és csatlakoztál az MTF-hez.
+Elmenekültél eg D-Osztályúként, és csatlakoztál a Chaos Insurgency-hez.
+EZ VAGY:
+Ennyi idő alatt szöktél el: {0} perc és {1} másodperc
+Várj [time]-t, mielőtt újra használhatod a következő tárgyat: [item].
+NYOMD MEG AZ <color=white><b>F1</b></color>-ET TOVÁBBI INFORMÁCIÓKÉRT
+Meg lettél bilincselve.\n<size=40>Kövesd az utasításokat, vagy kérj segítséget a társaidtól.</size>
+A Nine-Tailed Fox sikeresen foglyul ejtett téged.\nMivel a létesítményben eggyel kevesebb veszélyforrás van, megerősödtek.
+A Chaos Insurgency fogságba ejtett téged.\nElőnyre tettek szert az általad kiadott információkból.
+A KÖR <color=yellow>{0}</color> másodpercen belül indul
+A KÖR KEZDETE <color=#FF5050>SZÜNETEL</color>
+CÉLZÁSI ÉRZÉKENYSÉG CSÖKKENTÉS
+Nyomd meg a(z) [key]-t, hogy visszavond a dobást.
+ADS Kapcsolása
+Szemlélődő Csevegés Némítása

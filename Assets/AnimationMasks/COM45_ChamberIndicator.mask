@@ -1,0 +1,233 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: COM45_ChamberIndicator
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/camera
+    m_Weight: 0
+  - m_Path: Armature/camera/camera_end
+    m_Weight: 0
+  - m_Path: Armature/hand.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/index1.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/index1.L/index2.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/index1.L/index2.L/index3.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/index1.L/index2.L/index3.L/index3.L_end
+    m_Weight: 0
+  - m_Path: Armature/hand.L/middle1.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/middle1.L/middle2.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/middle1.L/middle2.L/middle3.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/middle1.L/middle2.L/middle3.L/middle3.L_end
+    m_Weight: 0
+  - m_Path: Armature/hand.L/pinky0.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/pinky0.L/pinky1.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/pinky0.L/pinky1.L/pinky2.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/pinky0.L/pinky1.L/pinky2.L/pinky3.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/pinky0.L/pinky1.L/pinky2.L/pinky3.L/pinky3.L_end
+    m_Weight: 0
+  - m_Path: Armature/hand.L/ring0.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/ring0.L/ring1.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/ring0.L/ring1.L/ring2.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/ring0.L/ring1.L/ring2.L/ring3.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/ring0.L/ring1.L/ring2.L/ring3.L/ring3.L_end
+    m_Weight: 0
+  - m_Path: Armature/hand.L/thumb1.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/thumb1.L/thumb2.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/thumb1.L/thumb2.L/thumb3.L
+    m_Weight: 0
+  - m_Path: Armature/hand.L/thumb1.L/thumb2.L/thumb3.L/thumb3.L_end
+    m_Weight: 0
+  - m_Path: Armature/hand.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/index1.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/index1.R/index2.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/index1.R/index2.R/index3.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/index1.R/index2.R/index3.R/index3.R_end
+    m_Weight: 0
+  - m_Path: Armature/hand.R/middle1.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/middle1.R/middle2.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/middle1.R/middle2.R/middle3.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/middle1.R/middle2.R/middle3.R/middle3.R_end
+    m_Weight: 0
+  - m_Path: Armature/hand.R/pinky0.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/pinky0.R/pinky1.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/pinky0.R/pinky1.R/pinky2.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/pinky0.R/pinky1.R/pinky2.R/pinky3.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/pinky0.R/pinky1.R/pinky2.R/pinky3.R/pinky3.R_end
+    m_Weight: 0
+  - m_Path: Armature/hand.R/ring0.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/ring0.R/ring1.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/ring0.R/ring1.R/ring2.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/ring0.R/ring1.R/ring2.R/ring3.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/ring0.R/ring1.R/ring2.R/ring3.R/ring3.R_end
+    m_Weight: 0
+  - m_Path: Armature/hand.R/thumb1.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/thumb1.R/thumb2.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/thumb1.R/thumb2.R/thumb3.R
+    m_Weight: 0
+  - m_Path: Armature/hand.R/thumb1.R/thumb2.R/thumb3.R/thumb3.R_end
+    m_Weight: 0
+  - m_Path: Armature/pole.L
+    m_Weight: 0
+  - m_Path: Armature/pole.L/pole.L_end
+    m_Weight: 0
+  - m_Path: Armature/pole.R
+    m_Weight: 0
+  - m_Path: Armature/pole.R/pole.R_end
+    m_Weight: 0
+  - m_Path: Armature/root
+    m_Weight: 0
+  - m_Path: Armature/root/arm.L
+    m_Weight: 0
+  - m_Path: Armature/root/arm.L/forearm.L
+    m_Weight: 0
+  - m_Path: Armature/root/arm.L/forearm.L/forearm.L_end
+    m_Weight: 0
+  - m_Path: Armature/root/arm.R
+    m_Weight: 0
+  - m_Path: Armature/root/arm.R/forearm.R
+    m_Weight: 0
+  - m_Path: Armature/root/arm.R/forearm.R/forearm.R_end
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/barrel
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/barrel/barrel_end
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/magazine
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/magazine/bullet
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/magazine/bullet/BulletL
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/magazine/bullet/BulletL/BulletL_end
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/magazine/bullet/BulletM
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/magazine/bullet/BulletM/BulletM_end
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/magazine/bullet/BulletR
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/magazine/bullet/BulletR/BulletR_end
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/magazine/mag empty
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/magazine/mag empty/mag empty_end
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/release
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/release/release_end
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/slide
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/slide/safety back
+    m_Weight: 1
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/slide/safety back/safety back_end
+    m_Weight: 1
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/slide/safety warning
+    m_Weight: 1
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/slide/safety warning/safety warning_end
+    m_Weight: 1
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/trigger
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/trigger/trigger_end
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/Muzzle Flashes (1)
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/Muzzle Flashes (1)/Casings
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/Muzzle Flashes (1)/Casings (1)
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/Muzzle Flashes (1)/Casings (2)
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/Muzzle Flashes (1)/LowCal_Flash
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/Muzzle Flashes (1)/LowCal_Flash/sparks
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/Muzzle Flashes (1)/LowCal_Flash/barrel flash short (with light)
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/Muzzle Flashes (1)/LowCal_Flash/barrel flash short (with light)/Point Light
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/Muzzle Flashes (1)/LowCal_Flash/barrel gas sprite sheet
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/Muzzle Flashes (1)/LowCal_Flash/'barrel gas '
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/Muzzle Flashes (1)/LowCal_Flash (1)
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/Muzzle Flashes (1)/LowCal_Flash (1)/sparks
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/Muzzle Flashes (1)/LowCal_Flash (1)/barrel flash short (with light)
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/Muzzle Flashes (1)/LowCal_Flash (1)/barrel flash short (with light)/Point Light
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/Muzzle Flashes (1)/LowCal_Flash (1)/barrel gas sprite sheet
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/Muzzle Flashes (1)/LowCal_Flash (1)/'barrel gas '
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/Muzzle Flashes (1)/LowCal_Flash (2)
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/Muzzle Flashes (1)/LowCal_Flash (2)/sparks
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/Muzzle Flashes (1)/LowCal_Flash (2)/barrel flash short (with light)
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/Muzzle Flashes (1)/LowCal_Flash (2)/barrel flash short (with light)/Point Light
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/Muzzle Flashes (1)/LowCal_Flash (2)/barrel gas sprite sheet
+    m_Weight: 0
+  - m_Path: Armature/root/WeaponHolder *DONT DELETE, START BUILDING WEAPON RIG FROM HERE*/grip/Muzzle Flashes (1)/LowCal_Flash (2)/'barrel gas '
+    m_Weight: 0
+  - m_Path: ruger
+    m_Weight: 0
+  - m_Path: ruger_bulletL
+    m_Weight: 0
+  - m_Path: ruger_bulletM
+    m_Weight: 0
+  - m_Path: ruger_bulletR
+    m_Weight: 0
+  - m_Path: ruger_mag
+    m_Weight: 0

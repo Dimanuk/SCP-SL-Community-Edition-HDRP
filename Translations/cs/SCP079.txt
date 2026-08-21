@@ -1,0 +1,17 @@
+Pomocná jednotka
+Zkušenosti
+Kamera
+Stiskni [KEY] pro prohlídnutí mapy
+Získané zkušenosti:
+Spolupracuj
+Asistence terminace personálu třídy-D
+Asistence terminace Chaos
+Asistence terminace MTF
+Asistence terminace Vědce
+Asistence terminace SCPčka
+ZAMKNUTÉ DVEŘE: [LOCKED_NUM]<size=25>PRAVÉ TLAČÍTKO MYŠE K ODEMKNUTÍ VŠECH DVEŘÍ</size>
+Obecná interakce
+Byl jsi napaden!
+Na mapě byly zvýrazněny generátory!
+NEBEZPEČÍ
+SCPčka{0}MTF & Strážných{1}Vědci{2}Personál třídy-D{3}Vzbouřenci chaosu{4}

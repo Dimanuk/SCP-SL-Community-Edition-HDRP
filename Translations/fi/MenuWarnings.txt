@@ -1,0 +1,4 @@
+VAROITUS
+OKEI
+<b>Intel grafiikat</b> on havaittu, joita <b>ei tueta</b>.\nOn <b>suositeltua</B> käyttää <b>integroitumatonta</b> näytönohjainta.\nPeli saattaa <b>kaatua useammin</b> nykyisellä asennuksella.
+Tärkeää äänikeskustelun vaatimaa järjestelmäpäivitystä ei löydy. Varmista, että Windows on täysin ajan tasalla, muuten peli ei välttämättä toimi oikein. Jos ongelma jatkuu, ota yhteyttä tekniseen tukitiimiimme saadaksesi lisäapua.(Huom! Tuen kieli on englanti.)

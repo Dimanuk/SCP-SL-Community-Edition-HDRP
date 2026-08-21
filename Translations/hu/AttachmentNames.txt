@@ -1,0 +1,46 @@
+Egyik sem~Alapértelmezett beállítás hatások nélkül.
+Fémirányzékok~Egy pár igazítási jelzőrúd, amelyek egyszerű, könnyű látóeszközt alkotnak.
+Pont Irányzék~Nagyítás nélküli Reflex irányzék, amely kis megvilágított ponttal jelzi a célzás irányát.
+Holografikus Irányzék~Nagyítás nélküli, holografikus célkereszttel rendelkező irányzék. A közelharcban a leghatékonyabb.
+Éjjellátó Irányzék~Éjjellátó készülékkel kiegészített teleszkópos irányzék. Nehéz, viszont hatékony minden fényviszonyban.
+Lőszerszámláló Irányzék~Fémirányzék beszerelt lőszerszámláló készülékkel.
+Teleszkópikus Irányzék~Nehéz látóeszköz, optikai nagyítást biztosít. Tökéletes nagy hatótávolságra, de korlátozza az általános észlelést.
+Alapértelmezett Puskatus~Alapértelmezett puskatus, amely jobb irányítást biztosít a lőfegyvernek célzás közben.
+Bővített Puskatus~Jobb irányítást biztosít a lőfegyvernek célzás közben, de növeli a felszerelési időt.
+Visszahajtott Puskatus~Kompaktabbá teszi a lőfegyvert, ami növeli a mobilitást.
+Könnyű Puskatus~Csökkenti a lőfegyver súlyát, de ennek hatására nehezebben lehet irányítani a visszarúgást célzás közben.
+Nehéz Puskatus~A megnövelt súly csökkenti a mobilitást, de ennek hatására a lőfegyver könnyebben irányíthatóvá válik célzás közben.
+Visszarúgás-csökkentő Puskatus~A puskatus olyan rendszerrel van felszerelve, amely megpróbálja eloszlatni az erőt az egyes lövések között.
+Elülső markolat~Függőleges elülső markolat. Megkönnyíti a visszarúgás emelkedésének kezelését.
+Lézer~Vizuális tájékozódási pontot biztosít a célponthoz, amely segít a csípőnél való tüzelésben, de könnyen felfedheti helyzetét.
+Zseblámpa~Kapcsolható fényforrás. Növeli a lőfegyver össztömegét, de életmentő lehet sötét területeken.
+Lőszerszámláló~Lőszerszámláló készülék. Kísérleti eszköz, amely hasznosnak bizonyult, különösen a nagy kapacitású táraknál.
+Alapértelmezett Cső~Hagyományos cső csőszájfék nélkül.
+Bővített Cső~Javítja az általános tűzerőt, de a megnövekedett súly és hossz alacsony mobilitáshoz vezet.
+Hangtompító~Hang csökkentő. Csökkenti a lövések hangosságát, de növeli a lőfegyver teljes súlyát és hosszát.
+Lángrejtő~Elrejti a lövések utáni lángcsóvát. Megkönnyíti a sötétben történő lövöldözést.
+Visszalökés-gátló~Visszalökés gátló. Hajtógázokat használ a visszarúgás csökkentésére, de növeli a lövések akusztikai intenzitását.
+Visszalökés-erősítő~Megnöveli a tüzelési sebességet, ezáltal több sebzés okozható másodpercenként, de a lőfegyver irányíthatósága romlik.
+FMJ Tár~Alapértelmezett tár, amely acéllövedékeket tartalmaz.
+AP Tár~Alapértelmezett tár, amely páncéltörő golyókat tartalmaz.
+JHP Tár~Alapértelmezett tár, amely üreges fejű golyókat tartalmaz.
+Bővített FMJ Tár~Bővített tár, amely acéllövedékeket tartalmaz.
+Bővített AP Tár~Bővített tár, amely páncéltörő golyókat tartalmaz.
+Bővített JHP Tár~Bővített tár, amely üreges fejű golyókat tartalmaz.
+FMJ Dobtár~Nagy kapacitású dobtár, amely acéllövedékeket tartalmaz.
+AP Dobtár~Nagy kapacitású dobtár, amely páncéltörő golyókat tartalmaz.
+JHP Dobtár~Nagy kapacitású dobtár, amely üreges fejű golyókat tartalmaz.
+Alacsony kapacitású FMJ Tár~Alacsony kapacitású tár, amely acéllövedékeket tartalmaz.
+Alacsony kapacitású AP Tár~Alacsony kapacitású tár, amely páncéltörő golyókat tartalmaz.
+Alacsony kapacitású JHP Tár~Alacsony kapacitású tár, amely üreges fejű golyókat tartalmaz.
+4-Töltényes Forgótár~Kevesebb töltényt tartalmaz, de képes nagyobb sebzést okozni a páncélozott ellenfeleknek.
+6-Töltényes Forgótár~A klasszikus 6-os tár.
+8-Töltényes Forgótár~Több töltényt tartalmaz, de a nehezebb ravaszhúzás miatt a pontos lövések több időt vesznek igénybe.
+Karabély Gázdugattyús Zárszerkezet~Általános zárszerkezet, amely jó megoldásnak bizonyul a tűzerő, valamint a mobilitás között.
+Puska Gázdugattyús Zárszerkezet~A teljes méretű zárszerkezet javítja a tűzerőt és a pontosságot, de a nehezebb gázrendszer csökkenti a tűzsebességet.
+Rövid Cső~A szabványos cső rövidített változata, amely a felszerelési idő és a mobilitás javítására szolgál.
+Fojtás~Növeli a teljes szórási sugarat, de javítja a szórási minta kiszámíthatóságát.
+Bővített Cső~Enyhén csökkenti a szórási sugarat, de növeli a lőfegyver teljes súlyát és hosszát.
+Nincs Puskatus~A rövid fegyverkonfigurációk nagy mobilitással járnak, azonban a lőfegyverek puskatusainak eltávolítása lehetetlenné teszi a biztonságos célzást.
+Egylövetű Rendszer~Alapértelmezett rendszer. Egy ravaszhúzás egy kisüléshez vezet.
+Kétlövetű Rendszer~Módosított ravaszmechanizmus, ami egy ravaszhúzásra mindkét sörétet kilövi.

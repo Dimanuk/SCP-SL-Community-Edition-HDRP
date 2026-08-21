@@ -1,0 +1,17 @@
+Ammunisjon {0}/{1} {2}
+Skade
+Skuddtakt
+Hofte-nøyaktighet
+ADS-nøyaktighet
+Vekt
+Lengde
+DROPP:
+Hjelm Effektivitet
+Vest Effektivitet
+Utholdenhet Bruk
+Bevegelse-hastighet
+Grense for Utstyr:
+Ammunisjon Grense:
+{0} totalt
+Rustning Penetrerende
+Løpende Nøyaktighet

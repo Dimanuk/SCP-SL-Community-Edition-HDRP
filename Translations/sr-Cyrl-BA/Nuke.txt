@@ -1,0 +1,4 @@
+<size=180><color=red>ИСКЉУЧЕНО</color></size>
+<color=red><size=180>МОЛИМ САЧЕКАЈТЕ/size></color>
+<color=lime><size=180>СПРЕМНО</size></color>
+ДЕТОНАЦИЈА НЕИЗБЈЕЖНА

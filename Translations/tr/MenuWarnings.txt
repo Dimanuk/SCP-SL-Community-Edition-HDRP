@@ -1,0 +1,4 @@
+UYARI
+TAMAM
+<b>Intel graphics</b> 'in  <b>desteklenmediği</b> tespit edildi.\n <b>Entegre olmayan</b> bir grafik kartı kullanmanız <b>önerilir.</b> \nOyun genellikle mevcut kurulumla <b>çökebilir.</b>
+Sesli sohbet için gereken önemli bir sistem güncellemesi bulunamıyor. Lütfen Windows'unuzun tam olarak güncel olduğuna emin olun, aksi takdirde oyun düzgün çalışmayabilir. Eğer bu sorun devam ederse, lütfen yardım için teknik desteklerimizle iletişime geçin.

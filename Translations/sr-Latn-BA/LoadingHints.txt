@@ -1,0 +1,63 @@
+Možete da uhapsite igrača tako što držite E sa puškom.
+Postoje 4 zone u objektu:Lagana Sadržilačka Zona, Tešnjka Sadržilačka Zona, Zona Ulaza i Spoljašnja Zona.
+Naučnici i Klasa-D moraju otići vani da pobjegnu.
+Zona ulaska ima 2 ulaza, A i B, oni daju pristup vani. Trebaće vam pristupna kartica da ih otvorite.
+Korišćenje lifta je brz i lagan način da se pobjegne od mnogih SCP.
+Pobjegli Klase-D pridruže se Chaos Insurgency, a naučnici se pridruže MTF.
+Adrenalin može da vam odma vrati kondiciju i daje prednost u borbi.
+Radio ima 4 režima signala po udaljenosti. Ako stavite duži signal, brže se istroši baterija.
+Mobilne Operativne Grupa i Chaos Insurgency dolaze na krajevima spoljašnjih zona.
+Alpha Warhead ubija sve u objektu kada pukne. Može biti aktivirana u spoljašoj zoni.
+Alpha Warhead detonacija može se sprječiti u svojoj sobi u Teškoj Zadržilačkoj Zoni.
+Interkom u Zoni Ulaza se može koristiti da se čuje vaš glas u čitavom objektu.
+Možete da bacite stvari ("T"). Ovo se može koristiti tako da otovrite vrata sa karticama ili da razbijete staklo.
+Lagana Zona Zadržavanja  se zaključa polsije 15 minuta; ubijajući sve. Pobjegni dok možeš!
+Maksimizirajte svoju prednost prilagođavanjem dodataka za oružje na osnovu situacije u kojoj se nalazite.
+Što više dodataka ima na puški, teža bude, zato budete sporiji i manje možete trčati.
+Prigušivači osim što utišaju pušku, uklanjaju dim sa kraja puške dok pucate.
+Duže i teže puške su više nepreciznije kada trčite.
+Nošenje pancira vam omogućava da nosite više municije i stvari.
+Metci koji imaju jaku penetraciju (AP) su najbolji protiv zaštićenih neprijatelja.
+Municije koje više naude (JHP) naude više neprijateljima koji nemaju pancir ili neku zaštitu.
+Držite dugme za repetaciju puške da uklonite municiju iz nje, stavljajući municiju u vaš inventar.
+Chaos Insurgency oružija su veoma jaka, ali njihova municija se ne može naći u objektu, koristi te puške kako treba.
+Granate se mogu koristiti da uništite neka vrata.
+Granate se mogu baciti sa manje sile tako što pritisnete lijevi klik.
+Mikro H.I.D. može da ubije mnoge SCP-ove brzo, ali ima ograničeno napajanje, koristi to mudro!
+Mikro H.I.D. treba oko 5 sekundi prije nego što počne pucati.
+Držanje lijevog klika sa Micro H.I.D. će pripremiti ga da puca, trošeći napajanje, ali neće pucati dok nepritisente desni klik.
+Micro H.I.D. je veoma glasan kad se priprema za pucanje. Probajte da koristite Micro H.I.D. kad vam neprijatelji ne mogu pobjeći.
+Pripremljanjem Micro H.I.D. proizvodi zastrašujući zvuk koji se može koristiti da neprijatelji bježe od vas.
+Flaša SCP-207 neće vas samo ubrzati, nego će vas i malo izlječiti.
+Možete popiti do 4 SCP-207 da budete još brži.
+SCP-500 osim što vas izlječi, ukloni i sve statusne efekte i daje malo regeneracije poslije toga.
+Dok SCP-268 naprave nevidljivim prema ljudima, SCP-079 i SCP-939 vas još mogu vidjeti.
+SCP-268 neće vas spasiti od SCP-096 ako ste ga polgedali u facu.
+SCP-018 je veoma nepredvidljiv. Kada je bačeno, idite ka zaklonu.
+SCP-018 može se koristiti da blokirate ono što vas ganja kad ga bacite u hodniku.
+SCP-914 može da promjenji sve stvari, municiju i oružije.
+SCP-914 može da napuni radio i Micro H.I.D.
+SCP-079 počinje relativno slab ali postane jači sa vremenom.
+SCP-079 može da zaključa vrata, ugasiti svjetla i pokrenuti električnu kapiju.
+Električna kapija u koji SCP-079 gleda će uvjek biti aktivna.
+SCP-079 ne može isključiti svjetla u prostoriji sa pokvarenim vratima.
+SCP-079 će biti zadržan tako što se upale agregati u Teškoj Zadržilačkoj Zoni i pritiskom dugmeta u njegovoj prostoriji.
+Kamera koju koristi SCP-079 će svjetliti plava. Nikad ne znaš kada gleda.
+SCP-173 može da se pomjera u prostorijama čija su svjetla ugašena, čak i ako ga neko gleda. Ponesi svjetlo!
+SCP-173 može da tiho ubije nekoga ako su iza njih.
+SCP-173 može da napravi lokvu što usporava sve ljude — praveći brzu i efikasanu zabranu prolaza.
+SCP-106 je otporan na metke, a ne na granate i sturju.
+SCP-106 se može brzo i lako zadržati uz pomoć žrtvovanja čovjeka u prostoriji SCP-106.
+SCP-106 može da hoda kroz vrata i staklo.
+SCP-096 je najslabiji kad se počinje smirivati.
+SCP-096 može da brzo trči kad pritisne lijevi klik – uništavajući vrata i ubijajući neprijatelje.
+SCP-096 može uništiti vrata i otvoriti teške kapije kad je poludio.
+SCP-939 ugriz nije pod uticajem pancira.
+SCP-939 daje amneziju kad ujede, smanjivajući vid.
+SCP-939 može da trči zauvjek i da hoda tiho.
+SCP-939 je tih kad hoda, praveći ga veoma dobrog predatora.
+Zvukovi hodanja SCP-ova su veoma posebni, slušaj dobro!
+SCP-049 može da ubije čovjeka brzo, ako priđe odvoljno blizu.
+SCP-049 može samo da reanimira leševe ako su svježi.
+SCP-049-2 je podložan pucanja u glavu.
+SCP-049-2 prave dobre izviđače i opasni su u velikom broju.

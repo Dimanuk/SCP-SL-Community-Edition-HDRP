@@ -1,0 +1,4 @@
+Daje światło
+Wyświetla stan amunicji
+Tłumi płomień
+Umożliwia widzenie w ciemności

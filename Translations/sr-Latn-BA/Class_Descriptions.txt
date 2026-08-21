@@ -1,0 +1,21 @@
+Ubijaj sve.\nZabrani da pobjegnu.\nsarađuj sa drugim <color=#F00>SCP.</color><color=#FFFF00>\nDržite vaš taster za ciljanje da se  teleportujete.\nImate malu otpornost od metaka i štit koji se regeneriše.</color>
+Pobjegni iz objekta.\nSarađuj sa <color=#008F1e>Chaos Insurgency.</color>\nIzbjegavaj druge timove.
+Igraćete igru opet, uskoro.
+Ubijaj sve.\nZabrani da pobjegnu.\nSarađuj sa drugim <color=#F00>SCP.</color><color=#FFFF00>\nVi možete da hodate kroz vrata.\nLijevi klik naudi i teleportuje čovjeka u vašu dimenziju.\nDržite dugme za inventar da pristupite meniju teleportovanja.</color>
+Pomogni <color=#FFFF7CFF>Naučnicima</color> da pobjegnu.\nUbijaj sve drugo.\nDajte instrukcije vašim vojnicima. \nSlušajte vaše vojnike koji su viši rank od vas.
+Ubijaj sve.\nZabrani da pobjegnu.\nSarađuj sa drugim <color=#F00>SCP.</color><color=#FFFF00>\nLijevi klik da ubijete nekog odmah sa malim čekanjem poslije klika.\nDržite E da vratite nedavno ubijenog čovjeka kao zombi za vaš tim.</color>
+Pobjegni iz objekta.\nSarađuj sa <color=#0096FF>MTF.</color>\nIzbjegavaj druge timove.
+Ubijaj sve.\nZabrani da pobjegnu.\nSarađuj sa drugim <color=#F00>SCP.</color>
+Ubijaj sve.\nZabrani da pobjegnu.\nSarađuj sa drugim <color=#F00>SCP.</color>
+Ubijaj sve.\nZabrani da pobjegnu.\nSarađuj sa drugim <color=#F00>SCP.</color>
+Ubijaj sve.\nZabrani da pobjegnu.\nSarađuj sa drugim <color=#F00>SCP.</color><color=#FFFF00>\nPritisnite lijevi klik da udarite nekoga.</color>
+Pomogni <color=#FFFF7CFF>Naučnicima</color> da pobjegnu..\nUbijaj sve drugo.\nDajte instrukcije vašim vojnicima. \nSlušajte vašeg komandanta.
+Pomogni <color=#FFFF7CFF>Naučnicima</color> da pobjegnu..\nUbijaj sve drugo.\nDajte instrukcije vašim vojnicima.
+Pomogni <color=#FFFF7CFF>Naučnicima</color> da pobjegnu..\nUbijaj sve drugo.\nSlušajte vaše vojnike koji su viši rank od vas.
+Prati zadatke da pobjedite i ispunite vaš zadatak.
+Pomogni <color=#FFFF7CFF>Naučnicima</color> da pobjegnu\nSarađuj sa drugim <color=#0096FF>MTF</color>\nUbijaj sve drugo.
+Ubijaj sve.\nZabrani da pobjegnu.\nSarađuj sa drugim <color=#F00>SCP.</color>
+Ubijaj sve.\nZabrani da pobjegnu.\nSarađuj sa drugim <color=#F00>SCP.</color>
+Pomogni <color=#FF8E00>Klasama-D</color> da pobjegnu.\nUbijaj sve drugo.
+Pomogni <color=#FF8E00>Klasama-D</color> da pobjegnu.\nUbijaj sve drugo.
+Pomogni <color=#FF8E00>Klasama-D</color> da pobjegnu.\nUbijaj sve drugo.

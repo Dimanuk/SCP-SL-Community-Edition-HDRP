@@ -1,0 +1,39 @@
+Apăsați [key_attack] sau [key_jump] pentru Săritură.
+Previzualizează vocea (doar tu o poți auzi)
+PREVIZUALIZARE LOCALĂ
+Eliminați vocea (ține apăsat)
+Redați vocea (toată lumea poate auzi asta)
+SCP-939 te-a ucis și ți-a furat vocea!
+Dacă nu dorești ca vocea ta să fie folosită, puteți dezactiva această funcție.
+Amintește-ți alegerea mea!
+Șterge
+OK
+Mai multe informații
+SCP-939 folosește un mecanism în care ultimele secunde ale transmisiei tale de chat vocal sunt înregistrate temporar. Acest lucru poate fi redat de SCP-939 pentru a atrage ținte.\nÎnregistrările sunt eliminate automat dacă părăsiți serverul, dacă SCP-939 moare sau la repornirea rundei. Dezactivarea acestei funcții va elimina toate înregistrările existente ale transmisiilor voastre.
+Norul nu poate fi depus în această poziție.
+Dimensiunea minimă a Norului nu a fost atinsă. Ține apăsată tasta de depunere mai mult timp.
+SCP-939 este orb și vede prin sunet. Valorifică greșelile, folosindu-și pașii tăcuți și viteza înfricoșătoare pentru a înființa ambuscade și a intra în ucidere.
+Gheară:Dă clic pentru a-ți glisa gheara larg în fața ta, smulgând carne și oase de pe victima aleasă. În timp ce vă concentrați, atacul principal vă va permite să vă aruncați asupra pradei.
+Concentrare:Dedicându-ți întreaga energie simțurilor, poți vedea prada de mai departe, precum și știind ce tip de pradă sunt, prin acțiunile pe care le efectuează.
+Nor Amnestic:Umpleți-vă sacii de aer cu un gaz neurochimic periculos, proiectându-l într-o rază care este determinată de momentul în care a fost încărcat. Oamenii care inhalează gazul își pierd percepția despre SCP-939 și nu pot efectua anumite acțiuni. Atenție totuși, atacarea sau atacarea asupra tine te va dezvălui pentru o scurtă perioadă de timp.
+Cu Multe Voci:Oamenii pe care îi ucizi au șansa să-ți dea ultimele cuvinte, permițându-ți să le furi vocea și să o folosești pentru a-i înșela pe alții. În plus, SCP-939 poate imita și unele sunete de bază, cum ar fi deghizarea pașilor lor pentru a se potrivi cu oamenii.
+Ultrasensibil:SCP-939 este capabil să detecteze sursele de căldură din apropiere, reprezentate de o rază mică a vederii normale. În afară de aceasta, totuși, trebuie să te bazezi pe sunet pentru a urmări prada din apropiere. Cu cât sunetul este mai puternic, cu atât mai departe îl poți auzi. Gama de vedere este afectată de nivelul de rezistență.
+Întoarcere
+Plasați Punctul Mimic
+Suprapune poziția sursei de sunet a Mimetismului
+Eliminați Punctul Mimic
+Faceți toate sunetele să provină din locația ta actuală
+Punct Mimic Setat!
+Punct Mimic Eliminat!
+Punct Mimic Distrus. Ai ieșit din rază.
+Voci Furate
+Redă vocile victimelor tale
+Mimetismul Mediului
+Imită diverse sunete pentru a atrage ținte
+(Timp de Așteptare: [time]s)
+Pași
+Impersonare
+Împușcare
+Altele
+Meniul Anterior
+Meniul Următor

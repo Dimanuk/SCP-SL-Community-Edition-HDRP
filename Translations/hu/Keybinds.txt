@@ -1,0 +1,30 @@
+Lövés
+Célzás
+Ugrás
+Interakció
+Eszköztár
+Újratöltés
+Futás
+Hangos Csevegés
+Settenkedés
+Mozgás Előre
+Mozgás Hátra
+Mozgás Balra
+Mozgás Jobbra
+Játékoslista
+Karakter Információ
+Távoli Admin
+Zseblámpa Kapcsolása
+Alternatív Hangos Csevegés
+Noclip
+Játékkonzol
+Kulcskártya Gyorsbillentyű
+Megvizsgálás
+Revolver Kakas Hátraakasztása
+Tárgy Elhajítása
+Elsődleges Fegyver Gyorsbillentyű
+Másodlagos Fegyver Gyorsbillentyű
+Orvosi Gyorsbillentyű
+GUI Eltüntetése
+Noclip Köd Kapcsolása
+Gránát Gyorsbillentyű

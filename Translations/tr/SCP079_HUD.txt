@@ -1,0 +1,74 @@
+YAKINLAŞTIR x[amount]
+ERİŞİM KATMANI [tier]
+EXP [current] / [next]
+AZAMİ KATMANA ULAŞILDI
+KAMERA YOK
+GİT: [camera] ([cost])
+YETERLİ GÜÇ YOK
+TAHMİNİ SÜRE: [time] saniye
+DAHA ÜST KATMAN GEREKTİRİR
+GEÇERSİZ KAMERA
+KAPI ERİŞİMİ REDDEDİLDİ
+KAPIYI AÇ ([cost])
+KAPIYI KAPAT ([cost])
+KAPIYI KİLİTLE ([cost])
+KAPI KİLİDİNİ AÇ
+KAPI KİLİDİ BEKLEME SÜRESİ
+YARDIMCI GÜÇ
+SALDIRI ALTINDASIN!
+TÜM KAPI KİLİTLERİ AÇ (totalde [num])
+TESİS HARİTASINI AÇ
+KAPAT
+LIGHT CONTAINMENT ZONE
+HEAVY CONTAINMENT ZONE
+GİRİŞ BÖLGESİ
+YÜZEY BÖLGESİ
+KARARTMA ([cost])
+KARARTMA BU ODA İÇİN MEVCUT DEĞİL
+EŞ ZAMANLI KARARTMA SINIRINA ULAŞILDI
+ODA KARARTMA BEKLEME SÜRESİ
+ASANSÖR GÖNDER ([cost])
+KARANTİNA ([cost])
+KARANTİNA BEKLEME SÜRESİ
+KARANTİNA İÇİN MEVCUT KAPI YOK
+LOKASYONU İŞARETLE ([cost])
+İŞARETLEME HIZI SINIRINA ULAŞILDI
+KAMERA DEĞİŞİMİ BAŞARISIZ
+SİNYAL YOK
+TEKRAR BAĞLANILIYOR (TAHMİNİ SÜRE: [time] saniye)
+TESLA GEÇİDİNİ ATEŞLE ([cost])
+TESLA GEÇİDİNİ ETKİNLEŞTİRME BEKLEME SÜRESİ
+  $Erişim Katmanı [tier]$ - AÇILDI
+$YARDIMCI GÜÇ$ limiti $[limit]$ olarak arttı.
+$KARARTMA$ artık mevcut - $[key]$ tuşuna basarak oda ışıklarını devredışı bırak.
+$KARARTMA$ kapasitesi $[number]$ odaya çıktı.
+$KARANTİNA$ artık mevcut - $[key]$ tuşuna basarak odadaki tüm kapıları geçici olarak kilitleyin.
++[amount] EXP - Admin Komutu
++[amount] EXP - D-Sınıf Personelinin öldürülmesine katkıda bulunma
++[amount] EXP - Bilim adamının öldürülmesine katkıda bulunma
++[amount] EXP - Tesis Görevlisinin öldürülmesine katkıda bulunma
++[amount] EXP - Dokuz-Kuyruklu Tilki üyesinin öldürülmesine katkıda bulunma
++[amount] EXP - Kaos İsyancısının öldürülmesine katkıda bulunma
++[amount] EXP - İnsan öldürme katkısı
++[amount] EXP - Takım arkadaşının cinayetine tanık olma
++[amount] EXP - Takım arkadaşının kovalamacasına yardım etme
++[amount] EXP - Takım arkadaş(lar)ını koruma
++[amount] EXP - Mikro Y.Y.D kullanımını önleme
+KAMERA AKTARIMI ÇEVRİMİÇİ
+BÖLGE BOYU KARARTMA ([cost])
+$BÖLGE BOYU KARARTMA$ artık mevcut - $Tesis Haritası$ üzerinden bölge isimlerinin yanında.
+BÖLGE BOYU KARARTMA BEKLEME SÜRESİ
+KARARTMA ZATEN ETKİN
+KARARTMA BU BÖLGE İÇİN MEVCUT DEĞİL
+TOPLAM YAŞAM FORMLARI
+HEDEFLER
+SCP DENEKLERİ
+SİVİL
+ASKER
+HOPARLÖRÜ KULLAN
+ASANSÖR ERİŞİMİ REDDEDİLDİ
+SCP-079'un doğrudan savaş veya hareket kabiliyeti yoktur. Bunun yerine, her odada bulunan güvenlik kameraları aracılığıyla dünyayı görüyor ve onunla etkileşim kuruyorsunuz. Mevcut tüm yetenekler, HUD'nizin sağ üst köşesinde listelenir
+Neredeyse Yok Edilemez:Heavy Containment Zone'da üç jeneratör var. Hepsi devreye girerse, hücrenize geri muhafaza edilebilirsiniz. Jeneratörlerin, jeneratör üzerindeki "İPTAL" düğmesine basılarak durdurulabilen bir geri sayım dizisi vardır.
+Sınırsız Erişim:Diğer SCP'lere yardımcı olmak için tesisteki çok sayıda sistemi manipüle edebilirsiniz. Ekranızın sağ üst kısmında, hangi yeteneklerin mevcut olduğunu gösterir. Bu yeteneklerin kullanımı, zamanla yenilenen yardımcı güce (YG) mal olur.
+Derin Öğrenme:Cinayetlere yardımcı olmak veya diğer SCP'ler için faydalı eylemler gerçekleştirmek, size yeni bir erişim katmanına yönelik deneyim kazandıracaktır. Her yeni katman daha fazla AP sağlar ve size yeni yetenekler verir.
+Gözetmen:Her yerde ve hiçbir yerde olmak size eşsiz bir bakış açısı kazandırır. Konumlara, insanlara ve istedğiniz nesnelere işaret atarak katliama yardımcı olabilirsiniz.

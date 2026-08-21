@@ -1,0 +1,46 @@
+Yok~Etkisi olmayan varsayılan seçenek.
+Tam Nişangah~Çift hizalama sağlayan basit, hafif bir nişangah cihazı.
+Noktalı Nişangah~Nişan alınan yeri küçük bir noktayla gösteren yakınlaştırma sağlamayan görüş. 
+Holografik Nişangah~Holografik retikül ile yakınlaştırma sağlamayan görüş. Yakın dövüşte etkilidir.
+Gece Görüş Dürbünü~Gece görüş cihazı ile güçlendirilmiş teleskopik görüş. Ağır, ancak tüm aydınlatma koşullarında etkilidir.
+Mermi Sayaçlı Nişangah~Mermi sayma cihazı ile tam nişangah.
+Teleskopik Nişangah~Optik büyütme sağlayan ağır nişan cihazı. Uzun menzil için mükemmel, ancak genel algıyı sınırlar.
+Standart Dipçik~Nişan alırken silahını daha iyi kontrol etmeni sağlayan normal dipçik.
+Genişletilmiş Dipçik~Nişan alırken silahını daha iyi kontrol etmeni sağlar ancak kuşanma süresini artırır.
+Katlanabilir Dipçik~Silahı daha kompakt hale getirir, bu da hareketliliği artırır.
+Hafif Dipçik~Silahın ağırlığını azaltır ama nişan alırkenki geri tepmenin kontrolünü zorlaştırır.
+Ağır Dipçik~Artan ağırlıktan dolayı hareketliliği azaltır ancak nişan alırken silahı daha stabil hale getirir.
+Geri Tepme Azaltıcı Dipçik~Tek tek atışlar arasındaki kuvveti dağıtmaya çalışan bir sistemle donatılmış dipçik.
+Ön Kabza~Dikey ileri kavrayıcı. Namlu çıkışının kontrolünü kolaylaştırır.
+Lazer Görüşü~Hedefe görsel referans noktası sağlar, bu da nişah almadan ateşlemeye yardımcı olur, ancak konumunuzu kolayca ortaya çıkarabilir.
+Fener~Açılıp kapanabilir ışık kaynağı. Silahın toplam ağırlığını artırır ancak karanlık ortamlarda hayat kurtarıcı olabilir.
+Mermi Sayacı~Mühimmat sayma cihazı. Özellikle yüksek kapasiteli şarjörlerde faydalı olduğu kanıtlanmış deneysel teknoloji.
+Standart Namlu~Namlu tertibatı olmayan beylik namlusu.
+Uzatılmış Namlu~Genel ateş gücünü artırır, ancak artan ağırlık ve uzunluk nedeniyle düşük hareket kabiliyetine neden olur.
+Susturucu~Ses moderatörü. Silah seslerinin gürültüsünü azaltır, ancak silahın toplam ağırlığını ve uzunluğunu artırır.
+Alev Gizleyici~Namludan çıkan ateşi ortadan kaldırır. Karanlıkta ateş etmeyi kolaylaştırır.
+Namlu Freni~Geri tepme kompansatörü. Geri tepmeyi azaltmak için itici gazlar kullanır, ancak silah seslerinin akustik yoğunluğunu artırır.
+Namlu Güçlendirici~Atış hızını artırır, bu da saniyede daha fazla hasar vermesini sağlar, ancak silahı kontrol etmek daha zordur.
+TMK Şarjörü~Tam metal kaplamalı mermiler içeren standart şarjör.
+ZD Şarjörü~Zırh delici mermiler içeren standart şarjör.
+UD Şarjörü~Ucu delikli mermiler bulunduran standart şarjör.
+Genişletilmiş TMK Şarjörü~Tam metal kaplamalı mermiler içeren genişletilmiş şarjör.
+Genişletilmiş ZD Şarjörü~Zırh delici mermiler içeren genişletilmiş şarjör.
+Genişletilmiş UD Şarjörü~Ucu delikli mermiler bulunduran genişletilmiş şarjör.
+TMK Tamburu~Tam metal kaplamalı mermiler içeren yüksek kapasiteli tambur şarjörü.
+ZD Tamburu~Zırh delici mermiler içeren yüksek kapasiteli tambur şarjörü.
+UD Tamburu~Ucu delikli mermiler içeren yüksek kapasiteli tambur şarjörü.
+D-K TMK Şarjörü~Tam metal kaplamalı mermiler içeren düşük kapasiteli şarjör.
+D-K ZD Şarjörü~Zırh delici mermiler içeren düşük kapasiteli şarjör.
+D-K UD Şarjörü~Ucu delikli mermiler bulunduran düşük kapasiteli şarjör.
+4-Toplu Silindir~Daha az kartuş tutar ancak zırhlı düşmanlara daha fazla hasar verir.
+6-Toplu Silindir~Klasik altıpatlar.
+8-Toplu Silindir~Daha fazla kartuş tutar ancak tetiği daha ağır çeker, isabetli atış için daha fazla zamana ihtiyacı vardır.
+Karabina Sürgüsü~Ateş gücü ve hareketlilik arasında uyum sağlayan normal üst sürgü.
+Tüfek Sürgüsü~Ateş gücünü ve isabetliliğini artırır ancak ağır gaz sistemi atış oranını azaltan tam boyutlu üst sürgü.
+Kısa Namlu~Standart namlunun kısaltılmış versiyonu, çekme hızını ve hareketliliği artırır.
+Şok~Mermi yayılımını artırır ancak gidişat modelini iyileştirir.
+Uzatılmış Namlu~Mermi yayılımını azaltır ancak silahın toplam ağırlığını ve uzunluğunu artırır.
+Dipçik Yok~Yüksek hareketlilik için kısa yapılandırma, ancak geri tepmesi yüksek bir tüfekte dipçiği kaldırmak pek iyi bir fikir değildir.
+Tekli-Atış Sistemi~Standart sistem. Tetik çekildiğinde tek bir atış yapar.
+Çifte-Atış Sistemi~Tetik çekildiğinde her iki tetiği de harekete geçiren modifiye tetik mekanizması.

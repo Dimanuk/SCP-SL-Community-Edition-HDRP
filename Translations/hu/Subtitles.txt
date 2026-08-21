@@ -1,0 +1,27 @@
+Mobile Task Force Egység Epsilon-11, kijelölt [designation] belépett a létesítménybe.<split>Tanácsolt minden fennmaradó személyzetnek, hogy folytassa az alapértelmezett evakuálási protokollokat, amíg egy MTF osztag eléri a pozícióját.<split>
+Várakozás az újbóli elzárására: [count] SCP-nek.
+Várakozás az újbóli elzárására: 1 SCP-nek.
+Jelentős veszély rejlik a létesítményben -- fokozott éberséggel tevékenykedjenek.
+sikeresen likvidálva. Likvidálás oka ismeretlen.
+likvidálva SCP-[scp] által.
+sikeresen likvidálva az Automatikus Biztonsági Rendszer által.
+sikeresen likvidálva az Alpha Robbanófej által.
+újra elzárva Tudományos Személyzet által.
+újra elzárva D-Osztályú Személyzet által.
+újra elzárva Chaos Insurgency által.
+SCP-[scp]
+újra elzárva. Elzárási egység ismeretlen.
+újra elzárva. Elzárási egység: [designation].
+elveszett a Fertőtlenítési Folyamatban.
+[current] a(z) [max] generátorból aktiválva.
+<split>Minden generátor sikeresen be lett kapcsolva.
+Túlterhelés: 3... 2... 1...
+A Létesítmény újból működőképes módban van.
+Figyelem, minden személyzet.<split>A Light Containment Zóna fertőtlenítési folyamat T-15 perc múlva elkezdődik.<split>Minden biológiai anyagot el kell távolítani a megsemmisülés elkerülése érdekében.
+Veszély, Light Containment Zóna teljes fertőtlenítés T-[time] perc múlva.
+Veszély, Light Containment Zóna teljes fertőtlenítés T-1 perc múlva.
+Veszély, Light Containment Zóna teljes fertőtlenítés T-30 másodperc múlva.<split>Minden ellenőrzőponti ajtó véglegesen ki lett nyitva. Kérjük az azonnali evakuálást.
+Light Containment Zóna le van zárva és kész a fertőtlenítésre.<split>Az organikus anyagok eltávolítása elkezdődött.
+ALPHA ROBBANÓFEJ VÉSZHELYZETI DETONÁCIÓS FOLYAMAT BEKAPCSOLVA.<split>A LÉTESÍTMÉNY FÖLD ALATTI RÉSZE FEL LESZ ROBBANTVA T-[time] MÁSODPERCEN BELÜL.
+DETONÁCIÓS FOLYAMAT MEGSZAKÍTVA. A RENDSZEREK ÚJRAINDULNAK.
+DETONÁCIÓS FOLYAMAT FOLYTATÓDIK, T-[time] MÁSODPERC.

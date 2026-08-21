@@ -1,0 +1,27 @@
+Mobile Task Force Unit Epsilon-11 aangewezen [designation] is de faciliteit binnengegaan. <splitsing>Al het overblijvende personeel wordt geadviseerd door te gaan met de standaard evacuatieprotocollen totdat een MTF squad uw bestemming bereikt.<split>
+In afwachting van heropsluiting van: [count] SCP-Objecten.
+In afwachting van heropsluiting van 1 SCP-Object.
+Aanzienlijke bedreiging voor de veiligheid blijft binnen de faciliteit - wees voorzichtig.
+met succes geëlimineerd. Oorzaak eliminatie niet gespecificeerd.
+geëlimineerd door SCP-[scp].
+succesvol geëlimineerd door Automatisch Beveligingssysteem.
+succesvol geëlimineerd door Alpha Warhead.
+succesvol geëlimineerd door Wetenschapspersoneel
+succesvol geëlimineerd door D-Klasse Personeel
+succesvol geëlimineerd door Chaos Insurgency
+SCP-[scp]
+succesvol heropgesloten. Heropsluitunit onbekend.
+succesvol heropgesloten. Heropsluitunit [designation].
+verloren in Ontsmettingsprocedure.
+[current] van de [max] generators geactiveerd.
+<split>Alle generatoren succesvol geactiveerd.
+Overladen in 3... 2... 1...
+De faciliteit is weer operationeel.
+Attentie, alle personeel.<split>Het ontsmettingsproces van de Light Containment Zone zal over T-15 minuten plaatsvinden.<split>Alle biologische stoffen moeten worden verwijderd om vernietiging te voorkomen.
+Gevaar, Light Containment Zone volledige ontsmetting in T-[tijd] minuten.
+Gevaar, Light Containment Zone volledige ontsmetting in T-1 minuut.
+Gevaar, Light Containment Zone volledige ontsmetting in T-30 seconden.<split>Alle controleposten zijn permanent geopend. Gelieve onmiddellijk te evacueren.
+Light Containment Zone is afgesloten en klaar voor ontsmetting.<split>De verwijdering van organische stoffen is nu begonnen.
+ALPHA WARHEAD EMERGENCY DETONATIEPROGRAMMA GESTART.<split>HET ONDERGRONDSE DEEL VAN DE FACILITEIT WORDT GEDETONATEERD IN T-[time] SECONDEN.
+DETONATIE GEANNULEERD. SYSTEMEN OPNIEUW OPSTARTEN.
+DETONATIE SEQUENTIE HERVAT, T-[time] SECONDEN.

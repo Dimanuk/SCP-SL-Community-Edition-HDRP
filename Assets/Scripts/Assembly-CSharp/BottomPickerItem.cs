@@ -1,0 +1,17 @@
+public class BottomPickerItem : global::UnityEngine.MonoBehaviour
+{
+    private string key;
+
+    private int id;
+
+    public void SetupButton(string k, int i)
+    {
+        key = k;
+        id = i;
+    }
+
+    public void Submit()
+    {
+        PlayerPrefsSl.Set(key, id);
+    }
+}

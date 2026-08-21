@@ -1,0 +1,21 @@
+Quest'anima non è più con noi.
+Questo cadavere è espirato.
+Questa anima è stata rianimata troppe volte.
+Quest'anima non vuole più essere rianimata.
+Questo cadavere non può essere rianimato.
+Questo cadavere è già stato consumato.
+Solo i cadaveri umani possono essere consumati.
+TEMPO DI RICARICA PER L'ATTACCO
+Hai negato un'ulteriore rianimazione da SCP-049!
+Premi [key] per negare ulteriori rianimazioni.
+Nessun target trovato.
+Hai già tutta la vita.
+Questo cadavere è già consumato.
+Lento e fragile, SCP-049 è specializzato negli agguati, egli è in grado di invertire rapidamente le sorti della partita creando orde di personale "guarito".
+Veloci e pericolose, le istanze di SCP-049-2 sciamano davanti al loro padrone per seminare panico e chaos, creando nuovi corpi per unirsi al team.
+Arresto cardiaco:Si allunga la mano guantata per toccare i cuori di coloro che soffrono di Pestilenza, causando il loro funzionamento corporeo a fallire rapidamente; dando la possibilità di iniettare la vostra cura.
+Il buon senso del Medico:Spostate la vostra attenzione su un'anima contaminata. Vi muovete più velocemente, determinati a liberarli dalla Pestilenza. Sei in grado di misurare la distanza della vittima usando l'odore disgustoso della malattia.
+La chiamata del Medico:Segnalate la vostra posizione al personale curato. Mentre si trovano vicino a voi, i loro corpi si induriscono per tollerare più danni. Un grande dottore controlla sempre i loro pazienti, dopotutto.
+Risparmio è il Miglior Guadagno:I tuoi istinti medici non sono privi di efficienza; puoi far rivivere la cura più e più volte per fornire maggiori informazioni. Non capita tutti i giorni che i morti risuscitino due volte.
+Sete di sangue:La tua mente è stata rimossa con forza, lasciandoti con solo violenza. Ti ritrovi a inseguire gli umani sempre più velocemente, mentre li insegui...
+Voracità:La cura non è del tutto priva di benefici. Puoi rigenerare la tua carne usando la massa di qualsiasi cadavere vicino. Non c'è condivisione però, quindi assicuratevi di essere il primo alla festa.

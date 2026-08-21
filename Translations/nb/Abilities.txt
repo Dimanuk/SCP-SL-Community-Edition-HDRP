@@ -1,0 +1,31 @@
+Evne ikke funnet:ID en tilknyttet denne evnen finnes ikke.
+Spurt:Øker bevegelsesfarten, men øker også støynivå fra bevegelse.
+Snik: Beveg deg stillere på bekostning av hastighet.
+Inventar:Åpne inventaret ditt og velg en gjenstand du har plukket opp med LMB, eller slipp det med RMB.
+Ubevæpnet:Du har ingenting. Finn noe. Hva som helst.
+Nøkkelkort:Du har et nøkkelkort. Det er ikke det beste, men ikke mist det!
+Standardutstedelse:Du er utstyrt med Rifle, Granater, Radio og et Nøkkelkort.
+Bevæpnet og farlig:Du har blitt gitt et Lett Maskingevær, et Hackeverktøy (Nøkkelkort), og et Førstehjelpssett.
+Halsbrekkende Hastigheter: Uansett hvor de gjemmer seg så vil du finne dem innen kort tid, og de ser deg i enda kortere. Doble bevegelsesfarten og blunkeavstand, på bekostning av dødeligheten din. Varer til kort tid etter å ha blitt sett, eller til å ha blitt avbrutt manuelt.
+Blunk:Få dem til å angre på å bryte siktlinjen etter de har sett deg, selv bare for et øyeblikk. Hold og flytt indikatoren til dit du vil ha den når øyet blir rødt. Slipp for å teleportere og drepe det nærmeste mennesket innen 2 meter.
+Synkehull:Du kan plassere en svart dam med korrosjon og teleportere tilbake til den hvor og når som helst. Teleportering tar noen få sekunder.\nDu kan flytte synkehullet ditt ved å plassere det igjen.
+Korrosjon:Du kan bevege deg gjennom dører ved å gå inn i dem.
+Svanesang: Du er nesten immun mot kuler, men kan bli gjenfanget øyeblikkelig ved at et menneske ofrer seg i inneslutningskammeret ditt.
+Lommedimensjon:Fanger et menneske og teleporterer dem til en lommedimensjon som dreper dem innen kort tid. Mennesker må velge riktig utgang, eller dø.
+Skoptofobi:Du starter rolig, og blir rasende når du blir sett eller skadet. Stopp raseriet ditt ved å drepe de skyldige - følg lyset deres før raseriet gir seg. Hver skyldige øker til din AHP, noe som forhindrer skade på deg så lenge den varer.
+Prøv Å Ikke Gråte (Rolig):Det er for vanskelig. Å lene seg på en dør hjelper; du blir mer stille og står på plass mot den, som roer deg ned...  eller vent på at noen skal komme forbi.
+Nærkamp angrep (Sinne):Riv gjennom hva som heldst i din vei til de som har såret deg. Dine angrep vil ødelegge dører og drepe de fleste mennesker umiddelbart.
+Ultrasensitiv:Du kan ikke se mennesker med mindre de løper, støter på deg eller skyter et våpen i nærheten av deg.
+Rovdyr: Dine fotspor er stille. Å holde den tildelte tastaturknappen øker hastigheten din, men gir bevegelsen din lyd.
+Bedrager:Du kan snakke til alle spillere i nærheten, inkludert mennesker.
+Bitt:Angrip et nært menneske, gjør øyeblikkelig alvorlig skade.
+Motgift:Tar på et menneske i nærheten, som umiddelbart dreper dem.
+Kuren:Reanimerer et nylig drept menneske. Kurerte mennesker spiller som gjenganger med rask mobilitet og lav helse.\nDet er ingen begrensning for hvor mange mennesker som kan kureres.
+Slå: Angriper et menneske og utfører moderat skade på dem.
+Åpne/lukke dører: Du kan samhandle med dører for å åpne og lukke dem for 5 AP. Du kan også låse dem ned, ved å tømme AP-en, men hindre alle i å åpne eller lukke den til du løfter låsen eller går tom for AP.
+Tesla Overlading: Du kan aktivere en Tesla Port for 50 AP for umiddelbart å utløse den, som drepe alle spillere inni eller i nærheten av den.
+Låse:Starter på tilgangsnivå 2, du kan samhandle med noen rom for å låse dem ned, skru av alle lys og lukke alle dører. Mens mennesker er i avlåste rom, kan de ikke se SCP-173.
+Praktisk Talt Uødeleggelig: Fem generatorer dukker opp i Heavy Containment sonen. Hvis alle er låst opp og aktivert, blir du fanget.\nGeneratorer har en nedtellingssekvens som hvilken som helst spiller kan forstyrre ved å trykke på "AVBRYT"-knappen på generatoren.
+Forsterket Betong: Aksepter deres begjær av beundring, men stå din plass mot deres vandalisme. Du har innebygd motstand mot kuler. Lavpenetrasjon kuler gjør betraktelig mindre skade sammenlignet med penetrerende kuler.
+Angrip (Sinne):Hindre dem å unnslippe – de fortjener det. Du løper rett frem og river fra hverandre hva som helst foran deg i en kort avstand. Hvis du treffer en tung port, tvinger du deg gjennom den.
+Sinneanfall:La dem føle din vrede. Lag en flokk av filete under deg som blir flekker og hemmer menneskenes mobilitet som går gjennom den. Ã drepe fargede mennesker vil gjenopprette noen av Hume Shielden.

@@ -1,0 +1,22 @@
+Caramelle
+Caramella Rainbow
+È un pezzo duro di rock candy, confezionato con tutti i tipi di sapori.
+Concede un gran numero di piccoli bonus, tra cui rigenerazione della salute, rinvigorimento, e AHP.
+Caramella Gialla
+L'odore travolgente del limone ti fa rabbrividire un po'.
+Consente di muoversi più velocemente e sprint più a lungo per un breve periodo di tempo.
+Caramella Viola
+Ha un odore succoso di uva. La bocca s'inizia ad avere l'acquolina.
+Garantisce una resistenza temporanea ai danni e rigenera lentamente la salute.
+Caramella Rossa
+Un forte profumo di ciliegia riempie la stanza. È un po'... <i>troppo</i> forte.
+Ripristina rapidamente la tua salute.
+Caramella Verde
+Un cattivo odore di erbe viene emanato dalla caramella.
+Fornisce una rigenerazione duratura della salute e l'immunità temporanea alla maggior parte degli effetti.
+Caramella Blu
+Ha un odore dolce e morbido, qualcosa di simile ad un marshmallow.
+Concede uno scudo temporaneo.
+Caramella Rosa
+Il profumo di fragola è dolce come sembra.
+- R E D A C T E D -

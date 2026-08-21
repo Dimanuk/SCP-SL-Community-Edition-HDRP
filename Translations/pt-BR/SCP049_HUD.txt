@@ -1,0 +1,23 @@
+Esta alma já não está mais conosco.
+Este corpo expirou.
+Esta alma foi revivida muitas vezes.
+Esta alma não quer mais ser revivida.
+Este corpo não pode ser revivido.
+Este corpo já foi consumido.
+Apenas corpos humanos podem ser consumidos.
+RECARGA DE ATAQUE
+Você negou ressurreições posteriores de SCP-049!
+Pressione [key] para negar ressurreições posteriores.
+Nenhum alvo encontrado.
+Você já está com vida cheia.
+Este corpo já está sendo consumido. 
+Lento e frágil, SCP-049 é especialista em emboscadas, facilmente conseguindo mudar o rumo da partida com suas hordas de fiéis zumbis.
+Velozes e furiosos, as instâncias de SCP-049-2 correm à frente de seu mestre para semear pânico e caos, criando novos corpos para se juntar a horda.
+Ataque Cardíaco:Você estende sua mão enluvada para tocar o coração daqueles que sofrem da Pestilência, fazendo com que suas funções corporais falhem rapidamente; dando-lhe a chance de administrar sua cura.
+Sentido Aguçado do Doutor:Você muda todo o seu foco para uma alma contaminada. Você se move mais rápido, determinado à livrá-los da Pestilência. Você é capaz de medir a distância de uma vítima usando o cheiro fétido da doença.
+O Chamado do Doutor:Você sinaliza sua localização para sua horda de zumbis. Conforme eles ficam perto de você, seus corpos endurecem para tolerar mais danos. Afinal, um excelente doutor sempre examina seus pacientes.
+Sem Desperdício & Escassez:Seus instintos médicos não carecem de eficiência; você pode reviver o curado repetidamente para proporcionar-te mais conhecimento. Não é todo dia que os mortos ressuscitam duas vezes.
+Sede de Sangue Lobotomizada:Sua mente foi removida à força, deixando você apenas com violência. Você se vê perseguindo humanos cada vez mais rápido enquanto os procura …
+Voracidade:A cura não é totalmente sem benefícios. Você pode regenerar sua carne usando a massa corporal de qualquer cadáver próximo. No entanto, não há compartilhamento, portanto, certifique-se de ser o primeiro à chegar ao banquete.
+Reviver
+Segure [key]

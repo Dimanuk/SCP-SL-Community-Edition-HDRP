@@ -1,0 +1,39 @@
+Appuyez sur [key_attack] ou [key_jump] pour Bondir.
+Aperçu de la voix (vous seul pouvez l'entendre)
+APERÇU LOCAL
+Supprimer la voix (maintenir)
+Jouer la voix (tout le monde peut l'entendre)
+SCP-939 vous a tué et a volé votre voix !
+Si vous ne souhaitez pas que votre voix soit utilisée, vous pouvez désactiver cette fonction.
+Se souvenir de mon choix
+Effacer
+OK
+Plus d'information
+SCP-939 utilise un mécanisme où les dernières secondes de votre transmission de chat vocal sont temporairement enregistrées. Elle peut être jouée par SCP-939 pour attirer des cibles.\nLes enregistrements sont automatiquement supprimés si vous quittez le serveur, si SCP-939 meurt ou lors du redémarrage de la partie. La désactivation de cette fonction supprimera tous les enregistrements existants de vos transmissions.
+Le nuage ne peut pas être déployé à cet emplacement.
+La taille minimale du nuage n'a pas été atteinte. Maintenez la touche de déploiement plus longtemps.
+SCP-939 est aveugle et se repère grâce au son. Il compte sur les erreurs de ses proies, marchant à pas feutrés et utilisant sa vitesse effrayante pour mettre en place des embuscades ou les traquer jusqu'à la mort.
+Griffe:Agitez vos griffes sur une large zone devant vous, déchirant la chair et les os de la victime que vous avez choisie. En vous concentrant, votre attaque principale vous permettra de bondir sur votre proie.
+Concentration:En consacrant toute votre énergie à vos sens, vous pouvez voir les proies de plus loin, ainsi que pouvoir dire de quel type de proies il s'agit, à travers les actions qu'elles effectuent.
+Nuage Amnésique:Remplissez vos alvéoles d'un gaz neurochimique dangereux, en le projetant dans un rayon déterminé par le temps passé à le déployer. Les humains qui inhalent le gaz perdent la perception de SCP-939 et ne peuvent pas effectuer certaines actions. Attention cependant, attaquer ou être attaqué vous révélera pendant un court instant.
+Prédateur aux Mille-Voix:Les humains que vous tuez ont une chance de vous donner leurs derniers mots, vous permettant de voler leur voix et de l'utiliser pour tromper les autres. De plus, SCP-939 peut également imiter certains sons de base, comme déguiser leurs pas pour les faire correspondre aux humains.
+Ultrasensible:SCP-939 est capable de détecter des sources de chaleur à proximité, représentées par un petit rayon de vision normal. En dehors de cela, vous devez vous fier au son pour suivre les proies aux alentours. Plus le son est fort, plus vous pouvez l'entendre de loin. La portée de votre vision est affectée par votre niveau d'endurance.
+Retour
+Placer un point d'imitation
+Modifie la provenance de vos imitations
+Supprimer le point d'imitation
+Fait en sorte que tous les sons proviennent de votre position actuelle
+Point d'imitation défini !
+Point d'imitation supprimé !
+Point d'imitation détruit. Vous êtes hors de portée.
+Voix volées
+Rejouer les voix de vos victimes
+Imitation environnementale
+Imite divers sons pour attirer des cibles
+(Cooldown: [time]s)
+Bruits de pas
+Usurpation
+Tirs d'armes
+Autre
+Menu précédent
+Menu suivant

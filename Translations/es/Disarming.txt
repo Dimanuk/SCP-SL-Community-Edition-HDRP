@@ -1,0 +1,3 @@
+Has sido arrestado por [player].
+un/a administrador/a
+Sigue las ordenes o pide ayuda a tus aliados.

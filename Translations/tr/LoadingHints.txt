@@ -1,0 +1,63 @@
+Elinizde bir silah varken, tutuklanmış bir oyuncuyla etkileşime girerek onu serbest bırakabilirsiniz.
+Tesiste dört ana bölge vardır: Light Containment, Heavy Containment, Entrance, ve Yüzey.
+Bilim adamları ve D-Sınıfları, kaçmak için yüzeye ulaşmalıdır.
+Entrance Zone, yüzeye erişim sağlayan iki geçide sahiptir. Bunları açmak için bir karta ihtiyacınız olacak.
+Asansör kullanmak, çoğu SCP'den kaçmanın hızlı ve kolay bir yoludur.
+Kaçan D-Sınıfları Kaos İsyanına katılırken, kaçan Bilim adamları MGG olur.
+Adrenalin, enerjinizi anında yenilemek için kullanılabilir ve size savaşta avantaj sağlar.
+Radyoların dört menzil ayarı vardır. Menzil ne kadar uzak olursa, pil o kadar hızlı tüketilir.
+Mobil Görev Gücü birimleri ve Kaos İsyancıları, Yüzey Bölgesinin zıt uçlarında doğarlar.
+Alfa Savaş Başlığı patladığında Tesis içindeki her şeyi öldürür. Yüzey Bölgesinden etkinleştirilebilir.
+Alfa Savaş Başlığı patlama geri sayımı, Heavy Containment'taki silo odasından iptal edilebilir.
+Entrance Zone'daki İnterkom odası, tüm oyunculara sesli mesaj yayınlamak için kullanılır.
+Öğeleri (varsayılan olarak "T") fırlatabilirsiniz. Bu, kartlı kapıları uzaktan açmak veya cam kırmak için kullanılabilir.
+Light Containment Zone 15 dakika sonra kilitlenecektir; içeride kalan herkes öldürülecektir. Kaç kaçabilirsen!
+Silah eklentilerinizi içinde bulunduğunuz duruma göre ayarlayarak avantajınızı en üst düzeye çıkarın.
+Bir silahın üzerinde ne kadar fazla eklenti varsa, o kadar ağırlaşır. Bu, enerji kullanımını ve hareket hızını etkiler.
+Susturucular sadece silah seslerini bastırmakla kalmaz, aynı zamanda namlu ateşlerini de gizler.
+Daha uzun ve daha ağır silahlar, koşarken ateşlenirse daha az isabetli olur.
+Zırh giymek, taşıyabileceğiniz eşya ve cephane sayısını artırır.
+Zırh Delici mermiler (ZD), zırhlı hedeflere karşı en iyi performansı gösterir.
+Ucu Delikli mermiler (UD), zırhsız hedeflere daha yüksek hasar verir ancak zırha karşı daha zayıftır.
+Şarjör değiştirme tuşuna basılı tuttuğunuzda silah şarjörünü çıkartır ve mühimmatını envanterinize ekler.
+Kaos İsyanı silahları güçlüdür ancak mühimmatları Tesis'te bulunmaz. Boşa harcama.
+El bombaları, kapıları yok etmek için kullanılabilir.
+El bombaları, farenin sağ tuşu kullanılarak daha az kuvvetle fırlatılabilir.
+Mikro Y.Y.D. çoğu SCP'yi çok hızlı bir şekilde öldürebilir ancak sınırlı bir güç kaynağına sahiptir. Akıllıca kullan!
+Mikro Y.Y.D. ateş edebilmesi için yaklaşık 5 saniye şarj edilmesi gerekir.
+Farenin sağ tuşuna basılı tutmak, Mikro Y.Y.D.'yi ateşlenmeye hazır durumda tutar; enerjisi yavaş yavaş tükenir.
+Mikro Y.Y.D. şarj olurken çok gürültülü çıkarır. Hedeflerinizin kaçamayacağı durumlarda kullandığınızdan emin olun.
+Mikro Y.Y.D.'yi şarj etmek düşmanlarınızın planlarını mahvetmeye yetecek kadar korkutucu bir ses çıkarır.
+Bir şişe SCP-207 sadece hareket hızınızı artırmakla kalmaz, aynı zamanda sağlığınızı da kısmen iyileştirir.
+Dört adede kadar SCP-207 şişesi içilebilir, bu da hız çarpanınızı önemli derecede artırır.
+SCP-500 sadece sizi iyileştirmekle kalmaz, çoğu olumsuz etkiyi ortadan kaldırır ve sonrasında yenilenme sağlar.
+SCP-268 sizi tüm insanlar için görünmez kılarken, SCP-079 ve SCP-939'lar sizi yine de fark edebilir.
+Eğer SCP-096'ya baktıysanız, SCP-268 sizi kurtaramaz.
+SCP-018'in nereye gideceği neredeyse hiç belli olmaz. Atıldığında, siper alın.
+SCP-018, koridorda peşinizden gelenleri engellemek için fırlatılabilir.
+SCP-914, silahlar ve mühimmat dahil tüm öğeleri değiştirebilir.
+SCP-914, telsizleri ve Micro Y.Y.D.'yi şarj edebilir.
+SCP-079 nispeten zayıf başlar ancak oyun uzadıkça daha da güçlenir.
+SCP-079 kapıları kilitleyebilir, ışıkları kapatabilir ve tesla geçitlerini aşırı şarj edebilir.
+SCP-079 tarafından bakılan bir tesla geçidi her zaman aktif görünecektir.
+SCP-079, kapısı kırık bir odadaki ışıkları kapatamaz.
+SCP-079, Heavy Containment'te bulunan jeneratörleri aktifleştirerek ve son olarak kendi muhafaza odasındaki bir düğmeye basarak yeniden muhafaza edilir.
+SCP-079 tarafından kullanılan bir kamera mavi renkte yanacaktır. Ne zaman izlediğini asla bilemezsin.
+SCP-173, kendisine bakılsa bile karanlık odalarda serbestçe hareket edebilir. Bir el feneri getirin!
+SCP-173 arkadan gizlice öldürebilir.
+SCP-173, içinden geçen insanları yavaşlatan bir sıvı birikintisi oluşturabilir ve bu da hızlı ve verimli bir alan kontrolü sağlar.
+SCP-106 mermilere karşı dayanıklıdır ancak patlayıcılara ve elektriğe karşı değildir.
+SCP-106, muhafaza odasında bulunan femur kırıcı kullanılarak hızla yeniden muhafaza edilebilir.
+SCP-106 kapılardan ve cam pencerelerden geçebilir.
+SCP-096'nın en zayıf olduğu an, sakinleşmeye başladığı vakittir.
+SCP-096 öfkeliyken ileri hücum edebilir – kapıları kırabilir ve hedeflerini öldürebilir.
+SCP-096, öfkelendiğinde kapıları yok edecek ve kapalı geçit kapılarını aralayarak açacaktır.
+SCP-939'un ısırığı zırhtan etkilenmez.
+SCP-939, ısırdığı insanlarda amnezi yaratır; görüşlerini karartır.
+SCP-939 sınırsız koşabilir ve yürürken tamamen sessizdir.
+SCP-939 yürürken sessizdir, bu da onu mükemmel bir pusucu avcı yapar.
+SCP'lerin ayak sesleri insanlardan farklıdır. Dikkatle dinle!
+SCP-049, yaklaştığı herhangi bir insanı anında öldürebilir.
+SCP-049, cesetleri sadece yeniyse canlandırabilir.
+SCP-049-2 kafadan vuruşlara karşı savunmasızdır.
+SCP-049-2'ler iyi gözcülerdir ve sayıları arttıkça tehlikelilerdir.

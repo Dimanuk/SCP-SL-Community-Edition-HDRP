@@ -1,0 +1,18 @@
+{
+  "Name": "Dansk - Danish",
+  "Authors": [
+    "Bemsen"
+  ],
+  "InterfaceLocales": [
+    "da-DK",
+    "da"
+  ],
+  "SystemLocales": [
+    "da-DK",
+    "da-GL",
+    "da"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}

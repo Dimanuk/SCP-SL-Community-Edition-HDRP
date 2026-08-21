@@ -1,0 +1,5 @@
+SCP-173 przykuwa uwagę swym przerażającym wyglądem. Gdy nie jest obserwowany, staje się śmiercionośny, domagając zawsze wpatrujących się świadków.
+Karkołomna prędkość:Twoja prędkość jest znacznie zwiększona, ale nie jesteś w stanie nikogo zaatakować. Możesz wyłączyć tą umiejętność w każdej chwili. Jest ona także automatycznie wyłączana, gdy zostaniesz zauważony. Szarżuj lub uciekaj w mgnieniu oka.
+Mrugnięcie:Gdy oko zaświeci się na czerwono, przytrzymaj i przenieś wskaźnik do określonego miejsca. Puść, aby się tam teleportować i zabić będącą tam ofiarę. Niech zapłacą za chwilę nieuwagi.
+Zbrojony beton:Twoje betonowe ciało stawia czoła wandalizmowi. Bronie niskiej penetracji zadają tobie o wiele mniej obrażeń. Mogą podziwiać, lecz nie dotykać.
+Furia:Poza obserwacją możesz stworzyć kałużę spowalniającą ludzi. Brak wielbicieli doprowadza cię do furii, zaś to powinno przykuć ich uwagę.

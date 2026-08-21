@@ -1,0 +1,6 @@
+<color=red>Приступ одбијен</color>
+Достигао границу <color=yellow>[type] муниције</color> (<color=yellow>[max_type_count] рунди</color>).
+<b>Већ</b> достигао границу <color=yellow>[type] муниције</color> (<color=yellow>[max_type_count] рунди</color>).
+Достигао границу <color=yellow>[type]</color> (<color=yellow>[max_type_count] ствари</color>).
+<b>Већ</b> достигао границу <color=yellow>[type]</color> (<color=yellow>[max_type_count] ствари</color>).
+Само <color=yellow>[max_item_count] ствари</color> се може имати.

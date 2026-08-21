@@ -1,0 +1,23 @@
+SILENCIADO POR UN ADMINISTRADOR
+SILENCIADO GLOBALMENTE
+NO AUTENTICADO
+AJUSTES DE PRIVACIDAD
+Tu micrófono está desactivado debido a tus ajustes de privacidad.
+Ajustes de privacidad del chat de voz
+Este juego usa chat de voz. Manteniendo pulsada las teclas "Q" y "V" (por defecto) capturará la entrada de su micrófono y la transmitirá a los demás usuarios conectados en el servidor. \nCiertas funciones del juego pueden almacenar temporalmente breves muestras de tus transmisiones, que cabe aclarar que se borrarán automáticamente al desconectarte del servidor o  cuando se reinicia una ronda.
+Rechazar todo (desactiva la captura de micrófono)
+Personalizar la configuración
+Aceptar todo
+Aceptar
+Rechazar
+Captura de micrófono
+Permite que el juego capture su micrófono y lo transmita a los usuarios cuando se mantengan pulsadas las teclas para hablar. Se mostrará un icono de micrófono en la parte inferior de la pantalla, indicando que la transmisión está activa. El juego nunca transmitirá ni utilizará tu micrófono sin que el indicador sea visible.
+Grabaciones cortas
+Permite que la mecánica del juego utilice grabaciones cortas de tu voz. Esto incluye la habilidad "Con muchas voces" de SCP-939, que puede grabar y reproducir muestras cortas de voz de jugadores muertos. Todas las grabaciones se descartan en el momento en que abandonas el servidor, o cuando se reinicia la ronda.
+Aplicar configuración
+Regresar
+Presiona "[key]" y navega hasta "Ajustes" para configurar.
+Silenciar a jugadores con vida
+Silenciar a los demás espectadores
+Silenciar Lobby
+Silenciar Chat Global en el Resumen de la ronda

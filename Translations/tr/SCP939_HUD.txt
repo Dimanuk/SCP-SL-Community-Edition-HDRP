@@ -1,0 +1,39 @@
+Atılmak için [key_attack] veya [key_jump] tuşuna basınız.
+Sesi dinle (bunu sadece sen duyacaksın)
+KISMİ BAKIŞ
+Sesi sil (basılı tut)
+Sesi oynat (bunu herkes duyabilir)
+SCP-939 seni öldürdü ve sesini çaldı!
+Eğer sesinizin kullanılmasını istemiyorsanız, bu özelliği kapatabilirsiniz.
+Tercihimi hatırla
+Sil
+Tamam
+Daha fazla bilgi
+SCP-939, konuşmanızın son bir kaç saniyesini geçici olarak kaydeden bir mekaniğe sahiptir. Bu, diğer hedefleri yemlemek için SCP-939 tarafından oynatılabilir.\nSunucudan ayrıldığınızda, SCP-939 ölürse, veyahut raunt yeniden başlarsa kayıtlar otomatik olarak kaldırılır. Bu özelliği kapatmak bütün iletişim kaydınızı kaldırır.
+Bulut buraya yerleştirilemez.
+Minimum Bulut boyutu erişilemedi. Yerleştirme tuşuna daha uzun süre basılı tutunuz.
+SCP-939 kördür, sesler aracılığıyla görür. Sessiz adımlarını ve ürkütücü hızını pusu kurmak ve öldürmek için kullanarak hatalardan yararlanır.
+Pençe:Pençenizi önünüzde geniş bir alana savurup kurbanınızın etini ve kemiğini parçalamak için tıklayın. Odaklanırken, birincil saldırınız avınıza atılmanızı sağlar.
+Odaklan:Tüm enerjinizi duyularınıza vererek, avı daha uzaktan görebileceğiniz gibi, yaptıkları hareketlerle avın ne tür bir av olduğunu da anlayabilirsiniz.
+Amnestik Bulut:Hava keselerinizi, doldurulduğu zamana göre belirlenen bir yarıçapa yansıtarak tehlikeli bir nörokimyasal gazla doldurun. Gazı soluyan insanlar SCP-939 algısını kaybeder ve belirli eylemleri gerçekleştiremez. Ancak dikkatli olun, saldırmak veya saldırıya uğramak sizi kısa süreliğine açığa çıkarır.
+Binbir Sesli:Öldürdüğünüz insanların size son sözlerini söyleme şansı vardır, bu da onların sesini çalmanıza ve başkalarını kandırmak için kullanmanıza izin verir. Ek olarak, SCP-939 ayrıca bazı temel sesleri taklit edebilir, örneğin ayak seslerini insanlara uyacak şekilde gizleyebilir.
+Duyarlı:SCP-939, küçük bir normal görüş yarıçapı ile temsil edilerek yakındaki ısı kaynaklarını algılayabilir. Ancak bunun dışında, yakındaki avı takip etmek için sese güvenmelisiniz. Ses ne kadar yüksek olursa, o kadar uzaktan duyabilirsiniz. Görüş alanınız, dayanıklılık seviyelerinizden etkilenir.
+Geri
+Taklit Noktası Yerleştir
+Taklidin ses kaynağının konumunu geçersiz kıl
+Taklit Noktasını Kaldır
+Tüm seslerin mevcut konumunuzdan gelmesini sağla
+Taklit Noktası belirlendi!
+Taklit Noktası kaldırıldı!
+Taklit Noktası yıkıldı. Menzil dışındasın.
+Çalınmış Sesler
+Kurbanlarınızın seslerini çalın
+Çevresel Taklitçilik
+Hedefleri yemlemek için çeşitli sesleri taklit edin
+(Bekleme süresi: [time] saniye)
+Ayak sesi
+Kişilik
+Ateş etme
+Diğer
+Önceki Menü
+Sonraki Menü

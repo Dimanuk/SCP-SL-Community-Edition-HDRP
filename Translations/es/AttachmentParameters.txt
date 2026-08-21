@@ -1,0 +1,21 @@
+Aumento con la mira
+---
+Daño
+Penetración
+Cadencia
+Retroceso
+Retroceso al apuntar
+Precisión de las balas
+Precisión desde la cadera
+Precisión con la mira
+Tiempo de desenfundado
+Sonido del disparo
+Capacidad de cargador
+Tiempo de desenfundado
+Tiempo de recarga
+---
+Velocidad de apuntado
+Dispersión de los perdigones
+Consistencia del patrón
+Número de proyectiles
+Velocidad de recarga

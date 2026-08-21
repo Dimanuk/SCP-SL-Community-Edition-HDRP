@@ -1,0 +1,63 @@
+Você pode desarmar um jogador ao interagir com ele enquanto segura uma arma de fogo.
+Há 4 zonas principais dentro da Instalação: Contenção Leve, Contenção Pesada, Entrada e Superfície.
+Os Cientistas e Classe-Ds devem chegar à Superfície para escapar.
+A Entrada possui 2 portões que provêm acesso à superfície. Você precisará de um cartão-chave para abrí-los.
+Usar um elevador é uma maneira veloz e simples de fugir da maioria dos SCPs.
+Class-Ds que escaparam se juntam a Insurgência do Caos, enquantos Cientistas que escaparam viram MTF.
+A adrenalina pode ser usada para recuperar instantaneamente sua estamina e lhe dá vantagem em combate.
+Os rádios têm quatro configurações de alcance. Quanto maior o alcance, mais rápido a bateria se esgota.
+Unidades Mobile Task Force e Insurgentes do Caos chegam pelos lados opostos da Zona de Superfície.
+A Ogiva Alfa elimina qualquer coisa dentro da Instalação quando detona. Ela pode ser ativada à partir da Zona de Superfície.
+A sequência de detonação da Ogiva Alfa pode ser cancelada de sua sala na Contenção Pesada.
+A sala de intercomunicação na Zona de Entrada pode ser usada para transmitir uma mensagem de voz para todos os jogadores.
+Você pode lançar itens ("T" por padrão). Isso pode ser usado para abrir portas de cartão-chave à distância ou para quebrar vidros.
+A Zona de Contenção Leve será bloqueada após 15 minutos; matando qualquer um deixado dentro. Escape enquanto pode!
+Maximize sua vantagem ajustando seus acessórios de armas com base na situação em que você se encontra.
+Quanto mais acessórios uma arma tiver, mais pesada ela ficará. Isso afeta o uso de estamina e velocidade de movimento.
+Os supressores não apenas abafam os tiros, mas também ocultam os flashes do cano.
+Armas mais longas e pesadas são menos precisas se disparadas durante a corrida.
+Usar armadura corporal aumenta o número de itens e munição que você pode carregar.
+Projéteis perfurantes (AP) têm melhor desempenho contra alvos blindados.
+Projéteis de ponta oca (JHP) causam maior dano a alvos não blindados, mas são mais fracos contra blindados.
+Pressione e segure a tecla recarregar para descarregar uma arma, adicionando sua munição ao seu inventário.
+As armas da Insurgência do Caos são poderosas, mas suas munições não aparecem na Instalação. Faça valer a pena.
+Granadas podem ser usadas para destruir portas.
+Granadas podem ser lançadas com menos força usando o botão direito do mouse.
+A Micro H.I.D. pode matar a maioria dos SCPs muito rapidamente, mas tem uma fonte de alimentação limitada. Use-a com sabedoria!
+A Micro H.I.D. requer cerca de 5 segundos de carregamento antes de poder disparar.
+Segurar o botão direito do mouse manterá a Micro H.I.D. em seu estado pronto para disparar; lentamente drenando a energia.
+A Micro H.I.D. faz muito barulho durante o carregamento. Certifique-se de usá-lo enquanto seus alvos não podem fugir.
+Carregando o Micro H.I.D. produz um som intimidador que é suficiente para arruinar os planos de seus inimigos.
+Uma garrafa de SCP-207 não apenas aumenta sua velocidade de movimento, mas também restaura parcialmente sua saúde.
+Até quatro garrafas de SCP-207 podem ser consumidas, permitindo um multiplicador significativo de sua velocidade.
+SCP-500 não apenas cura você, mas remove a maioria dos efeitos negativos e fornece regeneração posteriormente.
+Ao vestir o SCP-268 você se torna invisível para todos os humanos, porém SCP-079 e SCP-939s ainda podem notá-lo.
+SCP-268 não irá salvá-lo de SCP-096 se você olhar para ele.
+SCP-018 é altamente imprevisível. Quando for lançado, proteja-se.
+SCP-018 pode ser usado para bloquear perseguidores ao saltar em um corredor.
+SCP-914 pode alterar todos os itens, incluindo armas e munições.
+SCP-914 pode recarregar rádios e o Micro H.I.D.
+SCP-079 começa relativamente fraco, mas fica mais poderoso à medida que a partida continua.
+SCP-079 pode trancar portas, desligar luzes e sobrecarregar portões tesla.
+Um portão tesla sendo observado por SCP-079 sempre aparecerá ativo.
+SCP-079 não pode desligar as luzes em uma sala com a porta quebrada.
+SCP-079 é retido usando geradores encontrados em Contenção Pesada e um botão final em sua câmara de contenção.
+Uma câmera sendo usada por SCP-079 brilhará em azul. Você nunca sabe quando está te observando.
+SCP-173 pode se mover em salas escuras, mesmo que esteja sendo observado. Traga uma lanterna!
+SCP-173 pode matar furtivamente por trás.
+SCP-173 pode criar uma poça que retarda os humanos que passam por ela - criando uma negação de área rápida e eficiente.
+SCP-106 é resistente a balas, mas não a explosivos e eletricidade.
+SCP-106 pode ser rapidamente contido usando o disjuntor de fêmur encontrado em sua câmara de contenção.
+SCP-106 pode atravessar portas e janelas de vidro.
+SCP-096 está mais fraco quando começa a se acalmar.
+SCP-096 pode avançar enquanto enfurecido – quebrando portas e matando alvos.
+SCP-096 destruirá portas e abrirá portões fechados quando enfurecido.
+A mordida de SCP-939 não é afetada pela armadura corporal.
+SCP-939 inflige amnésia aos humanos que morde; escurecendo sua visão.
+SCP-939 pode correr indefinidamente e é completamente silencioso ao caminhar.
+SCP-939 é silencioso ao caminhar, tornando-se um predador de emboscada perfeito.
+Os passos dos SCPs são distintos dos humanos. Ouça com atenção!
+SCP-049 pode matar qualquer humano instantaneamente, se chegar perto.
+SCP-049 só pode reanimar cadáveres se forem recentes.
+SCP-049-2 é vulnerável a tiros na cabeça.
+SCP-049-2s são bons sentinelas e são perigosos em grande número.

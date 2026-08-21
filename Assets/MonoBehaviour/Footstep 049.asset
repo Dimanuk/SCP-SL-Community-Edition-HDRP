@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79fd6bf29df887c96a5293797ca8d47e, type: 3}
+  m_Name: Footstep 049
+  m_EditorClassIdentifier:
+  _sounds:
+  - Range: 35
+    Duration: 0.5
+    Repeat: {x: 3, y: 7}
+    Clips:
+    - {fileID: 8300000, guid: a8fb55bde5fb30447a4c736e38869809, type: 3}
+    - {fileID: 8300000, guid: 11cec4c594b563642b23924b63e27794, type: 3}
+    - {fileID: 8300000, guid: 4faee5d940dc5d4449fcc0ddf4818927, type: 3}
+    - {fileID: 8300000, guid: 9e43316011b77244bb17e547f823d99d, type: 3}
+    Channel: 0

@@ -1,0 +1,17 @@
+Runda je završena!
+<size=90>SCP-EVI SU POBJEDILI</size>
+<size=90>FONDACIJA JE POBJEDILA</size>
+<size=90>POBUNA JE POBJEDILA</size>
+NERJEŠENO
+Pobjegli SCP subjekti su zauzeli objekat. Odgovor na hitan slučaj je bio rješen.
+Sva opastnost je rješena. Postrojenje-02 je opet osiguran.
+Prisutnost osoblja fondacije je ukloljena. Operativci čekaju sljedeće instrukcije.
+Postrojenje-02 je pod kontrolom, ali ne bez cjene. Pobjednik nije određen.
+[summary_d_escaped] Klase-D pobjeglo
+[summary_s_escaped] Naučnik(ka) preživjelo
+Alpha Warhead's detonacija ubila [summary_warhead_kills] bića.
+Alpha Warhead nije pukla tokom ove misije.
+Misija je trajala [summary_round_minutes] minuta i [summary_round_seconds] sekundi.
+[summary_scp_terminated] uklonjeno SCP
+Sljedeći meč za [summary_next_round_countdown] sekundi.
+SCP-ovi su ubili [summary_scpfrags] ljudskih bića.

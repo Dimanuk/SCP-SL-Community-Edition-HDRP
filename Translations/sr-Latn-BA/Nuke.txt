@@ -1,0 +1,4 @@
+<color=red><size=180>ISKLJUČENO</size></color>
+<color=red><size=180>MOLIM SAČEKAJTE/size></color>
+<color=lime><size=180>SPREMNO</size></color>
+DETONACIJA NEIZBJEŽNA

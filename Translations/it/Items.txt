@@ -1,0 +1,43 @@
+0~Tessera Magnetica del Bidello
+1~Tessera Magnetica dello Scienziato
+2~Tessera Magnetica del Ricercatore
+3~Tessera Magnetica del Responsabile di Zona
+4~Tessera Magnetica della Guardia della Struttura
+5~Tessera Magnetica del Soldato Nine-Tailed Fox
+6~Tessera Magnetica dell'Ingegnere di Contenimento
+7~Tessera Magnetica del Sergente Nine-Tailed Fox
+8~Tessera Magnetica del Capitano Nine-Tailed Fox
+9~Tessera Magnetica del Responsabile della Struttura
+10~Dispositivo di accesso della Chaos Insurgency
+11~Tessera Magnetica Livello-O5
+12~Radio
+13~COM-15
+14~Kit di Pronto Soccorso~Guarisce le tue ferite.
+15~Torcia~Sia fatta la luce!
+16~Micro H.I.D.~Scaricatore di elettricità portatile, ad alta intensità.
+17~SCP-500~La panacea.
+18~SCP-207~Aumenta le tue capacità motorie.
+20~MTF-E11-SR
+21~Crossvec
+23~FSP-9
+24~Logicer
+25~Granata a Frammentazione~Boom!
+26~Granata Accecante~Acceca i tuoi nemici.
+30~COM-18
+31~SCP-018~Super-Palla in grado di ribalzare con un'efficienza estrema.
+32~SCP-268~Rende temporaneamente invisibile se indossato, a meno che non lo s'interrompa con una qualsiasi interazione.
+33~Adrenalina~Aumenta temporaneamente la resistenza.
+34~Antidolorifici~Allevia le piccole ferite.
+35~Moneta~Non sei sicuro del motivo per il quale la vorresti tenere...
+36~Corazza Leggera
+37~Corazza da Combattimento
+38~Corazza Pesante
+39~.44 Revolver
+40~AK
+41~Fucile a Pompa
+42~Sacchetta di caramelle~Una sacchetta di dolciumi che contene le seguenti caramelle:
+43~SCP-2176~La tua Ghostlight personale! Attenzione, molto fragile...
+44~SCP-244-A~Un vaso antico, gelido al tatto. Crea una grande nuvola di nebbia ghiacciata quando viene posizionata.
+45~SCP-244-B~Un vaso antico, gelido al tatto. Crea una grande nuvola di nebbia ghiacciata quando viene posizionata.
+46~SCP-1853~Migliora le abilità di manipolazione delle armi a costo di un maggiore utilizzo della stamina.
+47~3-X Distruttore di particelle

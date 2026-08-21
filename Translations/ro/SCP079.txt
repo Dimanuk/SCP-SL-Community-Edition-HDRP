@@ -1,0 +1,17 @@
+PUTERE AUXILIARĂ
+EXPERIENȚĂ
+CAMERA FEED ONLINE
+APASĂ [KEY] PENTRU MAPA DE SUPRAVEGHERE
+Experiență primită:
+Lucru cooperativ
+Asistare terminare Clas-D
+Asistare terminare IH
+Asistare terminare MTF
+Asistare terminare Om de Știință
+Asistare terminare SCP
+UȘĂ BLOCATĂ [LOCKED_NUM]<size=25>CLICK DREAPTA PENTRU A DEBLOCA TOT</size>
+Interacții generale
+Cineva te atacă!
+Generatoarele au fost evidențiate pe mapă
+PERICOL
+SCP{0}MTF & Pază{1}Oameni de Știință{2}Clas-D{3}Insurgența Haosului{4}

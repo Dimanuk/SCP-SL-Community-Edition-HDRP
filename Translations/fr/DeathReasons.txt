@@ -1,0 +1,33 @@
+C'est le corps de <b>[user]</b> - C'était un [class] !\n\nCause de la mort: [cause]
+Reconfiné.
+Vaporisé par l'Ogive Alpha.
+Brusque arrêt des fonctions vitales. Aucun signe de traumatisme.
+Cause de la mort inconnue.
+Électrocuté.
+Mort par asphyxie provoqué par un manque d'oxygène.
+Grave perte de sang causée par des blessures profondes.
+Vous vous êtes vidé de votre sang.
+Des déchirures aux jambes laissent penser qu'une chute a été fatale.
+Vous avez fait une chute mortelle.
+Décomposé dans la dimension de poche.
+Rongé par une substance fortement corrosive.
+Une peau jaune pâle et une odeur rance suggèrent une mort par empoisonnement.
+Le poison a eu raison de vous.
+La peau pâle et le sang coulant de la bouche suggèrent qu'une hémorragie interne a été causée par l'inhalation d'une substance.
+SCP-207 a eu raison de vous.
+Vous n'auriez pas dû en prendre plus de deux !
+Vous êtes mort d'une Tesla.
+Corps criblé de shrapnel et fortement brûlé par une explosion.
+Vous avez été tué par une explosion.
+Corps lacéré et mis en pièces.
+Nuque brisée à la base du crâne.
+Des marques de morsure profondes peuvent être observées sur le corps.
+Un impact et des écorchures sont présents sur le corps.
+Blessures par balle de calibre [ammotype].
+Traumatisme contondant mortel. Le corps est gravement mutilé.
+Des signes de traumatisme grave aux deux fémurs suggèrent une mort par choc circulatoire.
+Vous avez été sacrifié pour reconfiner SCP-106.
+Tué automatiquement pour cause de tir allié.
+La peau froide et les doigts gelés suggèrent une mort par hypothermie.
+Vous êtes mort de froid.
+De profondes lacérations et des écorchures sont présentes sur le corps.

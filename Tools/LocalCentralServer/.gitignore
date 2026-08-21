@@ -1,0 +1,4 @@
+bin/
+obj/
+keys/
+server_out.log

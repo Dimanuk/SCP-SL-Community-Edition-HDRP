@@ -1,0 +1,42 @@
+0~Gondnok Kulcskártya
+1~Tudós Kulcskártya
+2~Kutatási Felügyelő Kulcskártya
+3~Zónakezelő Kulcskártya
+4~Őr Kulcskártya
+5~MTF Közlegény Kulcskártya
+6~"Containment" Mérnök Kulcskártya
+7~MTF Őrmester Kulcskártya
+8~MTF Kapitány Kulcskártya
+9~Létesítménykezelő Kulcskártya
+10~Chaos Insurgency Hozzáférési Eszköz
+11~O5-szintű Kulcskártya
+12~Rádió
+13~COM-15
+14~Elsősegély-csomag~Gyógyítja a sérüléseket.
+15~Zseblámpa~S lőn világosság!
+16~Micro H.I.D.~Mobilis, nagy intenzitású elektromos kisülés szóró.
+17~SCP-500~A csodaszer.
+18~SCP-207~Ártalmasan fejleszti a motoros készségeket.
+20~MTF-E11-SR
+21~Crossvec
+23~FSP-9
+24~Logicer
+25~Repeszgránát~Bumm!
+26~Villanógránát~Megvakítja az ellenfeleket.
+30~COM-18
+31~SCP-018~Egy szuperlabda, amely képes extrém hatékonysággal pattogni.
+32~SCP-268~Viselése ideiglenesen láthatatlanná tesz, amíg bármilyen emberi cselekedettel félbe nem szakítod.
+33~Adrenalin~Ideiglenesen növeli az állóképességet.
+34~Fájdalomcsillapító~Enyhíti a kisebb sérüléseket.
+35~Coin~Nem érted, hogy ezt mégis miért cipeled ezt magaddal...
+36~Könnyű Páncél
+37~Harci Páncél
+38~Nehéz Páncél
+39~.44 Revolver
+40~AK
+41~Sörétes
+42~Cukorkazsák~Egy zsák, amely a következő cukorkákat tartalmazza:
+43~SCP-2176~A saját Ghostlight-od! Vigyázat, nagyon törékeny...
+44~SCP-244-A~Egy ősrégi váza, fagyasztó tapintással. Nagy, fagyos ködöt készít lehelyezése után.
+45~SCP-244-B~Egy ősrégi váza, fagyasztó tapintással. Nagy, fagyos ködöt készít lehelyezése után.
+46~SCP-1853~Fejleszti a fegyverkezelési készségeket magasabb állóképesség-használat árán.

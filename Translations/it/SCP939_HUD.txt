@@ -1,0 +1,20 @@
+Premi [key_attack] oppure [key_jump] per sobbalzare.
+Anteprima della voce (solo tu puoi sentirlo)
+ANTEPRIMA LOCALE
+Elimina la voce (tenere premuto)
+Interpreta la voce (tutti possono sentirlo)
+SCP-939 ti ha ucciso e ti ha sottratto la voce!
+Se non desideri che la tua voce venga utilizzata, puoi disattivare questa funzione.
+Ricorda la mia scelta
+Elimina
+OK
+INFORMAZIONI AGGIUNTIVE
+SCP-939 usa un meccanico dove gli ultimi secondi della tua trasmissione in chat vocale vengono temporaneamente registrati. Questo può essere riprodotto da SCP-939 per attirare i bersagli.\nLe registrazioni vengono automaticamente scartate se si lascia il server, se SCP-939 muore o al riavvio del round. Disattivando questa funzione verranno rimosse tutte le registrazioni esistenti delle trasmissioni.
+Il cloud non può essere distribuito in questa posizione.
+Dimensione minima del cloud non raggiunta. Tenere premuto il tasto di distribuzione più a lungo.
+SCP-939 è cieco e vede attraverso il suono. Sfrutta gli errori altrui, usando i suoi silenziosi passi e la sua spaventosa velocità per organizzare imboscate e uccidere.
+Artiglio:Clicca per strisciare il tuo artiglio in un ampio arco di fronte a voi, strappando carne e ossa dalla vittima prescelta. Mentre ti concentri, il tuo attacco principale ti permetterà di affogare la tua preda.
+Focus:Dedicando tutta la tua energia ai tuoi sensi, puoi vedere le prede da più lontano, oltre ad essere in grado di dire che tipo di preda sono, attraverso le azioni che compiono.
+Amnestic Cloud:Riempi le tue sacche d'aria con un pericoloso gas neurochimico, proiettandolo in un raggio determinato dal momento in cui è stato caricato. Gli esseri umani che inalano il gas perdono la percezione di SCP-939 e non possono eseguire certe azioni. Attenzione però, attaccare o essere attaccati vi rivelerà per un breve periodo.
+Dalle Molte Voci:Gli umani che uccidi hanno la possibilità di darti le loro ultime parole, permettendoti di rubare la loro voce e usarla per ingannare gli altri. Inoltre, SCP-939 può anche imitare alcuni suoni di base, come ad esempio mascherare i loro passi per adattarsi agli umani.
+Ultrasensibile:SCP-939 è in grado di percepire fonti di calore vicine, rappresentate da un piccolo raggio di visione normale. Al di fuori di questo, tuttavia, devi fare affidamento sul suono per rintracciare la preda vicina. Più forte è il suono, più lontano puoi sentirlo. La gamma della vostra visione è influenzata dai vostri livelli di resistenza.

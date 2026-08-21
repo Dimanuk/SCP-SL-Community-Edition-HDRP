@@ -1,0 +1,63 @@
+Bạn có thể giải giáp người khác bằng cách tương tác với họ khi đang cầm súng.
+Có bốn khu vực chính trong Cơ sở: Khu Giam giữ hạng nhẹ, khu Giam giữ hạng nặng, lối vào, bề mặt.
+Nhà khoa học và tù nhân cần đến khu bề mặt để thoát hiểm.
+Khu lối vào có hai cổng để đi đến bề mặt. Bạn sẽ cần thẻ khóa để mở cổng.
+Dùng thang máy là một cách nhanh gọn để thoát khỏi SCP.
+Tù nhân tẩu thoát trở thành lính tổ chức ngầm. Nhà khoa học thoát hiểm trở thành lính MTF.
+Adrenaline được sử dụng để hồi thể lực tức thì và dành lợi thế khi chiến đấu.
+Bộ đàm có bốn mức liên lạc. Mức càng cao càng hao pin.
+Lính MTF và Tổ chức Ngầm sẽ xuất hiện ở hai đầu đối diện trên khu bề mặt.
+Đầu đạn hạt nhân hủy diệt mọi thứ trong Cơ sở khi được kích nổ. Kích hoạt đầu đạn ở khu bề mặt.
+Việc kích nổ đầu đạn hạt nhân có thể bị dừng lại từ phòng điều khiển trong khu Giam giữ hạng nặng.
+Phòng Intercom trong lối vào dùng để phát thanh cho toàn cơ sở nghe.
+Bạn có thể ném đồ (Mặc định là phím "T"). Dùng chức năng này để mở cửa thẻ khóa từ xa hoặc đập kính.
+Khu Giam giữ hạng nhẹ sẽ khóa lại sau 15 phút; giết hết mọi thứ mắc kẹt. Chạy nhanh còn kịp!
+Tối đa lợi thế bản thân bằng cách tùy chỉnh phụ kiện vũ khí dựa trên tình hình hiện tại.
+Súng có nhiều phụ kiện sẽ tăng khối lượng. Điều này ảnh hưởng đến thể lực và tốc độ chạy.
+Ống giảm thanh không chỉ giảm thanh, nó còn che được lửa đầu nòng.
+Vũ khí dài và nặng sẽ kém chính xác khi vừa chạy vừa bắn.
+Mặc giáp sẽ tăng lượng vật phẩm và đạn dược mang theo được.
+Đạn xuyên giáp (AP) hiệu quả nhất với đối phương mang giáp.
+Đạn đầu rỗng (JHP) gây sát thương cao với đối phương không giáp nhưng rất kém nếu họ mặc giáp.
+Nhấn và giữ phím nạp đạn để thu lại đạn, đưa lại số đạn đó vào túi đồ.
+Vũ khí của Tổ chức Ngầm rất uy lực nhưng trong Cơ sở không có loại đạn thích hợp.
+Có thể dùng lựu đạn để phá cửa.
+Ném lựu đạn nhẹ hơn bằng cách nhấn chuột phải.
+Micro H.I.D. có thể giết đa phần SCP nhưng có giới hạn về năng lượng. Nghĩ kĩ trước khi dùng!
+Micro H.I.D. cần 5 giây để sạc điện trước khi khai hỏa.
+Giữ chuột phải để Micro H.I.D. luôn ở trạng thái sẵn sàng khai hỏa; Giảm năng lượng từ từ.
+Micro H.I.D. phát ra âm thanh lớn khi sạc điện. Nhớ chỉ dùng khi đối phương không thể chạy nữa.
+Sác điện Micro H.I.D. tạo ra âm thanh lớn đến mức phá hủy luôn kế hoạch đối phương.
+Một chai SCP-207 giúp tăng tốc độ chạy và hồi một ít HP.
+Số lượng chai SCP-207 được uống tối đa là bốn, giúp bạn tăng tốc độ lên rất nhiều.
+SCP-500 không chỉ hồi HP mà còn loại bỏ mọi hiệu ứng, tiếp tục tạo ra kháng thể trong thời gian.
+SCP-268 giúp bạn tàng hình khỏi loài người nhưng SCP-939 và SCP-079 vẫn có thể thấy bạn.
+SCP-268 không thể cứu bạn khỏi SCP-096 nếu bạn nhìn vào nó.
+Không thể đoán được quỹ đạo bay của SCP-018. Khi nó được ném ra thì nên tìm chỗ nấp.
+SCP-018 dùng để chặn kẻ bám đuôi vì nó bay loạn xạ khắp lối đi.
+SCP-914 tinh chỉnh mọi vật phẩm, kể cả đạn và vũ khí.
+SCP-914 sạc lại bộ đàm và Micro H.I.D.
+SCP-079 ban đầu rất yếu nhưng sẽ mạnh lên sau một thời gian.
+SCP-079 có thể khóa cửa, tắt đèn và sốc dòng cổng điện.
+Cổng điện được SCP-079 nhìn sẽ luôn trong trạng thái kích hoạt.
+SCP-079 không thể tắt đèn nếu trong phòng có cửa bị hỏng.
+SCP-079 bị tái giam giữ bằng các máy phát điện trong khu Giam giữ hạng nặng cùng nút bấm trong phòng giam giữ nó.
+Camera được SCP-079 sử dụng để quan sát sẽ phát sáng màu xanh dương.
+SCP-173 di chuyển tự do trong phòng tối kể cả khi bị nhìn. Nhớ mang đèn pin!
+SCP-173 lén lút giết bạn từ phía sau.
+SCP-173 tạo ra vũng sình dưới chân, tác động rất hiệu quả lên người đi qua.
+SCP-106 kháng đạn nhưng không kháng chất nổ và điện.
+SCP-106 sẽ bị tái giam giữ bằng thiết bị phân rã trong phòng giam giữ nó.
+SCP-106 có thể đi xuyên cửa phòng và cửa kính.
+SCP-096 sẽ yếu nhất khi mới bắt đầu bình tĩnh lại.
+SCP-096 sẽ đâm đầu về phía trước khi tức giận, giết mọi thứ và phá hỏng mọi vật thể.
+SCP-096 sẽ phá cửa phòng và mở được các cổng lớn khi tức giận.
+Vết cắn của SCP-939 không bị ảnh hưởng bởi áo giáp.
+SCP-939 gây hiệu ứng Amnesia khi cắn người; làm tầm nhìn người đó bị tối đi.
+SCP-939 có thể chạy nhanh liên tục không mệt và không gây ra tiếng động khi đi bộ.
+SCP-939 hoàn toàn không gây ra tiếng động khi đi bộ, biến nó thành một kẻ săn mồi hoàn hảo.
+Tiếng bước chân của SCP khác với bước chân người. Dỏng tai lên mà nghe!
+SCP-049 giết người ngay lập tức khi nó đến gần.
+SCP-049 chỉ có thể dựng sống lại xác chết nếu nó còn tươi.
+SCP-049-2 lộ điểm yếu qua những phát bắn vào đầu.
+SCP-049-2 trinh sát rất tốt và rất nguy hiểm nếu đi theo số đông.

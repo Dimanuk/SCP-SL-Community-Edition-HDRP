@@ -1,0 +1,8 @@
+SCP-096 jest spokojny, lecz wpada w szał, gdy ktoś go ujrzy lub zrani. Szał wzmacnia go wieloma umiejętnościami, pomagając SCP-096 ścigać winnych w trakcie trwania.
+Spróbuj nie płakać:Jest ciężko... lecz oparcie się o coś może ci pomóc uspokoić się, schować się... lub zaczekać, aż ktoś się do ciebie zbliży.
+Atak:Przedrzyj się przez wszystko na swojej drodze, aby dostać się do osoby, która cię skrzywdziła. Twoje ataki niszczą drzwi oraz ranią ludzi.
+Szarża:Skróć ich ucieczkę, zasługują na to. Szarżujesz przed siebie, niszcząc wszystko w swoim zasięgu.
+Podczas szału
+Poza szałem
+Przytrzymaj [key], aby wejść w szał.
+Przytrzymaj [key], aby wyjść z szału.

@@ -1,0 +1,44 @@
+Tyhjä~Oletusasetus ilman vaikutuksia.
+Rautatähtäin~Pari kohdistuspisteitä jotka yhdessä luo yksinkertaisen ja kevyen tähtäimen.
+Punapistetähtäin~Ei kohdetta suurentava yksinkertainen tähtäin, jossa on pieni hehkuva piste tähtäimen keskellä joka osoittaa tähtäämisen suunnan.
+Holograafinen tähtäin~Ei kohdetta suurentava tähtäin holograafisella ristikolla. Tehokas lähietäisyydellä.
+Yönäkötähtäin~Kiikaritähtäin lisätyllä yönäkölaitteella. Painava, mutta tehokas kaikissa valaistuksissa.
+Ammuslaskijatähtäin~Rautatähtäin lisätyllä ammusten laskemisvälineellä.
+Kiikaritähtäin~Painava tähtäinväline, joka antaa optista suurentamista. Täydellinen pitkillä ampumamatkoilla, mutta rajoittaa yleistä havaitsemista.
+Perustukki~Tavallinen tukki, joka antaa parempaa hallitsevuutta aseesta kun ampuu tähtäimen kautta.
+Pidennetty tukki~Antaa parempaa hallitsevuutta aseesta kun ampuu tähtäimen kautta, mutta lisää aikaa ottaa ase käsiin.
+Sisäänvedetty tukki~Tekee aseesta pienikokoisemman, mikä lisää liikkuvuutta.
+Kevyt tukki~Vähentää aseen painoa mutta asetta on vaikeampaa hallita kun ampuu tähtäimen kautta.
+Raskas tukki~Lisätty paino vähentää liikkuvuutta mutta tekee aseesta vakaamman kun ampuu tähtäimen kautta.
+Rekyyliävähentävä tukki~Tukki jossa on rekyyliävähentävä järjestelmä, joka auttaa hajottamaan voimaa yksittäislaukausten välissä.
+Etukahva~Pystysuora etukahva. Helpottaa piipun nousun hallitsemista.
+Lasertähtäin~Antaa visuaalisen vertauspisteen kohteeseen, joka auttaa lonkalta ampumisessa mutta voi helposti paljastaa sijaintisi.
+Lamppu~Kytkettävä valonlähde. Lisää aseen painoa mutta voi pelastaa henkesi pimeissä huoneissa.
+Ammuslaskuri~Patruunoiden laskijaväline. Kokeellinen teknologia joka on osoittautunut hyödylliseksi, varsinkin ison-kapasiteetin lippaiden kanssa.
+Peruspiippu~Tavanomainen piippu ilman lisäyksiä.
+Pidennetty piippu~Parantaa tulivoimaa, mutta vaikuttaa huonoon liikkuvuuteen lisätyn painon ja pituuden takia.
+Äänenvaimennin~Alentaa äänenpainetta. Vähentää laukauksien ääntä, mutta lisää aseen painoa ja pituutta.
+Suuliekinvaimennin~Vaimentaa suuliekin ampuessa. Helpottaa ampumista pimeässä.
+Suujarru~Vähentää rekyyliä. Käyttää ruutikaasuja pienentääkseen rekyyliä, mutta lisää laukausten äänenvoimakkuutta.
+Suutuki~Parantaa tulinopeutta, mikä johtaa parempaan tulivoimaan, mutta aseesta tulee vaikeampi hallita.
+FMJ Lipas~Standardi lipas joka sisältää kokovaippapatruunoita.
+AP Lipas~Standardi lipas joka sisältää panssaripatruunoita.
+JHP Lipas~Standardi lipas joka sisältää reikäpääpatruunoita.
+Pidennetty FMJ lipas~Pidennetty lipas joka sisältää kokovaippapatruunoita.
+Pidennetty AP lipas~Pidennetty lipas joka sisältää panssaripatruunoita.
+Pidennetty JHP lipas~Pidennetty lipas joka sisältää reikäpääpatruunoita.
+FMJ rumpulipas~Ison-kapasiteetin rumpulipas joka sisältää kokovaippapatruunoita.
+AP rumpulipas~Ison-kapasiteetin rumpulipas joka sisältää panssaripatruunoita.
+JHP rumpulipas~Ison-kapasiteetin rumpulipas joka sisältää reikäpääpatruunoita.
+Pienennetty FMJ lipas~Pienen-kapasiteetin lipas joka sisältää kokovaippapatruunoita.
+Pienennetty AP lipas~Pienen-kapasiteetin lipas joka sisältää panssaripatruunoita.
+Pienennetty JHP lipas~Pienen-kapasiteetin lipas joka sisältää reikäpääpatruunoita.
+4-pesäinen rulla~Pitää vähemmän patruunoita, mutta pystyy tekemään enemmän vahinkoa panssaroiduille vihollisille.
+6-pesäinen rulla~Klassinen kuudestilaukeava.
+8-pesäinen rulla~Pitää enemmän patruunoita, mutta raskaampi liipaisin tarvitsee enemmän aikaa että saa tarkkoja osumia.
+Karbiini-lukonkehys~Tavanomainen karbiini-ylälukonkehys jonka on harkittu olevan hyvä kompromissi tulivoiman ja liikkuvuuden välillä.
+Kivääri-lukonkehys~Täysikokoinen ylälukonkehys joka parantaa tulivoimaa ja tarkkuutta, mutta painavampi kaasujärjestelmä vähentää tulinopeutta.
+Lyhyt piippu~Lyhennetty versio standardipiipusta, joka auttaa nopeuttamaan aseen käsiinottoa ja liikkuvuutta.
+Supistus~Lisää haulien hajontasädettä mutta parantaa haulikuvion yhteneväisyyttä.
+Pidennetty piippu~Hieman vähentää haulien hajontasädettä mutta lisää aseen painoa ja pituutta.
+Ei tukkia~Lyhyet rakenteet auttavat liikkuvuuden kanssa, mutta tukin poistamisen jälkeen on mahdotonta ampua turvallisesti tähtäimen kautta.

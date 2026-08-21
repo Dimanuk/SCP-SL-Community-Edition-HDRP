@@ -1,0 +1,91 @@
+TILSLUT
+LUK
+SKYGGEOPLØSNING
+INDSTILLINGER
+BASERET PÅ <i>SCP: CONTAINMENT BREACH</i>
+TILBAGE
+SPROG
+ANTIALIASING
+Forklaring:\n-PIXELBELYSNING - Det maksimale antal af lyskilder som har deres lys renderet på individuelle pixels.\n-V-Sync - Synkronisering med skærmenhedens billedfrekvens.
+TILSLUT SPIL
+EFTER\nBEHANDLING
+CREDITS
+AFSLUT SPILLET
+Fuldskærms-tilstand
+SKÆRMINDSTILLINGER
+FARVEKORREKTION
+Indtast IP-Adresse...
+SKÆRMOPLØSNING
+SPIL
+PIXELBELYSNING
+SKYGGETYPE
+SKYGGER
+OPRET SPIL
+Ændre indstillinger for efterbehandling. Disse indstillinger påvirker generelt ikke ydeevnen. Standardindstillingen anbefales.
+Lysgengivelse:\nHvis slået fra reduceres grafikkvaliteten markant. At slå denne indstilling fra anbefales kun til systemer med lav ydeevne.
+V-SYNC
+CONNECT
+KVALITETSINDSTILLINGER
+Skyggeindstillinger. At sætte disse værdier lavt kan forbedre ydeevnen.
+HOVEDMENU
+GENGIV LYS
+BEVÆGELSESSLØRING
+SKYGGEAFSTAND
+DETALJER
+3. SCP-914
+VEJLEDNING
+ADVARSEL
+Gennemse ledige servere
+Vis ikke dette igen
+Hvordan ønsker du at tilslutte?
+SERVERBROWSER
+OKAY
+FIND MATCH
+2. Brug af våben
+Vi bruger Discord som et forum. Installation er ikke nødvendig.\n(klik på logoet for at tilslutte)
+Som standard vil serveren være oprettet efter dit lokale netværk.\nDine venner vil få brug for en direkte IP-adresse for at kunne tilslutte.\nHvis du ønsker at oprette en offentlig server skal du anvende LocalAdmin.exe og følge vejledningen.\nHvis du har spørgsmål kan du kontakte teknisk support (link findes i hovedmenuen)
+1. Det Grundlæggende
+Det præsenterede spil er stadig i åben beta.\nDu oplever måske forbindelsesproblemer og mange andre fejl.\nSpillet som det er nu afspejler ikke den endelige spilversion.
+4. (flere vejledninger kommer snart)
+TILSLUT DIREKTE
+TEKNISK SUPPORT / FORUM
+LYDSTYRKE
+Indtast serverens specifikke IP-adresse.
+DOWNLOADER DATA
+INGEN SERVERE TILGÆNGELIGE
+TRYK ESC FOR AT LUKKE / ANNULLERE
+TASTTILKNYTNINGER
+MAKSIMAL BLODMÆNGDE
+FPS Begrænsning
+FPS Begrænsning virker ikke når vSync er slået til!
+Standardindstilling
+Vi bruger Steam Diskussioner som et forum. (Klik på logoet for at åbne forummet)
+LYDINDSTILLINGER
+PRIMÆRE LYDSTYRKE
+MUSIK I MENUEN
+STEMMECHAT
+LYDEFFEKTER
+SPILINDSTILLINGER
+HURTIG INTRO
+Teksten til introduktion af klasse vil forsvinde hurtigere.
+SCP-079 - SKIFT SYNSTILSTAND
+Tryk en gang for at skifte kameratilstand.
+SCP-079 - EFTERBEHANDLING
+Hvis slået fra vil kameraeffekter blive reduceret markant.
+HOVEDBEVÆGELSE
+Slå naturlig rysten for førstepersonskameraet til og fra under bevægelse.
+HOLD NEDE FOR SPRINT
+Indstil om tasten for sprint skal holdes nede eller trykkes.
+ADSKIL KUNSTIGT HELBRED
+Giver kunstigt helbred sin egen oversigt i stedet for en overlejring.
+Vores oversættelser er open-source på GitHub!\nHar du lyst til at hjælpe? Klik her for mere information.
+DETALJERET STATUS
+Hvis slået til vises din status på Discord/Steam.
+VIS PRÆCIS HELBREDVÆRDI
+Viser den præcise helbredsværdi i stedet for et procenttal.
+Offentlig spillobby
+Hvis slået til kan dine Steam-venner tilslutte dig uden forespørgsel.
+SKJUL IP-ADRESSE
+Hvis slået til vil enhver IP-adresse i konsollen blive skjult.
+TRYK-FOR-OPSAMLING
+Opsamling af genstande kræver ikke at holde tasten nede. Tryk igen for at annullere.

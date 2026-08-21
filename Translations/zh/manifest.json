@@ -1,0 +1,25 @@
+{
+  "Name": "简体中文 - Chinese (Simplified)",
+  "Authors": [
+    "No_149",
+    "Schrodinger_Sig",
+    "ShingekiNoRex",
+    "TitanSix",
+    "Tychus_骁奕",
+    "饺子"
+  ],
+  "InterfaceLocales": [
+    "zh-CN",
+    "zh-Hans",
+    "zh"
+  ],
+  "SystemLocales": [
+    "zh-CN",
+    "zh-SG",
+    "zh-Hans",
+    "zh"
+  ],
+  "ForcedFontOrder": [
+    "NotoSansCJKsc-RegularDynamic"
+  ]
+}

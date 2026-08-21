@@ -1,0 +1,38 @@
+Pucanje
+Nišanjenje
+Skok
+Inerakcija
+Inventar
+Repertiraj
+Trči
+Glsovni Čet
+Šunjanje
+Pomjeranje Napred
+Pomjeranje Nazad
+Pomjernjare Ljevo
+Pomjeranje Desno
+Lista Igrača
+Informacija o klasi
+Tabla Administracije (RA)
+Uključi Svjetlo
+Alt. Glasovni Čet
+Noclip
+Komandna Konzola
+Taster za Pritsupnu Kar.
+Pregledaj Pušku
+Pripremi Revolver
+Baci Stvar
+Glavana Puška Taster
+Druga Puška Taster
+Taster za medicinu
+Sakrij HUD
+Isključi Smog Noclip
+Taster za granatu
+Pauza 
+Debag Log
+Slobodno Gledanje Režim
+Zaključaj Vrata
+Odključaj sve zaključano
+Gasi Svjetla
+Zaključaj prostoriju
+Obilježi Mjesto

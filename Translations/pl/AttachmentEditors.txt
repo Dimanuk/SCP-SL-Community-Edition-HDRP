@@ -1,0 +1,18 @@
+Niestandardowy
+Zestaw [index].
+ZAPISZ
+WYCZYŚĆ
+Domyślny
+ZESTAWY
+STACJA ROBOCZA - <color=#c00>OFFLINE</color>
+<color=#ccc>OŚRODEK 02 PUNKT PERSONALIZACJI BRONI</color> - TRYB CZUWANIA\n<size=39>STUKNIJ W EKRAN, ABY AKTYWOWAĆ. <color=#ccc>TYLKO DLA UPOWAŻNIONYCH.</color></size>
+WITAJ UŻYTKOWNIKU!
+TRWA URUCHAMIANIE STACJI ROBOCZEJ
+STACJA ROBOCZA - <color=#0c0>GOTOWA</color>
+<size=52><color=#ccc>OŚRODEK 02 PUNKT PERSONALIZACJI BRONI</color> - GOTOWY</size>\n<size=42><color=#ccc>DOBIERZ BROŃ, ABY ZMODYFIKOWAĆ JEJ DODATKI.</color></size>
+WYŁĄCZANIE
+TRWA WYŁĄCZANIE STACJI ROBOCZEJ
+POKAŻ PODSUMOWANIE
+UKRYJ PODSUMOWANIE
+Personalizacja [Attachment]
+Naciśnij [Key], aby zmienić dodatki do broni.

@@ -1,0 +1,7 @@
+Trčanje:Povećava vašu brzinu kretanja, ali povećava i jačinu zvuka kad se pomjerate.
+Šunjanje:Vaši pokreti postaju tihi, cjena je veoma sporo kretanje.
+Inventar:Otvorite vaš inventar i pritisnite na stvar korišteći lijevi klik da je uzmete u ruku, ili da je ispustite koristeći desni klik.
+Ne naoružan:Bukvalno nemate ništa. Pronađite nešto. Bilo šta.
+Pristupna Kartica:Vi posjedujete pristupnu karticu, nije najbolja ali nemojte je izgubiti.
+Standardna oprema:Vi ste opremljeni sa vatrenim oružijem, Pristupnom Karticom, i nekim uslužnim stvarima.
+Naoružan i Opasan:Vi ste opremljeni sa teškim oružijem, Pristupnim Uređajem, i medikalnim zalihama.

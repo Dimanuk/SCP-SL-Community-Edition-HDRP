@@ -1,0 +1,94 @@
+Notizie
+Lista Server
+Impostazioni
+Esci
+Social Media
+Internet
+Preferiti
+Ufficiali
+Cronologia
+Amici
+Cerca Server
+Crea Server
+Rientra
+Connessione Diretta
+Ricarica
+Nascondi partite senza giocatori
+Nascondi partite piene
+Senza Whitelist
+Video
+Audio
+Controlli
+Gameplay
+Altro
+Modalità in finestra
+Schermo intero esclusivo
+Finestra senza bordi
+Finestra ingrandita
+In finestra
+V-Sync
+Limite FPS
+Off
+Qualità texture
+Quantità massima di sangue
+Ombre
+Risoluzione ombre
+Distanza ombre
+Motion Blur
+Correzione del colore
+Anti Aliasing
+Modalità di rendering della luce
+Volume principale
+Effetti sonori
+Chat vocale
+Musica del menu
+Volume dell'interfaccia
+Tema del menu
+Introduzione Veloce
+Sobbalzo Visuale
+Attiva/Disattiva Corsa
+Mostra valore HP esatto
+Rich Presence
+Lobby Pubblica
+Attiva/Disattiva Ricerca
+SCP-079 - Attiva / disattiva modalità di visualizzazione
+SCP-079 - Post-Processing
+Lingua
+Menu principale
+Connetti
+Indietro
+Questa modifica richiederà un riavvio.\nRiavviare ora il menu?
+Si
+No
+Sei sicuro di voler uscire?
+Risoluzione dello Schermo
+Nascondi IP
+Bentornato, {username}!
+Crediti
+AUTENTICAZIONE
+Connessione ai server centrali...
+<color=green>Connessione stabilita</color>
+<color=red>Connessione fallita (Controlla la console per maggiori informazioni)</color>
+<color=red>Autenticazione di Steam fallita (Controlla la console per maggiori informazioni)</color>
+<color=red>Autenticazione di Discord fallita (Controlla la console per maggiori informazioni)</color>
+Disabilitato
+secondi
+Tempo di pulizia dei cadaveri
+Visualizza profilo Steam
+Permetti ai giocatori di vedere il tuo profilo di steam dalla lista giocatori
+Non tenere traccia (DNT)
+Proibisci ai server di utilizzare i tuoi dati (Indirizzo IP, ID Utente, etc.) per qualsiasi ragione che non riguardi sicurezza del server stesso.
+API Grafica
+Creare un server di gioco all'interno di esso non è più supportato.\nCi sono tre modi per creare un server in SCP: SL.\n-Puoi scaricare il server dedicato di SCP: SL (Steam AppID: 996560) ed avviarlo da esso.\n-Puoi noleggiare una VPS o un Server Dedicato da un host provider e  farlo partire da esso.\n-Puoi noleggiare un SCP: SL da un host provader in gioco che supporti SCP: SL (es: ZAP Hosting).\n\nClicca il link sottostante per avere maggiori informazioni.\nPuoi contattare il supporto tecnico per assistenza (il link del server discord si trova nel Menù di gioco principale).
+<size=20>CREA UGUALMENTE</size>
+<size=20>MAGGIORI INFORMAZIONI</size>
+<size=20>NOLEGGIA UN SERVER</size>
+<size=20>CANCELLA</size>
+Secondo
+Per giocare al nostro gioco!
+Fai lampeggiare la barra delle applicazioni quando spawni (quando ti rigeneri)
+Occlusione ambientale
+Luci volumetriche
+Sfocatura
+Mostra sottotitoli
+Guida operativa

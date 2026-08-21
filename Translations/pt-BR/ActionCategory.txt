@@ -1,0 +1,8 @@
+Jogabilidade
+Armas
+Movimentos
+Atalhos
+Comunicações
+Sistema
+Não-bindável
+SCP-079

@@ -1,0 +1,17 @@
+Munitions {0}/{1} {2}
+Dégâts
+Cadence de tir
+Précision sans visée
+Précision avec visée
+Masse
+Longueur
+LÂCHER:
+Efficacité du casque
+Efficacité de la veste
+Consommation d'endurance
+Vitesse de déplacement
+Limite d'objets:
+Limite de munition:
+{0} total
+Pénétration d'Armure
+Précision en course

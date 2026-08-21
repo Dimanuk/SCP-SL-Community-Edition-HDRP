@@ -1,0 +1,17 @@
+Raunt bitti!
+SCPler KAZANDI
+VAKIF KAZANDI
+İSYANCILAR KAZANDI
+BERABERE
+Kaçan denekler tesisi ele geçirdi. Acil müdahale şifrelendi.
+Güvenliğe yönelik tüm tehditler etkisiz hale getirildi. Site-02 bir kez daha güvende.
+Vakıf mevcudiyeti ortadan kaldırıldı. Operatörler gelecek emirler için beklemede.
+Site-02 kontrol altında, bedeli ağır oldu. Galip belli değil.
+[summary_d_escaped] d-sınıf kaçtı
+[summary_s_escaped] bilim adam(lar)ı hayatta kaldı
+Alpha Savaş Başlığı'nın infilakı [summary_warhead_kills] varlığı etkisiz hale getirdi.
+Bu görev süresince Alpha Savaş Başlığı patlatılmadı.
+Görev [summary_round_minutes] dakika ve [summary_round_seconds] saniye sürdü.
+[summary_scp_terminated] SCP etkisiz hale getirildi
+Sonraki raunt [summary_next_round_countdown] saniye içinde başlatılacak.
+SCPler [summary_scpfrags] insanı öldürdü.

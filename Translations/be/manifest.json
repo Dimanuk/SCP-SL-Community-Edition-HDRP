@@ -1,0 +1,17 @@
+{
+  "Name": "Беларуская - Belarussian",
+  "Authors": [
+    "MatB1200"
+  ],
+  "InterfaceLocales": [
+    "be-BY",
+    "be"
+  ],
+  "SystemLocales": [
+    "be-BY",
+    "be"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}

@@ -1,0 +1,38 @@
+<size=80>DU HAR BLITT SPARKET FRA SPILLET</size>\nTjeneren tvangslukket forbindelsen.\n<size=26>\nDu har muligens blitt utestengt av en administrator\neller møter ikke tjenerens krav (f.eks. forbindelse til Steam).\nUtviklerne er <b>ikke</b> ansvarlige for utestengninger.\n</size>
+<size=80>FRAKOBLET</size>\nDen angitte verten er ikke tilgjengelig.
+<size=80>FRAKOBLET</size>\nDen angitte forbindelses-IDen finnes ikke.
+<size=80>FRAKOBLET</size>\nDen angitte kanalen finnes ikke.
+<size=80>FRAKOBLET</size>\nSpillet er fullt.
+<size=80>FRAKOBLET</size>\nMottok feil pakke.
+<size=80>FRAKOBLET</size>\nMistet forbindselsen (tidsavbrudd).
+<size=80>FRAKOBLET</size>\nMistet forbindselsen (tidsavbrudd).
+<size=80>FRAKOBLET</size>\nHandlingen støttes ikke.
+<size=80>DISCONNECTED</size>\nDin spillversjon er forskjellig fra serveren.
+<size=80>FRAKOBLET</size>\nUgyldig serverkonfigurasjon.
+<size=80>FRAKOBLET</size>\nAdressen er ugyldig eller kunne ikke bli løst.
+<size=80>KOBLE TIL</size>\nDet har oppstått et uventet problem!
+<size=80>VENNLIGST VENT</size>\n<size=35>Etablerer tilkoblingen...</size>
+<size=80>NY RUNDE</size>\n<size=35>Runden starter på nytt...</size>
+<size=80>VENNLIGST VENT</size>\n<size=35>Laster inn opplæring...</size>
+<size=80>VERSJONSINKOMPABILITET</size>\nDin versjon av spillet er annerledes enn tjenerens versjon\n(Din versjon - [your]; Tjenerens versjon - [server])
+<size=80>TILKOBLET</size>\n<size=35>Laster nivå...</size>
+<size=35>Laster inn anlegget...</size>
+<size=80>FRAKOBLET</size>\nUspesifisert feil oppsto på serveren.
+<size=80>FRAKOBLET</size>\nDenne serveren krever autentisering fra sentrale servere.
+<size=80>FRAKOBLET</size>\nDu er ikke hvitelistet på denne serveren.
+<size=80>FRAKOBLET</size>\nDu har blitt globalt utestengt.
+<size=80>FRAKOBLET</size>\nDu har blitt globalt utestengt: [reason].
+<size=80>FRAKOBLET</size>\nDu har blitt utestengt fra denne serveren.
+<size=80>FRAKOBLET</size>\nDu har blitt utestengt fra serveren.\nUtestengelse utløper: [date] [time]
+<size=80>FRAKOBLET</size>\nDitt autorisasjonsnøkkel har utløpt.\nServeren kan ha ugyldig tid eller tidssone.\nVennligst kontakt en server administrator.
+<size=80>FRAKOBLET</size>\nDu har blitt begrenset. Prøv igjen om noen sekunder.
+<size=80>FRAKOBLET</size>\nServeren godtar ikke tilkoblinger fra din geografiske plassering.\nServernavn eller informasjon kan inneholde flere detaljer.
+<size=80>FRAKOBLET</size>\nDu har blitt sparket av en server modifikasjon.\n\nÅrsak: [reason]\nDette er en server modifikasjon, ikke en spillfunksjon.\nKontakt en serveradministrator for mer informasjon.
+<size=80>FRAKOBLET</size>\nDitt autorisasjonsnøkkel har blitt avvist av serveren.\nVennligst start spillet på nytt og prøv igjen eller kontakt studio brukerstøtte.
+<size=80>FRAKOBLET</size>\nDu har blitt utestengt fra denne serveren.\nÅrsak: [reason]
+<size=80>FRAKOBLET</size>\nDu har blitt utestengt fra denne serveren.\nUtestengelse utløper: [date] [time]\nÅrsak: [reason]
+<size=80>Vennligst vent</size>\nBehandler serverens sikkerhets-verifikasjon...
+<size=80>FRAKOBLET</size>\nFeilet i å behandle server verifisering.
+<size=80>FRAKOBLET</size>\nBehandling av sikkerhetsverifisering for server var for treg for serveren.\nVennligst prøv igjen eller kontakt serveradministrator.
+<size=80>VERIFISERINGS FEIL</size>\nSentraltjenermelding: [message].
+<size=80>FRAKOBLET</size>\nServeren stopper.

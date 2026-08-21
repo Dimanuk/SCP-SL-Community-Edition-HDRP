@@ -1,0 +1,92 @@
+Nyheter
+Servere
+Innstillinger
+Avslutt
+Sosiale medier
+Internett
+Favoritter
+Offisiell
+Historikk
+Venner
+Søk servere
+Opprett Server
+Bli med igjen
+Direkte tilkobling
+Oppdater
+Skjul tomme spill
+Skjul hele spill
+Ingen hviteliste
+Video
+Lyd
+Kontroller
+Spillopplevelse
+Andre
+Vinduets Modus
+Eksklusiv fullskjerm
+Vindu uten kanter
+Maksimert vindu
+Vindusmodus
+V-synkronisering
+FPS Grense
+Av
+Tekstur Kvalitet
+Dekaler
+Skygger
+Skygge oppløsning
+Skygge avstand
+Bevegelsesuskarphet
+Farge Korreksjon
+Anti Aliasing
+Gjengi Lys
+Hoved Volum
+Lyd Effekter
+Stemme Chat
+Meny Musikk
+Grensesnitt Volum
+Meny Tema
+Fast Intro Fade
+Hode Bevegelse
+Veksle Sprint
+Vis Nøyaktig Helsesverdi
+Rich Presence
+Offentlig Lobby
+Veksle Søk
+SCP-079 - Veksle Visningsmodus
+SCP-079 – Etterbehandling
+Språk
+Hoved Meny
+Tilkoble
+Tilbake
+Dette krever å laste inn på nytt.\nLast menyen på nytt nå?
+Ja
+Nei
+Er du sikker på at du vil avslutte?
+Skjermoppløsning
+Skjul IP
+Velkommen tilbake, {username}!
+Medvirkende
+AUTENTISERER
+Kobler til sentrale servere...
+<color=green>Tilkobling opprettet</color>
+<color=red>Tilkoblingsfeil (Kontroller konsoll for detaljer)</color>
+<color=red>Steam-autentiseringsfeil (Sjekk konsoll for detaljer)</color>
+<color=red>Discord-autentiseringsfeil (Sjekk konsoll for detaljer)</color>
+Deaktivert
+Sekunder
+Ragdoll oppryddingstid
+Vis Steam-profil
+Lar spillere se på Steam-profilen din ved å klikke et ikon i spiller-listen.
+Ikke spor (DNT)
+Forby serveren å bruke dine data (IP-adresse, bruker-ID, osv.) i forhold til tjenerens sikkerhet.
+Grafikk API
+Å lage spillservere direkte fra spillet støttes ikke lenger.\nDet er for tiden 3 måter å opprette en SCP:SL server:\n- Du kan laste ned SCP:SL dedikert server (Steam AppID: 996560) og kjøre den på din datamaskin\n- Du kan leie en VPS eller en dedikert server fra en server-leverandør og kjøre en SCP:SL dedikert server der\n- Du kan leie en SCP:SL server fra en spillhosting leverandør som støtter SCP:SL (eks. ZAP tjener)\n\nKlikk på lenkene nedenfor for å få mer informasjon.\nDu kan spørre vår teknologistøtte (link til vår Discord-server kan bli funnet i hovedmenyen) for hjelp.
+OPPRETT UANSETT
+FINN MER
+RENT EN SERVER
+AVBRYT
+Sekund
+For å spille vårt spill!
+Blink på Oppgavelinjen på Spawn
+Ambient Okklusjon
+Volumetriske lyskilder
+Lysglød

@@ -1,0 +1,21 @@
+Précision - Zoom
+---
+Dégâts
+Pénétration
+Cadence de tir
+Recul
+Recul en visée
+Précision des balles
+Précision sans visée
+Précision avec visée
+Temps d'équipement
+Bruits des tirs
+Capacité du chargeur
+Temps d'équipement
+Temps de rechargement
+---
+Vitesse de visée
+Dispersion du plomb
+Uniformité du motif
+Nombre de projectiles
+Vitesse de rechargement

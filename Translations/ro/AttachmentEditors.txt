@@ -1,0 +1,18 @@
+Personalizat
+Presetare #[index]
+SALVAȚI
+ȘTERGEȚI ATAȘAMENTURI
+Default
+PRESETĂRI
+STAȚIE DE LUCRU- <color=#c00>OFFLINE</color>
+<color=#ccc>SITE-02 PUNCT DE PERSONALIZARE ARMĂ</color> - MOD STANDBY ACTIVAT\n<size=39>ATINGE ECRANUL SĂ ACTIVEZI. <color=#ccc>NUMAI PERSONALI AUTORIZAȚI.</color></size>
+BINE AI VENIT, UTILIZATOR!
+STAȚIA DE LUCRU SE DESCHIDE
+STAȚIE DE LUCRU - <color=#0c0>PREGĂTIT</color>
+<size=52><color=#ccc>SITE-02 PUNCT DE PERSONALIZARE ARMĂ</color> - PREGĂTIT</size>\n<size=42><color=#ccc>VĂ RUGĂM SĂ VĂ ECHIPAȚI ARMA PENTRU A-I MODIFICA ATAȘAMENTELE.</color></size>
+ÎNCHIDERE
+STAȚIA DE LUCRU SE ÎNCHIDE
+ARATĂ REZUMAT
+ÎNCHIDE REZUMAT
+Personalizare [Attachment]
+Apasă [key] pentru a edita atașamentele.

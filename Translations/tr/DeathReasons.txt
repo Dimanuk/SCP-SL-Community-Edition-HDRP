@@ -1,0 +1,33 @@
+Bu ceset <b>[user]</b> kişisine ait - o bir [class]!\n\nÖlüm sebebi: [cause]
+Yeniden barındırıldı.
+Alfa Savaş Başlığı tarafından buharlaştırıldı.
+Yaşam belirtilerinin aniden kesilmesi. Belirli bir travma yok.
+Bilinmeyen ölüm nedeni.
+Şiddetli elektrik yanıkları.
+Oksijen yoksunluğu asfiksi ölümüyle sonuçlandı.
+Derin yaraların neden olduğu ciddi kan kaybı.
+Kan kaybından öldün.
+Parçalanmış bacaklar ve ayaklar, düşmenin neden olduğu ölümcül travmaya işaret eder.
+Düşmekten öldün.
+Cep Boyutunda çürümüş.
+Yüksek derecede aşındırıcı bir madde tarafından eritildi.
+Hastalıklı sarı bir cilt ve kokuşmuş bir koku, zehirle ölüme işaret eder.
+Zehir ömrünü sonlandırdı.
+Soluk cilt ve ağızdan sızan kan, madde alımının neden olduğu iç kanamaya işaret eder.
+SCP-207 yaşamını sonlandırdı.
+İkiden fazla almamalıydın!
+Tesla Geçidine yakalandınız.
+Bir patlamanın neden olduğu şarapnel ve ciddi yanıklar.
+Yakındaki bir patlamada öldün.
+Büyük yırtılmalar ve aşırı kan kaybı.
+Kafatasının tabanında servikal kırık.
+Vücutta büyük, derin ısırık izleri görülebilir.
+Vücutta künt travma ve küçük çizikler mevcuttur.
+[ammotype] kurşun yaraları.
+Ölümcül künt travma; vücut kötü bir şekilde sakatlanmış ve püre haline getirilmiş.
+Her iki femur kemiğinde de şiddetli travma belirtileri, dolaşım şoku nedeniyle ölümü işaret ediyor.
+SCP-106'yı yeniden barındırmak için feda edildin.
+Dost ateşinden dolayı otomatik olarak öldürüldü.
+Soğuk cilt ve donmuş parmaklar, hipotermiden dolayı ölüme işaret eder.
+Donarak öldün.
+Vücutta derin yırtıklar ve çizikler bulunuyor.

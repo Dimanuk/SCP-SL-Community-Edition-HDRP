@@ -1,0 +1,44 @@
+Trống~Lựa chọn mặc định và không có thêm tác dụng.
+Điểm ruồi~Công cụ cơ bản để ngắm bắn mục tiêu.
+Chấm đỏ~Ống ngắm không phóng đại với chấm nhỏ màu đỏ để ngắm.
+Holosight~Ống ngắm không phóng đại có kẻ ô ở trung tâm. Hiệu quả khi chiến đấu tầm gần.
+Ống ngắm đêm~Ống ngắm phóng đại tích hợp bộ nhìn đêm. Rất nặng nề nhưng hiệu quả trong môi trường ánh sáng yếu.
+Ống ngắm tích hợp bộ đếm~Hệ thống điểm ruồi tích hợp bộ đếm đạn.
+Ống ngắm phóng to~Phụ kiện ngắm bắn lớn, phóng đại được mục tiêu. Hoàn hảo khi chiến đấu tầm xa nhưng kém tiện lợi.
+Báng tiêu chuẩn~Cấu hình mặc định giúp kiểm soát súng khi ngắm bắn.
+Báng dài~Giúp kiểm soát súng rất tốt khi ngắm bắn nhưng tốn thêm thời gian rút súng.
+Báng ngắn~Giúp súng nhỏ gọn hơn, tăng tính cơ động.
+Báng nhẹ~Giảm khối lượng súng nhưng làm tăng độ giật.
+Báng nặng~Tăng khối lượng, giảm tính cơ động và kiểm soát độ giật tốt hơn.
+Báng chống giật~Loại báng súng có tích hợp cơ chế giảm độ giật khi bắn.
+Tay cầm trước~Tay cầm gắn phía trước giúp kiểm soát độ giật.
+Laser~Tia Laser hiển thị điểm ngắm trên mục tiêu giúp bắn tốt hơn khi không ngắm nhưng dễ để lộ vị trí.
+Đèn pin~Nguồn sáng, tăng khối lượng vũ khí nhưng hữu dụng khi ánh sáng yếu.
+Bộ đếm đạn~Bộ đếm đạn tích hợp. Rất hữu dụng, đặc biệt là khi lượng đạn lớn.
+Nòng tiêu chuẩn~Nòng mặc định, chưa tinh chỉnh họng súng.
+Nòng dài~Tăng sức mạnh hỏa lực nhưng làm giảm tính cơ động do khối lượng và độ dài tăng.
+Ống giảm thanh~Kiểm soát âm thanh. Giảm âm lượng phát ra khi khai hỏa nhưng tăng khối lượng và độ dài.
+Chụp che lửa~Che tia lửa phát ra khi bắn giúp không bị lộ tia lửa đầu nòng khi bắn trong bóng tối.
+Chụp bù giật~Giảm độ giật. Dùng thuốc phóng để giảm độ giật nhưng làm tăng cường độ âm thanh.
+Chụp tăng giật~Tăng sát thương mỗi giây nhưng làm súng khó kiểm soát hơn.
+Băng đạn FMJ~Băng đạn chứa đạn bọc kim loại.
+Băng đạn AP~Băng đạn chứa đạn xuyên giáp.
+Băng đạn JHP~Băng đạn chứa đạn đầu rỗng.
+Băng đạn FMJ lớn~Băng đạn mở rộng chứa đạn bọc kim loại.
+Băng đạn AP lớn~Băng đạn mở rộng chứa đạn xuyên giáp.
+Băng đạn JHP lớn~Băng đạn mở rộng chứa đạn đầu rỗng.
+Băng súng máy FMJ~Băng đạn súng máy chứa đạn bọc kim loại.
+Băng súng máy AP~Băng đạn súng máy chứa đạn xuyên giáp.
+Băng súng máy JHP~Băng đạn súng máy chứa đạn đầu rỗng.
+Băng đạn nhỏ FMJ~Băng đạn rút gọn chứa đạn bọc kim loại.
+Băng đạn nhỏ AP~Băng đạn rút gọn chứa đạn xuyên giáp.
+Băng đạn nhỏ JHP~Băng đạn rút gọn chứa đạn đầu rỗng.
+Cò xoay 4 viên~Ít đạn hơn nhưng tăng sát thương cho đối phương mang giáp.
+Cò xoay 6 viên~Súng cò xoay tiêu chuẩn.
+Cò xoay 8 viên~Nhiều đạn hơn nhưng cò xoay nặng hơn khiến thời gian bắn dài hơn.
+Khung Carbine~Khung Carbine giúp cân bằng hỏa lực và tính cơ động.
+Khung súng trường~Khung súng trường giúp tăng hỏa lực và độ chính xác nhưng giảm tốc độ bắn.
+Nòng ngắn~Nòng thu ngắn, giúp tăng tốc độ rút súng và tính cơ động.
+Chụp đầu nòng (Choke)~Tăng phân tán đạn nhưng giúp đạn bay đều và ổn định hơn.
+Nòng dài~Giảm phân tán đạn nhưng tăng khối lượng và độ dài.
+Không báng~Cấu hình thu gọn với tính cơ động cao nhưng vì mất báng nên rất khó để ngắm bắn.

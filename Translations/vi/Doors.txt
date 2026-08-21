@@ -1,0 +1,10 @@
+<color=green>MỞ</color>
+<color=#07A2FF>ĐÓNG</color>
+<color=orange>DI CHUYỂN</color>
+<color=red>BỊ KHÓA</color>
+<color=red>LỖI</color>
+<color=red>TỪ CHỐI TRUY CẬP</color>
+<color=green>XÁC NHẬN TRUY CẬP</color>
+<color=#07A2FF>YÊU CẦU THẺ KHÓA</color>
+<color=orange>HÃY ĐI QUA</color>
+<color=orange>ĐANG ĐÓNG</color>

@@ -1,0 +1,8 @@
+SCP-096 começa dócil e pode ficar furioso quando alguém vê seu rosto ou o machuca. Fúria o fortalece com muitas habilidades, que ajudam SCP-096 a seguir as luzes do transgressor antes que a fúria diminua.
+Tente não chorar: É difícil seguir em frente... Porém apoiar-se em algo o ajuda a acalmar, seja para se esconder... Seja para esperar alguém aparecer.
+Ataque Corpo-a-Corpo: Dilacere qualquer coisa em seu caminho para chegar até aqueles que o machucaram. Seus ataques irão destruir portas e ferir humanos.
+Carga: Encurte suas fugas - eles merecem. Você segue em frente por uma curta distância, destruindo qualquer coisa em seu caminho.
+Apênas em Fúria
+Apênas Dócil
+Segure [key] para entrar em fúria.
+Segure [key] para forçar saída de fúria.

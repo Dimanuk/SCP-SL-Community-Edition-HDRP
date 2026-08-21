@@ -1,0 +1,7 @@
+Bieg:Poruszasz się szybciej, lecz głośniej.
+Skradanie:Poruszasz się ciszej, lecz wolniej.
+Ekwipunek:Otwórz ekwipunek i wybierz przedmiot używając lewego przycisku myszy lub upuść go przy pomocy prawego klawisza.
+Bezbronny:Nie masz niczego. Znajdź coś. Cokolwiek.
+Karta dostępu:Posiadasz kartę dostępu. Nie jest ona najlepsza, ale lepiej jej nie zgub.
+Standardowe wyposażenie:Jesteś wyposażony w broń, kartę dostępu oraz inne przydatne przedmioty.
+Uzbrojony i niebezpieczny:Wysłano cię z bronią ciężką, urządzeniem hakującym oraz środkami medycznymi.

@@ -1,0 +1,21 @@
+ADS zoom
+---
+Damage
+Penetrare
+Rata focului
+Recul
+Recul cu țintire
+Precizie gloanțe
+Precizie hip-firing
+Precizie țintire
+Timp echipare
+Zgomot gloanțe
+Capacitate magazie 
+Timp echipare 
+Timp reîncărcare
+---
+Viteză aiming
+Răspândirea peletelor
+Consistență pattern
+Număr proiectile
+Viteză de reîncărcare

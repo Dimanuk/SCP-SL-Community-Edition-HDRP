@@ -1,0 +1,22 @@
+Süßigkeiten
+Regenbogen Bonbon
+Ein Stück Kandiszucker, mit vielen verschiedenen Geschmäckern.
+Vergibt eine große Anzahl an kleiner Boni, wie Lebensregeneration, Kräftigung und AHP.
+Gelbes Bonbon
+Der überwältigende Geruch von Zitrone lässt dich ein wenig erschaudern.
+Erlaubt dir schneller zu laufen und länger zu sprinten über eine kleinere Zeit.
+Lila Bonbon
+Es riecht nach saftigen Weintrauben. Dir läuft das Wasser im Mund zusammen.
+Vergibt eine temporäre Resistenz gegenüber Schaden und regeneriert langsam Lebenspunkte.
+Rotes Bonbon
+Ein starker Duft von Kirsche erfüllt den Raum. Er ist ein bisschen... <i>zu</i> stark.
+Stellt Lebenspunkte rasch wieder her.
+Grünes Bonbon
+Von der Süßigkeit geht ein unangenehmer, krautiger Geruch aus.
+Gibt eine lang anhaltende Lebensregeneration und temporäre Immunität gegenüber den meisten Statuseffekten.
+Blaues Bonbon
+Er riecht weich und süß, ähnlich wie ein Marshmallow.
+Erzeugt eine temporäre Barrieren.
+Pinkes Bonbon
+Der Erdbeerduft ist so sanft, wie er aussieht.
+- R E D A C T E D -

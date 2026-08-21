@@ -1,0 +1,13 @@
+Diese Seele weilt nicht mehr unter uns.
+Diese Leiche ist verfallen.
+Diese Seele wurde zu oft wiederbelebt.
+Diese Seele möchte nicht mehr wiederbelebt werden.
+Diese Leiche kann nicht wiederbelebt werden.
+Diese Leiche wurde bereits aufgefressen.
+Ausschließlich menschliche Leichen können gefressen werden.
+ANGRIFF COOLDOWN
+Du hast eine weitere Wiederbelebung durch SCP-049 verweigert!
+Drücke [key], um eine weitere Wiederbelebung zu verweigern.
+Kein Ziel gefunden.
+Du bist bereits bei voller Gesundheit.
+Diese Leiche wird bereits aufgefressen.

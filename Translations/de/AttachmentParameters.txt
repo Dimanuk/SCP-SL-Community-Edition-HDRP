@@ -1,0 +1,21 @@
+ADS Zoom
+---
+Schaden
+Penetration
+Feuerrate
+Rückstoß
+Rückstoß beim Zielen
+Kugelgenauigkeit
+Hüftfeuergenauigkeit
+Zielgenauigkeit
+Ausrüstungszeit
+Schusslautstärke
+Magazinkapazität
+Ausrüstungszeit
+Nachladezeit
+---
+Zielgeschwindigkeit
+Schrotkugelstreuung
+Einheitlichkeit der Muster
+Anzahl der Geschosse
+Nachladegeschwindigkeit

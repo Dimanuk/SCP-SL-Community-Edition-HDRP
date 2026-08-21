@@ -1,0 +1,44 @@
+Geen~Standaardoptie zonder effecten.
+IJzeren vizier~Een paar richtmerken die samen een eenvoudig, lichtgewicht vizier vormen.
+Puntvizier~Niet-vergrotend reflexvizier met een kleine verlichte stip die het richtpunt aangeeft.
+Holografisch vizier~niet-vergroot vizier met een holografisch dradenkruis. Doeltreffend in gevechten op korte afstand.
+Nachtzichtvizier~Telescopisch vizier aangevuld met een nachtvizier. Zwaar, maar doeltreffend in alle lichtomstandigheden.
+Munitieteller vizier~IJzeren vizier met geïntegreerd munitietelsysteem.
+Telescopisch vizier~Zwaar vizier met optische vergroting. Perfect voor de lange afstand, maar beperkt de algemene waarneming.
+Standaardkolf~Reguliere kolf, voor een betere controle over het vuurwapen bij het richten op het vizier.
+Verlengde kolf~Betere controle over het vuurwapen bij het richten op het vizier, maar verlengt de uitrustingsduur.
+Ingetrokken kolf~Maakt het vuurwapen compacter, wat de mobiliteit vergroot.
+Lichtgewicht lade~Vermindert het gewicht van het wapen, maar maakt het moeilijker om de terugslag te beheersen bij het richten op het vizier.
+Zware stock~Verhoogd gewicht verlaagt de mobiliteit, maar maakt het wapen stabieler bij het richten op het vizier.
+Terugstootreducerende kolf~ Kolf uitgerust met een systeem dat de kracht tussen de afzonderlijke schoten tracht te verdelen.
+Voorgreep~Verticale voorwaartse greep. Maakt het gemakkelijker om de opkomende loop te hanteren.
+Laservizier~Voorziet het doel van een visueel referentiepunt dat helpt bij heupschieten, maar gemakkelijk uw positie kan verraden.
+Zaklamp~schakelbare lichtbron. Verhoogt het totale gewicht van het vuurwapen, maar kan levensreddend zijn in donkere gebieden.
+Munitieteller~Munitieteller. Experimentele technologie die haar nut heeft bewezen, vooral bij magazijnen met hoge capaciteit.
+Standaard loop~Conventionele loop zonder mondingsmechanisme.
+Verlengde loop~Verbetert de totale vuurkracht, maar draagt bij tot een geringe mobiliteit door het grotere gewicht en de grotere lengte.
+Onderdrukker~Geluidsdemper. Vermindert de luidheid van de schoten, maar verhoogt het totale gewicht en de lengte van het vuurwapen.
+Flash Hider~Maakt een einde aan de flits van de loop. Maakt het gemakkelijker om in de duisternis te schieten.
+Mondingsrem~Terugslagcompensator. Gebruikt drijfgassen om de terugslag te verminderen, maar verhoogt de akoestische intensiteit van de schoten.
+Mondingsversterker~Verhoogt de vuursnelheid, wat resulteert in meer schade per seconde, maar het wapen is moeilijker te controleren.
+FMJ-Magazijn~standaardmagazijn dat kogels met een volledig metalen omhulsel bevat.
+AP-Magazijn~Standaard magazijn dat pantserdoorborende kogels bevat.
+JHP-Magazijn~Standaard magazijn dat hollow-point kogels bevat.
+Uitgebreid FMJ-Magazijn~Uitgebreid magazijn met full metal jacket kogels.
+Uitgebreid AP-Magazijn~Uitgebreid magazijn dat pantserdoorborende kogels bevat.
+Uitgebreid JHP-Magazijn~Uitgebreid magazijn met holle punt-kogels.
+FMJ-Trommel~trommelmagazijn met hoge capaciteit dat kogels met een volledig metalen omhulsel bevat.
+AP Trommel~Trommelmagazijn met hoge capaciteit dat door pantser versterkte kogels bevat.
+JHP-Trommel~Trommelmagazijn met hoge capaciteit dat holle punt-kogels bevat.
+Low-Cap FMJ-Magazijn~Magazijn met lage kop dat kogels met een volledig metalen omhulsel bevat.
+Low-Cap AP Magazijn~Magazijn met lage capaciteit dat pantserdoorborende kogels bevat.
+Low-Cap JHP Magazijn~Magazijn met lage capaciteit voor hollow-point kogels.
+4-Shot Cilinder~Bevat minder patronen, maar kan meer schade toebrengen aan gepantserde vijanden.
+6-schots Cilinder~De klassieke revolver met zes schoten.
+Cilinder voor 8 schoten~Biedt plaats aan meer patronen, maar de zwaardere trekker vereist meer tijd om nauwkeurig te kunnen schieten.
+Karabijn Ontvanger~Reguliere karabijn bovenste ontvanger die wordt beschouwd als een groot compromis tussen vuurkracht en mobiliteit.
+Geweerontvanger~Volledige bovenontvanger verbetert de vuurkracht en de nauwkeurigheid, maar een zwaarder gassysteem vermindert de vuursnelheid.
+Korte loop~Ingekorte versie van de standaardloop, gebruikt om de treksnelheid en de mobiliteit te verbeteren.
+Choke~Verhoogt de totale spreidingsradius maar verbetert de consistentie van het patroon.
+Verlengde loop~Vermindert de spreidingsradius enigszins, maar verhoogt het totale gewicht en de lengte van het wapen.
+Geen Kolf~Korte configuraties gaan gepaard met een hoge mobiliteit, maar het verwijderen van de kolf van een geweer maakt het onmogelijk om veilig op het vizier te richten.

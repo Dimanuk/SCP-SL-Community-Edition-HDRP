@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79fd6bf29df887c96a5293797ca8d47e, type: 3}
+  m_Name: Footstep Chaos
+  m_EditorClassIdentifier:
+  _sounds:
+  - Range: 30
+    Duration: 0.5
+    Repeat: {x: 3, y: 7}
+    Clips:
+    - {fileID: 8300000, guid: c5db471a984a7df4f8c39822210f97a4, type: 3}
+    - {fileID: 8300000, guid: 932d32f47740352409552461841d8ace, type: 3}
+    - {fileID: 8300000, guid: 28d899b78fa014847801d78c87ad0634, type: 3}
+    - {fileID: 8300000, guid: a87143c984352844ca33cd5399513596, type: 3}
+    - {fileID: 8300000, guid: ed01b77624ff60c4fbea4d74fb8a8ea7, type: 3}
+    - {fileID: 8300000, guid: 0b2971c93fb983441930e749e7560be9, type: 3}
+    - {fileID: 8300000, guid: 9b1667ab1844a12468ce8a98df364b60, type: 3}
+    - {fileID: 8300000, guid: e0e5c8b0bd8d5374aba5055d61e9bd85, type: 3}
+    Channel: 0

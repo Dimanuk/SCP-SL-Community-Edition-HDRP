@@ -1,0 +1,8 @@
+Comienzas siendo dócil y puedes enfurecerte si alguien ve tu rostro o te hace daño. La Furia te dota de muchas habilidades, lo que te ayuda a seguir las luces del transgresor antes de que tu Furia se calme.
+Intenta no llorar:Es difícil seguir con esto… pero apoyarte en una puerta te ayuda a calmarte, ya sea para esconderte... o para esperar a que alguien se acerque.
+Ataque:Arrasa con todo lo que se interponga en tu camino para llegar hasta los que te han hecho daño. Tus ataques destruirán puertas y matarán al instante a cualquier humano herido.
+Embestida:Cierrales las vías de escape, lo tienen merecido. Corres frenéticamente en línea recta durante una corta distancia, demoliendo todo lo que se te atraviese.
+Solo en FURIA
+Solo en DÓCIL
+Matener [key] entrar en FURIA.
+Matener [key] para forzar salir de FURIA.

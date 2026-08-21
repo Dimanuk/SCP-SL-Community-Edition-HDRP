@@ -1,0 +1,21 @@
+Nişan yakınlaştırması
+---
+Hasar
+Delme
+Atış oranı
+Geri tepme
+Geri tepme (Nişan alırken)
+Mermi doğruluğu
+İsabetlilik
+isabetlilik (Nişan alırken)
+Kuşanma süresi
+Ateş gürültüsü
+Şarjör kapasitesi
+Kuşanma süresi
+Şarjör değiştirme süresi
+---
+Nişan alma hızı
+Mermi yayılması
+Gidişat tutarlılığı
+Mermi sayısı
+Şarjör değiştirme hızı

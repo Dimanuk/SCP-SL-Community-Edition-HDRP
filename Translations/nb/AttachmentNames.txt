@@ -1,0 +1,44 @@
+Ingen~Standardalternativ med ingen effekter.
+Jernsikte~Et par justeringsmarkører som utgjør en enkel, lett sikteenhet.
+Punktsikte~Ikke-fortryllende reflekssikte med en liten belyst prikk som indikerer sikte.
+Holografisk Sikte~Ikke-forstørrende sikte med et holografisk trekk. Effektiv i nærkamp.
+Natt Sikte~Teleskopisk sikte forsterket med en enhet for nattsyn. Tunge, men effektive for alle lysforhold.
+Ammo Teller Sikte~Jernsikte med innebygd ammunisjonsteller.
+Teleskopisk Sikte~Tung sikte-enhet, gir optisk forstørrelse. Perfekt for langsiktig kamp, men begrenser sidesyn.
+Standard Skjefte~Vanlig Skjefte, gir bedre kontroll over våpenet når du sikter inn.
+Utvidet Skjefte~Gir bedre kontroll over våpenet når du sikter inn, men øker hvor lang tid det tar å ta opp våpenet.
+Tilbaketrukket Skjefte~Gjør våpenet mer kompakt, noe som øker mobiliteten.
+Lettvekts Skjefte~Reduserer vekten av våpenet, men gjør det vanskeligere å kontrollere rekylen når du sikter inn.
+Kraftig Skjefte~Økt vekt og lavere mobilitet, men gjør våpenet mer stabilt når du sikter inn.
+Rekylreduserende Skjefte~Skjefte utstyrt med system som forsøker å fordele kraft mellom individuelle skudd.
+Frontgrep~Vertikalt frem-håndtak. Gjør det enklere å håndtere rekyl.
+Lasersikte~Gir visuelt referansepunkt på målet, noe som hjelper til med hofte-skyting, men kan lett avsløre posisjonen din.
+Lommelykt~Vekselbare lyskilder. Øker den totale vekten av våpenet, men kan være livreddende i mørke områder.
+Ammo Teller~Ammunisjon telleapparat. Eksperimentell teknologi som har vist seg å være nyttig, særlig med magasiner med høy kapasitet.
+Standard Sylinder~Vanlig sylinder uten munnstykke.
+Utvidet Sylinder~Forbedrer den totale våpenkraften, men bidrar til lav mobilitet forårsaket av økt vekt og lengde.
+Lyddemper~Lydmoderator. Reduserer volumet fra skudd, men øker den totale vekten og lengden av våpenet.
+Flammedemper~Eliminerer munnstykke-blink. Gjør det lettere å skyte i mørket.
+Kompensator~Rekylkompensator. Bruker propellantgasser for å redusere rekyl, men øker skuddenes lydintensitet.
+Rekylforsterker~Øker skuddtakten noe som resulterer i mer skade per sekund, men våpenet er vanskeligere å kontrollere.
+FMJ Magasin~Standard magasin som inneholder kobberkledde blykuler.
+AP Magasin~Standardmagasin som inneholder rustningspenetrerende kuler.
+JHP magasin~Standard magasin som inneholder hulspiss kuler.
+Utvidet FMJ Magasin~Utvidet magasin magasin som inneholder kobberkledde blykuler.
+Utvidet AP Magasin~Utvidet magasin som inneholder rustningspenetrerende kuler.
+Utvidet JHP Magasin~Utvidet magasin som inneholder hulspiss kuler.
+FMJ Drum~Høykapasitets trommelmagasin som inneholder kobberkledde blykuler.
+AP Drum~Høyhastighets trommelmagasin som inneholder rustningspenetrerende kuler.
+JHP Drum~Høyhastighets trommelmagasin som inneholder hulspiss kuler.
+Lite FMJ Magazin~Lavkapasitets magasin som inneholder kobberkledde blykuler.
+Lite AP Magazin~Lavkapasitets magasin som inneholder rustningspenetrerende kuler.
+Lite JHP magasin~Lavkapasitets magasin som inneholder hulspiss kuler.
+4-Skudds Sylinderen~Holder færre kuler, men kan gjøre økt skade på pansrede fiender.
+6-Skudds Sylinderen~Den klassiske seks-skyteren.
+8-Skudds Sylinderen~Holder flere kuler, men den tyngre utløseren krever mer tid for nøyaktige skudd.
+Karbinmottaker~Vanlig karbinmottaker som er et kompromiss mellom våpenkraft og mobilitet.
+Riflemottaker~Fullstørrelse mottaker forbedrer våpenkraften og nøyaktigheten, men et tyngre gasssystem reduserer skuddtakten.
+Kort løp~Forkortet versjon av standard løp, brukt til å forbedre hastighet og mobilitet.
+Trangboring~Øker total radius av kulespredning, men forbedrer mønsterets konsistens.
+Forlenget løp~Lettere reduserer kulespredning, men øker våpen-vekt og lengde.
+Ingen Skjefte~Kort konfigurasjon kommer med høy mobilitet, men fjerning av skjefte på en rifle gjør at den er umulig å sikkert sikte inn.
